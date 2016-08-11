@@ -1,0 +1,56 @@
+(lp0
+S'Rum Barrel'
+p1
+aF2.6
+aI108
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'rhum cubain'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons verts'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS"jus d'oranges"
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'jus de pamplemousses'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p21
+aS'sirop de miel'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'cl de'
+p25
+aS"jus d'ananas"
+p26
+aa(lp27
+S'2.0'
+p28
+aS'cl de'
+p29
+aS'tonic (schweppes)'
+p30
+aaa.

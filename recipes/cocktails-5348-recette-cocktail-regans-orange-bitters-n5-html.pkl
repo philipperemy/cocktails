@@ -1,0 +1,70 @@
+(lp0
+S'Regan\xe2\x80\x99s Orange Bitters N\xc2\xb05'
+p1
+aF3.8
+aI5
+a(lp2
+(lp3
+S'250.0'
+p4
+aS"grammes d'"
+p5
+aS"\xc3\xa9corce d'orange"
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de graines de'
+p9
+aS'cardamome'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de graines de'
+p13
+aS'cumin'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p17
+aS'coriandre'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de copeaux de'
+p21
+aS'quassia'
+p22
+aa(lp23
+S'1.0'
+p24
+aS"cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de poudre d'\xc3\xa9cor"
+p25
+aS'quinquina'
+p26
+aa(lp27
+S'1.0'
+p28
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p29
+aS'racine de gentiane'
+p30
+aa(lp31
+S'50.0'
+p32
+aS'cl de'
+p33
+aS'vodka'
+p34
+aa(lp35
+S'200.0'
+p36
+aS'grammes de'
+p37
+aS'sucre'
+p38
+aaa.

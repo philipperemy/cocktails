@@ -1,0 +1,70 @@
+(lp0
+S'Liqueur de londres'
+p1
+aF2.5
+aI2
+a(lp2
+(lp3
+S'100.0'
+p4
+aS"grammes d'"
+p5
+aS'amandes am\xc3\xa8res'
+p6
+aa(lp7
+S'5.0'
+p8
+aS"grammes de graines d'"
+p9
+aS'ang\xc3\xa9lique'
+p10
+aa(lp11
+S'2.0'
+p12
+aS"grammes d'"
+p13
+aS'anis vert'
+p14
+aa(lp15
+S'60.0'
+p16
+aS'grammes de'
+p17
+aS'r\xc3\xa9glisse'
+p18
+aa(lp19
+S'50.0'
+p20
+aS"cl d'"
+p21
+aS'eau'
+p22
+aa(lp23
+S'5.0'
+p24
+aS'grammes de'
+p25
+aS'coriandre'
+p26
+aa(lp27
+S'1.0'
+p28
+aS"litre d'"
+p29
+aS'eau-de-vie'
+p30
+aa(lp31
+S'1.0'
+p32
+aS'None'
+p33
+aS'citron'
+p34
+aa(lp35
+S'500.0'
+p36
+aS'grammes de'
+p37
+aS'sucre'
+p38
+aaa.

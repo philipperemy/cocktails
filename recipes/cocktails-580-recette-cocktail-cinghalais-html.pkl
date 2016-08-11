@@ -1,0 +1,42 @@
+(lp0
+S'Cinghalais'
+p1
+aF3.4
+aI5
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'cl de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'None'
+p9
+aS'th\xc3\xa9'
+p10
+aa(lp11
+S'0.2'
+p12
+aS'None'
+p13
+aS'jus de citrons'
+p14
+aa(lp15
+S'0.2'
+p16
+aS'None'
+p17
+aS"jus d'oranges"
+p18
+aa(lp19
+S'0.4'
+p20
+aS'None'
+p21
+aS"jus d'ananas"
+p22
+aaa.

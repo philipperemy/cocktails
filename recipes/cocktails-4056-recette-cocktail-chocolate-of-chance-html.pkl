@@ -1,0 +1,21 @@
+(lp0
+S'Chocolate of chance'
+p1
+aF5.0
+aI3
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'liqueur de cacao blanc'
+p6
+aa(lp7
+S'8.0'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Sirop de bleuet'
+p1
+aF4.2
+aI5
+a(lp2
+(lp3
+S'400.0'
+p4
+aS'grammes de p\xc3\xa9tales de'
+p5
+aS'bleuets'
+p6
+aa(lp7
+S'50.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'500.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aaa.

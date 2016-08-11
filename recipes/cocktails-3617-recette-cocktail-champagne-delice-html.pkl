@@ -1,0 +1,42 @@
+(lp0
+S'Champagne d\xc3\xa9lice'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'eau-de-vie \xc3\xa0 40\xc2\xb0'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me de framboise'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'gouttes de'
+p17
+aS'sirop de framboises'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'pinc\xc3\xa9es de'
+p21
+aS'sucre'
+p22
+aaa.

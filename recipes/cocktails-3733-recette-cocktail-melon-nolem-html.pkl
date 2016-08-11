@@ -1,0 +1,35 @@
+(lp0
+S'Melon Nolem'
+p1
+aF3.8
+aI9
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'melon'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p9
+aS'sirop de miel'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'yaourt nature'
+p14
+aa(lp15
+S'20.0'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

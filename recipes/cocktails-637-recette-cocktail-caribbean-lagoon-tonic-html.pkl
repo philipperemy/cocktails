@@ -1,0 +1,35 @@
+(lp0
+S'Caribbean Lagoon Tonic'
+p1
+aF3.4
+aI410
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'tonic (schweppes)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cura\xc3\xa7ao bleu'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cl de'
+p17
+aS'liqueur de citrons (limoncello)'
+p18
+aaa.

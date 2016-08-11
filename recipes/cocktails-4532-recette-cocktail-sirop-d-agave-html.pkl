@@ -1,0 +1,14 @@
+(lp0
+S"Sirop d'agave"
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'agave bleu'
+p6
+aaa.

@@ -1,0 +1,49 @@
+(lp0
+S'Vinaigre de gingembre'
+p1
+aF3.3
+aI18
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p5
+aS'sel'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'litre de'
+p9
+aS'vinaigre blanc'
+p10
+aa(lp11
+S'60.0'
+p12
+aS'grammes de'
+p13
+aS'gingembre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 soupe dz'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p21
+aS'clous de girofle'
+p22
+aa(lp23
+S'0.5'
+p24
+aS'b\xc3\xa2ton de'
+p25
+aS'cannelle'
+p26
+aaa.

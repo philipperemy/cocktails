@@ -1,0 +1,42 @@
+(lp0
+S'Lait de poule v\xc3\xa9g\xc3\xa9talien'
+p1
+aF3.1
+aI25
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS'lait de soja'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p9
+aS'ma\xc3\xafzena'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'sirop de noix de macadamia'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'b\xc3\xa2ton de'
+p21
+aS'cannelle'
+p22
+aaa.

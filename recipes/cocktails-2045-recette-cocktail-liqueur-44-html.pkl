@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur 44'
+p1
+aF3.1
+aI295
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'orange'
+p6
+aa(lp7
+S'44.0'
+p8
+aS'grains de'
+p9
+aS'caf\xc3\xa9'
+p10
+aa(lp11
+S'44.0'
+p12
+aS'morceaux de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS"litre d'"
+p17
+aS'eau-de-vie'
+p18
+aaa.

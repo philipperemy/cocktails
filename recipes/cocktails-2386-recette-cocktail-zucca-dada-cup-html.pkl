@@ -1,0 +1,28 @@
+(lp0
+S'Zucca dada cup'
+p1
+aF1.0
+aI2
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'de'
+p5
+aS'zucca rabarbaro'
+p6
+aa(lp7
+S'0.666666666667'
+p8
+aS'de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'limonade (soda, sprite, 7up)'
+p14
+aaa.

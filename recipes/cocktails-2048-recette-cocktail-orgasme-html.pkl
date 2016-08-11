@@ -1,0 +1,28 @@
+(lp0
+S'Orgasme'
+p1
+aF3.1
+aI398
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'liqueur de menthe verte (get 27)'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'tequila'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me de whisky (baileys)'
+p14
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Vodka caramel au kirsch'
+p1
+aF3.6
+aI218
+a(lp2
+(lp3
+S'50.0'
+p4
+aS'grammes de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'cl de'
+p9
+aS'kirsch'
+p10
+aa(lp11
+S'75.0'
+p12
+aS'cl de'
+p13
+aS'vodka'
+p14
+aaa.

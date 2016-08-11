@@ -1,0 +1,49 @@
+(lp0
+S'Lacta Punch'
+p1
+aF2.8
+aI6
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'rhum ambr\xc3\xa9'
+p14
+aa(lp15
+S'6.0'
+p16
+aS'cl de'
+p17
+aS'lait entier'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'sucre roux (cassonade)'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'pinc\xc3\xa9e de'
+p25
+aS'noix de muscade r\xc3\xa2p\xc3\xa9e'
+p26
+aaa.

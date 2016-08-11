@@ -1,0 +1,35 @@
+(lp0
+S'Rhum coco'
+p1
+aF2.9
+aI185
+a(lp2
+(lp3
+S'75.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'noix de coco'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'gousse de'
+p13
+aS'vanille'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'sucre'
+p18
+aaa.

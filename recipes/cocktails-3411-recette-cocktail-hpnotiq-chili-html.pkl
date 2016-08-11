@@ -1,0 +1,21 @@
+(lp0
+S'Hpnotiq Chili'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'hpnotiq'
+p6
+aa(lp7
+S'None'
+p8
+aS"jus d'un demi"
+p9
+aS'citrons'
+p10
+aaa.

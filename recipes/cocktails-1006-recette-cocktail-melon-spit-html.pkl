@@ -1,0 +1,42 @@
+(lp0
+S'Melon spit'
+p1
+aF2.5
+aI2
+a(lp2
+(lp3
+S'30.0'
+p4
+aS'g de'
+p5
+aS'yaourt nature'
+p6
+aa(lp7
+S'20.0'
+p8
+aS'g de'
+p9
+aS'pamplemousses'
+p10
+aa(lp11
+S'40.0'
+p12
+aS"g d'"
+p13
+aS"jus d'oranges"
+p14
+aa(lp15
+S'70.0'
+p16
+aS'g de'
+p17
+aS'melons'
+p18
+aa(lp19
+S'40.0'
+p20
+aS'g de'
+p21
+aS'betterave'
+p22
+aaa.

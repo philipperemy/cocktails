@@ -1,0 +1,49 @@
+(lp0
+S'Milk-shake ananas, banane, kiwi'
+p1
+aF3.6
+aI28
+a(lp2
+(lp3
+S'60.0'
+p4
+aS'cl de'
+p5
+aS'lair'
+p6
+aa(lp7
+S'30.0'
+p8
+aS'grammes de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'boules de'
+p13
+aS'sorbet \xc3\xa0 la vanille'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'bo\xc3\xaete de'
+p17
+aS'ananas au sirop'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'None'
+p21
+aS'banane'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'None'
+p25
+aS'kiwi'
+p26
+aaa.

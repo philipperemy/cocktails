@@ -1,0 +1,21 @@
+(lp0
+S'Vinaigre de vin'
+p1
+aF3.5
+aI6
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'bouteilles de'
+p5
+aS'vin'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'bouteille de'
+p9
+aS'vinaigre'
+p10
+aaa.

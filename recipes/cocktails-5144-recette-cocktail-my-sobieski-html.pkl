@@ -1,0 +1,49 @@
+(lp0
+S'My Sobieski'
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'anisette (berger blanc)'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sirop de sucre de canne'
+p14
+aa(lp15
+S'2.5'
+p16
+aS'cm de'
+p17
+aS'gingembre'
+p18
+aa(lp19
+S'2.5'
+p20
+aS'cm de'
+p21
+aS'citronnelle'
+p22
+aa(lp23
+S'9.0'
+p24
+aS"d\xc3\xa9s d'"
+p25
+aS'ananas'
+p26
+aaa.

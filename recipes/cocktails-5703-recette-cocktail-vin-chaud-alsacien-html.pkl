@@ -1,0 +1,56 @@
+(lp0
+S'Vin chaud alsacien'
+p1
+aF3.6
+aI7
+a(lp2
+(lp3
+S'75.0'
+p4
+aS'cl de'
+p5
+aS'vin rouge'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'cl de'
+p13
+aS"jus d'oranges"
+p14
+aa(lp15
+S'3.0'
+p16
+aS'cl de'
+p17
+aS'sirop de cannelle'
+p18
+aa(lp19
+S'3.0'
+p20
+aS'cl de'
+p21
+aS'sirop de cardamome'
+p22
+aa(lp23
+S'3.0'
+p24
+aS'cl de'
+p25
+aS'sirop de gingembre'
+p26
+aa(lp27
+S'1.0'
+p28
+aS"cl d'"
+p29
+aS'angostura bitters'
+p30
+aaa.

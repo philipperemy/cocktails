@@ -1,0 +1,28 @@
+(lp0
+S'Chocolat de Louis XV'
+p1
+aF3.6
+aI5
+a(lp2
+(lp3
+S'300.0'
+p4
+aS'grammes de'
+p5
+aS'chocolat'
+p6
+aa(lp7
+S'30.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"jaunes d'"
+p13
+aS'oeufs'
+p14
+aaa.

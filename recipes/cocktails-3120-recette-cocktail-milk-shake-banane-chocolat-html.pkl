@@ -1,0 +1,42 @@
+(lp0
+S'Milk shake banane chocolat'
+p1
+aF4.0
+aI108
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'banane'
+p6
+aa(lp7
+S'32.0'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'yaourt nature'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'sachet de'
+p17
+aS'sucre vanille'
+p18
+aa(lp19
+S'3.0'
+p20
+aS'cl de'
+p21
+aS'chocolat en poudre'
+p22
+aaa.

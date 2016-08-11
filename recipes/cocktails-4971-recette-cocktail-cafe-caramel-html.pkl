@@ -1,0 +1,35 @@
+(lp0
+S'Caf\xc3\xa9 Caramel'
+p1
+aF3.6
+aI22
+a(lp2
+(lp3
+S'15.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'sirop de caramel'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'trait de'
+p13
+aS'sirop de cannelle'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'None'
+p17
+aS'caf\xc3\xa9'
+p18
+aaa.

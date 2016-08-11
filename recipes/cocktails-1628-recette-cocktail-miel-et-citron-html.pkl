@@ -1,0 +1,21 @@
+(lp0
+S'Miel et citron'
+p1
+aF3.1
+aI14
+a(lp2
+(lp3
+S'None'
+p4
+aS'quelques cuill\xc3\xa8res de'
+p5
+aS'sirop de miel'
+p6
+aa(lp7
+S'14.0'
+p8
+aS'verres de'
+p9
+aS'jus de citrons'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Portugal Spleen'
+p1
+aF3.5
+aI6
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'porto blanc'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'licor beir\xc3\xa3o'
+p10
+aa(lp11
+S'None'
+p12
+aS"jus d'un"
+p13
+aS'citrons'
+p14
+aaa.

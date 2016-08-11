@@ -1,0 +1,28 @@
+(lp0
+S'Scotch milk'
+p1
+aF2.3
+aI3
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'oz de'
+p5
+aS'buttershot'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'oz de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'boule de cr\xc3\xa8me glac\xc3\xa9'
+p13
+aS'butter scotch'
+p14
+aaa.

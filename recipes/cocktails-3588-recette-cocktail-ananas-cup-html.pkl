@@ -1,0 +1,35 @@
+(lp0
+S'Ananas Cup'
+p1
+aF2.9
+aI38
+a(lp2
+(lp3
+S'35.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'35.0'
+p8
+aS'cl de'
+p9
+aS'sirop de sucre de canne'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'ananas'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'bouteille de'
+p17
+aS'vin mousseux'
+p18
+aaa.

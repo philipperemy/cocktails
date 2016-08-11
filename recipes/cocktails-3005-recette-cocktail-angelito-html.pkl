@@ -1,0 +1,21 @@
+(lp0
+S'Angelito'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'cr\xc3\xa8me de p\xc3\xaache'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aaa.

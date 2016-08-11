@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de groseilles'
+p1
+aF2.8
+aI33
+a(lp2
+(lp3
+S'500.0'
+p4
+aS'grammes de'
+p5
+aS'groseilles'
+p6
+aa(lp7
+S'50.0'
+p8
+aS"cl d'"
+p9
+aS'alcool \xc3\xa0 90\xc2\xb0'
+p10
+aa(lp11
+S'350.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'15.0'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

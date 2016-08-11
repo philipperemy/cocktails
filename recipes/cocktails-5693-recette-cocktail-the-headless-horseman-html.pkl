@@ -1,0 +1,28 @@
+(lp0
+S'The Headless Horseman'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'vodka noire'
+p6
+aa(lp7
+S'3.0'
+p8
+aS"traits d'"
+p9
+aS'angostura bitters'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'ginger ale (canada dry)'
+p14
+aaa.

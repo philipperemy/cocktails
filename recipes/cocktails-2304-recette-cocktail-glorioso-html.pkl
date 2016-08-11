@@ -1,0 +1,56 @@
+(lp0
+S'Glorioso'
+p1
+aF3.8
+aI21
+a(lp2
+(lp3
+S'0.25'
+p4
+aS'volume de'
+p5
+aS'angostura bitters'
+p6
+aa(lp7
+S'0.25'
+p8
+aS'volume de'
+p9
+aS'royal stock'
+p10
+aa(lp11
+S'0.25'
+p12
+aS'volume de'
+p13
+aS'whisky (bourbon, whiskey)'
+p14
+aa(lp15
+S'0.125'
+p16
+aS'volume de'
+p17
+aS'vermouth blanc (martini, cinzano)'
+p18
+aa(lp19
+S'0.125'
+p20
+aS'volume de'
+p21
+aS'amaretto'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'zeste de'
+p25
+aS'citrons'
+p26
+aa(lp27
+S'1.0'
+p28
+aS'None'
+p29
+aS'cerises confite'
+p30
+aaa.

@@ -1,0 +1,42 @@
+(lp0
+S"Carre d'as"
+p1
+aF3.4
+aI11
+a(lp2
+(lp3
+S'3.5'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS"sirop d'orange sanguine"
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS"sirop d'orgeat"
+p14
+aa(lp15
+S'1.5'
+p16
+aS'cl de'
+p17
+aS'triple sec (cointreau, grand marnier)'
+p18
+aa(lp19
+S'1.5'
+p20
+aS'cl de'
+p21
+aS'vermouth blanc (martini, cinzano)'
+p22
+aaa.

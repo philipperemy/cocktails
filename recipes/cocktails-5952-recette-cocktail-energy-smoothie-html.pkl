@@ -1,0 +1,42 @@
+(lp0
+S'Energy Smoothie'
+p1
+aF2.8
+aI4
+a(lp2
+(lp3
+S'8.0'
+p4
+aS'd\xc3\xa9s de'
+p5
+aS'gingembre'
+p6
+aa(lp7
+S'6.0'
+p8
+aS'morceaux de'
+p9
+aS'curcuma'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'None'
+p13
+aS'citrons verts'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p17
+aS'miel'
+p18
+aa(lp19
+S'1.0'
+p20
+aS"litre d'"
+p21
+aS'eau'
+p22
+aaa.

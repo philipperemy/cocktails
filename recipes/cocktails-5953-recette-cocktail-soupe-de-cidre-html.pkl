@@ -1,0 +1,35 @@
+(lp0
+S'Soupe de cidre'
+p1
+aF3.0
+aI242
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'bouteille de'
+p5
+aS'cidre'
+p6
+aa(lp7
+S'30.0'
+p8
+aS'cl de'
+p9
+aS"jus d'oranges"
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'cognac'
+p14
+aa(lp15
+S'15.0'
+p16
+aS'cl de'
+p17
+aS'sirop de sucre de canne'
+p18
+aaa.

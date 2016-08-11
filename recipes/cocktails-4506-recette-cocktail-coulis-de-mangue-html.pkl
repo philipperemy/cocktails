@@ -1,0 +1,35 @@
+(lp0
+S'Coulis de mangue'
+p1
+aF3.9
+aI11
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'None'
+p9
+aS'mangues'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"cuill\xc3\xa8re \xc3\xa0 soupe d'"
+p13
+aS'eau'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p17
+aS'sucre'
+p18
+aaa.

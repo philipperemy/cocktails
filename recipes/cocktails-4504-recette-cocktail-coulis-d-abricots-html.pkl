@@ -1,0 +1,28 @@
+(lp0
+S"Coulis d'abricots"
+p1
+aF3.4
+aI16
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'75.0'
+p8
+aS'grammes de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'500.0'
+p12
+aS"grammes d'"
+p13
+aS'abricots'
+p14
+aaa.

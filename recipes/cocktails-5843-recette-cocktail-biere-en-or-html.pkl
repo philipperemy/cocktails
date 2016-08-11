@@ -1,0 +1,35 @@
+(lp0
+S'Bi\xc3\xa8re en or'
+p1
+aF2.0
+aI5
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'gouttes de'
+p9
+aS'tabasco'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'vodka'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cl de'
+p17
+aS'sirop de fleurs de sureau'
+p18
+aaa.

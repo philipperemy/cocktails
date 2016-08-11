@@ -1,0 +1,21 @@
+(lp0
+S'From the ice'
+p1
+aF3.3
+aI19
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'boules de'
+p5
+aS'sorbet \xc3\xa0 la vanille'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'cl de'
+p9
+aS'advocaat'
+p10
+aaa.

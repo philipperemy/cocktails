@@ -1,0 +1,28 @@
+(lp0
+S'Jacqueline rose'
+p1
+aF3.1
+aI219
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'vin ros\xc3\xa9'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'limonade (soda, sprite, 7up)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sirop de grenadine'
+p14
+aaa.

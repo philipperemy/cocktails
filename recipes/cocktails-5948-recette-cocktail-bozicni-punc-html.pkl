@@ -1,0 +1,63 @@
+(lp0
+S'Bozicni Punc'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'litre de'
+p5
+aS'vin rouge'
+p6
+aa(lp7
+S'50.0'
+p8
+aS'cl de'
+p9
+aS'th\xc3\xa9 noir'
+p10
+aa(lp11
+S'50.0'
+p12
+aS'cl de'
+p13
+aS'rhum brun'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'None'
+p17
+aS'clous de girofle'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'None'
+p21
+aS'orange'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'None'
+p25
+aS'citron'
+p26
+aa(lp27
+S'400.0'
+p28
+aS'grammes de'
+p29
+aS'sucre'
+p30
+aa(lp31
+S'1.0'
+p32
+aS'b\xc3\xa2ton de'
+p33
+aS'cannelle'
+p34
+aaa.

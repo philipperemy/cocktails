@@ -1,0 +1,21 @@
+(lp0
+S'Amazodka'
+p1
+aF3.7
+aI6
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'cl de'
+p9
+aS'guarana'
+p10
+aaa.

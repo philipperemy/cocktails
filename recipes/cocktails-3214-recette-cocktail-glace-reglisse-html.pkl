@@ -1,0 +1,42 @@
+(lp0
+S'Glace r\xc3\xa9glisse'
+p1
+aF3.5
+aI46
+a(lp2
+(lp3
+S'150.0'
+p4
+aS'grammes de'
+p5
+aS'rouleaux de r\xc3\xa9glisses'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'None'
+p9
+aS'oeufs'
+p10
+aa(lp11
+S'25.0'
+p12
+aS'cl de'
+p13
+aS'lait'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'sachets de'
+p17
+aS'sucre vanille'
+p18
+aa(lp19
+S'30.0'
+p20
+aS'cl de'
+p21
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p22
+aaa.

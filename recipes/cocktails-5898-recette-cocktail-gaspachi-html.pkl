@@ -1,0 +1,42 @@
+(lp0
+S'Gaspachi'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'None'
+p5
+aS'poivron rouge'
+p6
+aa(lp7
+S'200.0'
+p8
+aS'grammes de'
+p9
+aS'framboises'
+p10
+aa(lp11
+S'25.0'
+p12
+aS'cl de'
+p13
+aS'jus de l\xc3\xa9gumes'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'gouttes de'
+p17
+aS'tabasco'
+p18
+aa(lp19
+S'None'
+p20
+aS'quelques brins de'
+p21
+aS'ciboulette'
+p22
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Mango Lassi'
+p1
+aF2.7
+aI30
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'mangue'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'20.0'
+p12
+aS'cl de'
+p13
+aS'lait'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'pots de'
+p17
+aS'yaourt nature'
+p18
+aaa.

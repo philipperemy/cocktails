@@ -1,0 +1,42 @@
+(lp0
+S'Cassandre'
+p1
+aF4.0
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'tonic (schweppes)'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'sirop de fraises'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'jus de fruit de la passion (maracuja)'
+p14
+aa(lp15
+S'1.5'
+p16
+aS'cl de'
+p17
+aS'cr\xc3\xa8me de p\xc3\xaache de vigne'
+p18
+aa(lp19
+S'1.5'
+p20
+aS'cl de'
+p21
+aS'safari'
+p22
+aaa.

@@ -1,0 +1,49 @@
+(lp0
+S'Green touch'
+p1
+aF2.7
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'sirop de gingembre'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'pinc\xc3\xa9es de'
+p9
+aS'feuilles de menthe'
+p10
+aa(lp11
+S'10.0'
+p12
+aS'grammes de'
+p13
+aS'pommes'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'cacha\xc3\xa7a'
+p18
+aa(lp19
+S'3.0'
+p20
+aS'cl de'
+p21
+aS'jus de lychees (litchis)'
+p22
+aa(lp23
+S'3.0'
+p24
+aS'cl de'
+p25
+aS'aloe vera'
+p26
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Aperol Spritz'
+p1
+aF2.9
+aI1660
+a(lp2
+(lp3
+S'2.0'
+p4
+aS"cl d'"
+p5
+aS'eau gazeuse (perrier, salvetat)'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'vin blanc'
+p10
+aa(lp11
+S'3.0'
+p12
+aS"cl d'"
+p13
+aS'aperol'
+p14
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Apple jack (Applejack)'
+p1
+aF4.4
+aI106
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'jus'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'calvados'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sirop de grenadine'
+p14
+aaa.

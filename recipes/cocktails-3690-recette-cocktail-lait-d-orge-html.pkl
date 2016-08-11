@@ -1,0 +1,21 @@
+(lp0
+S"Lait d'orge"
+p1
+aF3.9
+aI15
+a(lp2
+(lp3
+S'25.0'
+p4
+aS"grammes d'"
+p5
+aS'orge'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aaa.

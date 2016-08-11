@@ -1,0 +1,28 @@
+(lp0
+S"Vin d'absinthe"
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'30.0'
+p4
+aS"cl d'"
+p5
+aS'absinthe'
+p6
+aa(lp7
+S'60.0'
+p8
+aS"cl d'"
+p9
+aS'alcool \xc3\xa0 60\xc2\xb0'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'litres de'
+p13
+aS'vin blanc'
+p14
+aaa.

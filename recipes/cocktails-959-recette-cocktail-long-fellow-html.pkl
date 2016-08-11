@@ -1,0 +1,42 @@
+(lp0
+S'Long fellow'
+p1
+aF4.1
+aI7
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'ginger ale (canada dry)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS"liqueur d'abricots (abricot brandy)"
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cl de'
+p17
+aS'liqueur de cerises (cherry brandy)'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'jus de citrons'
+p22
+aaa.

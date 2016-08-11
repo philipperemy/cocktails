@@ -1,0 +1,21 @@
+(lp0
+S'Noyau sour'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'0.666666666667'
+p4
+aS'de'
+p5
+aS'noyau de poissy'
+p6
+aa(lp7
+S'0.333333333333'
+p8
+aS'de'
+p9
+aS'jus de citron'
+p10
+aaa.

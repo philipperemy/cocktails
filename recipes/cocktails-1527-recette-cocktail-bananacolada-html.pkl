@@ -1,0 +1,35 @@
+(lp0
+S'Bananacolada'
+p1
+aF3.3
+aI131
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'banane'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'lait de coco'
+p10
+aa(lp11
+S'8.0'
+p12
+aS'cl de'
+p13
+aS"jus d'ananas"
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'rhum ambr\xc3\xa9'
+p18
+aaa.

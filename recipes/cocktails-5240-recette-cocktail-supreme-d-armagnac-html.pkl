@@ -1,0 +1,28 @@
+(lp0
+S"Supr\xc3\xaame d'armagnac"
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'4.0'
+p4
+aS"cl d'"
+p5
+aS'armagnac'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'jus de pamplemousses'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"cl d'"
+p13
+aS"eau de fleur d'oranger"
+p14
+aaa.

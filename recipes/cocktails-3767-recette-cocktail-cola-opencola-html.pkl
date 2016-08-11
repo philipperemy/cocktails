@@ -1,0 +1,42 @@
+(lp0
+S'Cola : OpenCola'
+p1
+aF3.6
+aI18
+a(lp2
+(lp3
+S'17.5'
+p4
+aS"ml d'"
+p5
+aS'acide phosphorique'
+p6
+aa(lp7
+S'30.0'
+p8
+aS'ml de'
+p9
+aS'colorant caramel'
+p10
+aa(lp11
+S'2.36'
+p12
+aS'kilos de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'2.28'
+p16
+aS"litres d'"
+p17
+aS'eau'
+p18
+aa(lp19
+S'10.0'
+p20
+aS'ml de'
+p21
+aS'm\xc3\xa9lange sapide'
+p22
+aaa.

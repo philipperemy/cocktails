@@ -1,0 +1,42 @@
+(lp0
+S'Advocaat drink'
+p1
+aF3.6
+aI7
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"litre d'"
+p5
+aS'eau-de-vie'
+p6
+aa(lp7
+S'6.0'
+p8
+aS"jaunes d'"
+p9
+aS'oeufs'
+p10
+aa(lp11
+S'150.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'3.0'
+p16
+aS"dl d'"
+p17
+aS'eau'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'petit morceau de'
+p21
+aS'vanille'
+p22
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Kiry'
+p1
+aF3.3
+aI94
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'sirop de bubble gum'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'champagne'
+p10
+aaa.

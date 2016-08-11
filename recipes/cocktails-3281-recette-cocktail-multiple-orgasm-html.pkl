@@ -1,0 +1,35 @@
+(lp0
+S'Multiple Orgasm'
+p1
+aF3.4
+aI5
+a(lp2
+(lp3
+S'2.0'
+p4
+aS"cl d'"
+p5
+aS'triple sec (cointreau, grand marnier)'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'cr\xc3\xa8me de whisky (baileys)'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'lait'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'cl de'
+p17
+aS'jus de fraises'
+p18
+aaa.

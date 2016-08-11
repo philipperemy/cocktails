@@ -1,0 +1,42 @@
+(lp0
+S'Europ 92'
+p1
+aF4.0
+aI23
+a(lp2
+(lp3
+S'None'
+p4
+aS'jus'
+p5
+aS"jus d'oranges"
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'sirop de fraises'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'liqueur de coco (cocogif, malibu)'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'amaretto'
+p22
+aaa.

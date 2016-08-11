@@ -1,0 +1,21 @@
+(lp0
+S"Sirop d'\xc3\xa9picea"
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS"pousses d'"
+p5
+aS'\xc3\xa9pic\xc3\xa9a'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'sucre'
+p10
+aaa.

@@ -1,0 +1,49 @@
+(lp0
+S"Vampire d'Halloween"
+p1
+aF3.5
+aI48
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'lychees (litchis)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'dragibus (bonbons)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'car en sac (bonbons)'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS"sirop d'\xc3\xa9pices (spicy)"
+p18
+aa(lp19
+S'5.0'
+p20
+aS'cl de'
+p21
+aS'jus de cranberry (canneberges)'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'cl de'
+p25
+aS'vodka'
+p26
+aaa.

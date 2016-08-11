@@ -1,0 +1,42 @@
+(lp0
+S'Hot milk special'
+p1
+aF3.5
+aI11
+a(lp2
+(lp3
+S'20.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'noix de'
+p13
+aS'beurre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'gousse de'
+p17
+aS'vanille'
+p18
+aa(lp19
+S'None'
+p20
+aS'None'
+p21
+aS'cr\xc3\xa8me chantilly'
+p22
+aaa.

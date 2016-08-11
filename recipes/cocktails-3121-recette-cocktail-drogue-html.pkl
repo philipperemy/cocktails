@@ -1,0 +1,35 @@
+(lp0
+S'Drogue'
+p1
+aF3.4
+aI27
+a(lp2
+(lp3
+S'100.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'gousse de'
+p9
+aS'vanille'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'b\xc3\xa2tons de cannelle'
+p14
+aa(lp15
+S'200.0'
+p16
+aS'grammes de'
+p17
+aS'chocolat'
+p18
+aaa.

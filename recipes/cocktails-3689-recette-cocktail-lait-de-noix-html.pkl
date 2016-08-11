@@ -1,0 +1,21 @@
+(lp0
+S'Lait de noix'
+p1
+aF3.8
+aI9
+a(lp2
+(lp3
+S'80.0'
+p4
+aS'grammes de'
+p5
+aS'cerneaux de noix'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Bobby burns'
+p1
+aF3.4
+aI15
+a(lp2
+(lp3
+S'1.5'
+p4
+aS'cl de'
+p5
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'vermouth rouge (martini, cinzano)'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'whisky (bourbon, whiskey)'
+p14
+aaa.

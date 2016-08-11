@@ -1,0 +1,35 @@
+(lp0
+S'G\xc3\xa9nie'
+p1
+aF3.8
+aI6
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'liqueur de pistaches'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sirop de miel'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'bi\xc3\xa8re'
+p18
+aaa.

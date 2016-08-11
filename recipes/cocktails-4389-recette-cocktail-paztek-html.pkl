@@ -1,0 +1,28 @@
+(lp0
+S'Paztek'
+p1
+aF3.1
+aI7
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'mangalore'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de past\xc3\xa8ques'
+p14
+aaa.

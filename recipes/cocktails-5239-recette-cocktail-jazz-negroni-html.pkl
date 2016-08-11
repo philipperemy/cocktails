@@ -1,0 +1,21 @@
+(lp0
+S'Jazz Negroni'
+p1
+aF2.9
+aI19
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'orange'
+p6
+aa(lp7
+S'7.0'
+p8
+aS'cl de'
+p9
+aS'j\xc3\xa4germeister'
+p10
+aaa.

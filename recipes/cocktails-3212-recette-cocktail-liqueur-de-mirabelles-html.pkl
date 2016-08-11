@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de mirabelles'
+p1
+aF3.6
+aI7
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'kilo de noyaux de'
+p5
+aS'mirabelles'
+p6
+aa(lp7
+S'0.75'
+p8
+aS"de litre d'"
+p9
+aS'eau-de-vie'
+p10
+aa(lp11
+S'0.25'
+p12
+aS"de litre d'"
+p13
+aS'eau-de-vie de mirabelles'
+p14
+aa(lp15
+S'250.0'
+p16
+aS'grammes de'
+p17
+aS'sucre'
+p18
+aaa.

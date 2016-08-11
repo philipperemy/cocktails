@@ -1,0 +1,35 @@
+(lp0
+S'123'
+p1
+aF3.3
+aI61
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'cl de'
+p5
+aS'angostura bitters'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'calvados'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'pinc\xc3\xa9e de'
+p17
+aS'noix de muscade r\xc3\xa2p\xc3\xa9e'
+p18
+aaa.

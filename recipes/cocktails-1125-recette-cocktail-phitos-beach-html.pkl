@@ -1,0 +1,35 @@
+(lp0
+S'Phitos beach'
+p1
+aF3.4
+aI11
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS"jus d'oranges"
+p6
+aa(lp7
+S'2.5'
+p8
+aS'cl de'
+p9
+aS'jus de pamplemousses'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de framboises'
+p14
+aa(lp15
+S'1.5'
+p16
+aS'cl de'
+p17
+aS'vodka'
+p18
+aaa.

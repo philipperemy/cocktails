@@ -1,0 +1,21 @@
+(lp0
+S'Colonel'
+p1
+aF2.5
+aI13
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'boules de'
+p9
+aS'sorbet citron'
+p10
+aaa.

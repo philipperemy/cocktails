@@ -1,0 +1,28 @@
+(lp0
+S'Bodega verte'
+p1
+aF3.3
+aI6
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'cl de'
+p9
+aS'jus de pamplemousses'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'sirop de bananes'
+p14
+aaa.

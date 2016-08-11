@@ -1,0 +1,35 @@
+(lp0
+S'American grog'
+p1
+aF3.2
+aI13
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'eau'
+p6
+aa(lp7
+S'4.5'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'None'
+p13
+aS'citron'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'morceau de'
+p17
+aS'sucre'
+p18
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Vodka poivre'
+p1
+aF3.7
+aI11
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'litre de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'grains de'
+p9
+aS'poivre'
+p10
+aaa.

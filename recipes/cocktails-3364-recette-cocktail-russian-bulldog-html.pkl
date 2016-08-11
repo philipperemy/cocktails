@@ -1,0 +1,35 @@
+(lp0
+S'Russian Bulldog'
+p1
+aF3.6
+aI12
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'None'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'0.333333333333'
+p8
+aS'None'
+p9
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p10
+aa(lp11
+S'0.333333333333'
+p12
+aS'None'
+p13
+aS'lait'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'cola (coca cola, pepsi)'
+p18
+aaa.

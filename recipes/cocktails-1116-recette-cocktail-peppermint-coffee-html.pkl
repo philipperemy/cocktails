@@ -1,0 +1,35 @@
+(lp0
+S'Peppermint coffee'
+p1
+aF3.0
+aI5
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cr\xc3\xa8me chantilly'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'sirop de menthe'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'tasse de'
+p17
+aS'caf\xc3\xa9'
+p18
+aaa.

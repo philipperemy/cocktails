@@ -1,0 +1,28 @@
+(lp0
+S'Melon smoothie'
+p1
+aF3.1
+aI100
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'demi'
+p5
+aS'melons'
+p6
+aa(lp7
+S'25.0'
+p8
+aS'cl de'
+p9
+aS'yaourt nature'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cuill\xc3\xa8res a caf\xc3\xa9 de'
+p13
+aS'sirop de miel'
+p14
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Latte macchiato'
+p1
+aF3.3
+aI24
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'caf\xc3\xa9'
+p6
+aa(lp7
+S'20.0'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aaa.

@@ -1,0 +1,49 @@
+(lp0
+S'Pekin Song'
+p1
+aF3.3
+aI8
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'jus de citrons'
+p10
+aa(lp11
+S'9.0'
+p12
+aS"cl d'"
+p13
+aS'infusion de th\xc3\xa9'
+p14
+aa(lp15
+S'2.0'
+p16
+aS"cl d'"
+p17
+aS'liqueur de lychees (soho, litchao)'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'eau-de-vie de prunes'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'cl de'
+p25
+aS'vin blanc'
+p26
+aaa.

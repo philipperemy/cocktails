@@ -1,0 +1,21 @@
+(lp0
+S'Amaretto Cola'
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'3.0'
+p4
+aS"cl d'"
+p5
+aS'amaretto'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'cola (coca cola, pepsi)'
+p10
+aaa.

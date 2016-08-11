@@ -1,0 +1,49 @@
+(lp0
+S'Old Fashion Bitter'
+p1
+aF3.6
+aI8
+a(lp2
+(lp3
+S'100.0'
+p4
+aS"grammes de zestes d'"
+p5
+aS'oranges am\xc3\xa8res'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'grammes de racine de'
+p9
+aS'racine de gentiane'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'litres de'
+p13
+aS'vodka'
+p14
+aa(lp15
+S'10.0'
+p16
+aS"grammes d'\xc3\xa9corce de"
+p17
+aS'quinquina'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'litres de'
+p21
+aS'vin blanc'
+p22
+aa(lp23
+S'200.0'
+p24
+aS'grammes de'
+p25
+aS'sucre'
+p26
+aaa.

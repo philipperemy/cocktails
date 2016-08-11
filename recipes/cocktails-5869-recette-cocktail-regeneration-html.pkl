@@ -1,0 +1,42 @@
+(lp0
+S'Regeneration'
+p1
+aF3.4
+aI10
+a(lp2
+(lp3
+S'2.0'
+p4
+aS"poign\xc3\xa9es d'"
+p5
+aS'\xc3\xa9pinards'
+p6
+aa(lp7
+S'15.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'100.0'
+p12
+aS"grammes d'"
+p13
+aS'ananas'
+p14
+aa(lp15
+S'100.0'
+p16
+aS'grammes de'
+p17
+aS'mangues'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'None'
+p21
+aS'bananes'
+p22
+aaa.

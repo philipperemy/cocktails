@@ -1,0 +1,28 @@
+(lp0
+S'Champenois'
+p1
+aF2.9
+aI217
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'sirop de sucre de canne'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'champagne'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'gouttes'
+p13
+aS'angostura bitters'
+p14
+aaa.

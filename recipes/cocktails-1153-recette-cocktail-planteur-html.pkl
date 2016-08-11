@@ -1,0 +1,42 @@
+(lp0
+S'Planteur'
+p1
+aF2.8
+aI392
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'rhum brun'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de goyaves'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS"jus d'ananas"
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS"jus d'oranges"
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cl de'
+p21
+aS'sirop de grenadine'
+p22
+aaa.

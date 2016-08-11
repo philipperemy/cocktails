@@ -1,0 +1,35 @@
+(lp0
+S'Vinaigre aux bleuets'
+p1
+aF2.7
+aI7
+a(lp2
+(lp3
+S'450.0'
+p4
+aS'grammes de'
+p5
+aS'bleuets'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'litre de'
+p9
+aS'vinaigre blanc'
+p10
+aa(lp11
+S'120.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'b\xc3\xa2ton de'
+p17
+aS'cannelle'
+p18
+aaa.

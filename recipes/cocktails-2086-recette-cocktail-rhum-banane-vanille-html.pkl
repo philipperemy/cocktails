@@ -1,0 +1,28 @@
+(lp0
+S'Rhum banane vanille'
+p1
+aF3.2
+aI328
+a(lp2
+(lp3
+S'75.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'None'
+p9
+aS'bananes'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'gousses de '
+p13
+aS'vanille'
+p14
+aaa.

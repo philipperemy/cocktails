@@ -1,0 +1,21 @@
+(lp0
+S'B\xc3\xa9n\xc3\xa9 d\xc3\xa9graiss\xc3\xa9e'
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'calvados'
+p10
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'27 321'
+p1
+aF2.4
+aI17
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'trait de'
+p9
+aS'angostura bitters'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'trait de'
+p13
+aS'jus de fruit de la passion (maracuja)'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cube de'
+p17
+aS'sucre'
+p18
+aaa.

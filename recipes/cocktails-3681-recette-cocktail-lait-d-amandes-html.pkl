@@ -1,0 +1,21 @@
+(lp0
+S"Lait d'amandes"
+p1
+aF3.2
+aI9
+a(lp2
+(lp3
+S'100.0'
+p4
+aS"grammes d'"
+p5
+aS'amandes'
+p6
+aa(lp7
+S'500.0'
+p8
+aS"grammes d'"
+p9
+aS'eau'
+p10
+aaa.

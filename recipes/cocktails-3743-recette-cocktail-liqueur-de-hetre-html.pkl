@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de h\xc3\xaatre'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'litre de jeunes'
+p5
+aS'feuilles de h\xc3\xaatre'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'litres de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'200.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'10.0'
+p16
+aS'cl de'
+p17
+aS'cognac'
+p18
+aaa.

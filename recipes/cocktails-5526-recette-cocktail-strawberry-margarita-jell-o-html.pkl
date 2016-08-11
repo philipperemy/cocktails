@@ -1,0 +1,42 @@
+(lp0
+S'Strawberry Margarita Jell-O'
+p1
+aF3.4
+aI18
+a(lp2
+(lp3
+S'30.0'
+p4
+aS'None'
+p5
+aS'fraises'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'sel'
+p10
+aa(lp11
+S'7.0'
+p12
+aS'feuilles de'
+p13
+aS'gelatine'
+p14
+aa(lp15
+S'23.0'
+p16
+aS'cl de'
+p17
+aS'tequila'
+p18
+aa(lp19
+S'18.0'
+p20
+aS'cl de'
+p21
+aS'triple sec (cointreau, grand marnier)'
+p22
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Revanche de la pipe'
+p1
+aF3.2
+aI153
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'jus de citrons'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'cr\xc3\xa8me de whisky (baileys)'
+p10
+aaa.

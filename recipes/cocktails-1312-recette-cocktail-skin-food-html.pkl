@@ -1,0 +1,42 @@
+(lp0
+S'Skin-food'
+p1
+aF3.4
+aI5
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'jus de citrons'
+p6
+aa(lp7
+S'50.0'
+p8
+aS'g de'
+p9
+aS'melons'
+p10
+aa(lp11
+S'30.0'
+p12
+aS"g d'"
+p13
+aS'\xc3\xa9pinards'
+p14
+aa(lp15
+S'30.0'
+p16
+aS'g de'
+p17
+aS'cerfeuil'
+p18
+aa(lp19
+S'40.0'
+p20
+aS'g de'
+p21
+aS'yaourt nature'
+p22
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Granit\xc3\xa9 Menthe Pastille/chocolat'
+p1
+aF3.3
+aI4
+a(lp2
+(lp3
+S'20.0'
+p4
+aS'cl de'
+p5
+aS'liqueur de menthe blanche (get 31)'
+p6
+aa(lp7
+S'40.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'100.0'
+p12
+aS'grammes de'
+p13
+aS'chocolat'
+p14
+aaa.

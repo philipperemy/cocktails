@@ -1,0 +1,42 @@
+(lp0
+S'Wassail'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'litres de'
+p5
+aS'cidre'
+p6
+aa(lp7
+S'45.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'b\xc3\xa2ton de'
+p13
+aS'cannelle'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'None'
+p17
+aS'clous de girofle'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'd\xc3\xa9 de'
+p21
+aS'gingembre'
+p22
+aaa.

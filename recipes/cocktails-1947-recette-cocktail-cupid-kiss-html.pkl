@@ -1,0 +1,21 @@
+(lp0
+S'Cupid Kiss'
+p1
+aF2.0
+aI1
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'dose'
+p5
+aS'cr\xc3\xa8me de whisky (baileys)'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'doses'
+p9
+aS'jus de bananes'
+p10
+aaa.

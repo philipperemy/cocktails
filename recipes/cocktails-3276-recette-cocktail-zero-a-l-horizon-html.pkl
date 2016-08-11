@@ -1,0 +1,35 @@
+(lp0
+S"Zero \xc3\xa0 l'horizon"
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'liqueur de ginseng'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'sak\xc3\xa9 (alcool de riz)'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'sirop de gingembre'
+p18
+aaa.

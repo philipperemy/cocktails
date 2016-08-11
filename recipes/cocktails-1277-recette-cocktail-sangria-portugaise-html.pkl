@@ -1,0 +1,77 @@
+(lp0
+S'Sangria portugaise'
+p1
+aF3.3
+aI213
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'fruits de saison'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'None'
+p12
+aS"zeste d'1"
+p13
+aS'citrons'
+p14
+aa(lp15
+S'None'
+p16
+aS"zeste d'1"
+p17
+aS'oranges'
+p18
+aa(lp19
+S'8.0'
+p20
+aS'cl de'
+p21
+aS'cognac'
+p22
+aa(lp23
+S'8.0'
+p24
+aS'cl de'
+p25
+aS'triple sec (cointreau, grand marnier)'
+p26
+aa(lp27
+S'None'
+p28
+aS'None'
+p29
+aS'gingembre'
+p30
+aa(lp31
+S'8.0'
+p32
+aS'cl de'
+p33
+aS'porto rouge'
+p34
+aa(lp35
+S'1.0'
+p36
+aS'bouteille de'
+p37
+aS'vin rouge'
+p38
+aa(lp39
+S'None'
+p40
+aS'None'
+p41
+aS'sucre'
+p42
+aaa.

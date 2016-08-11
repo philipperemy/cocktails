@@ -1,0 +1,28 @@
+(lp0
+S'Rendez-vous'
+p1
+aF3.4
+aI37
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'liqueur mandarine napol\xc3\xa9on'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de bananes (pisang ambon)'
+p14
+aaa.

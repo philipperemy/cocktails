@@ -1,0 +1,35 @@
+(lp0
+S'Vin de P\xc3\xaache'
+p1
+aF3.0
+aI136
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"verre d'"
+p5
+aS'eau-de-vie'
+p6
+aa(lp7
+S'30.0'
+p8
+aS'morceaux de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'100.0'
+p12
+aS'feuilles de'
+p13
+aS'p\xc3\xaacher mignon'
+p14
+aa(lp15
+S'100.0'
+p16
+aS'cl de'
+p17
+aS'vin blanc'
+p18
+aaa.

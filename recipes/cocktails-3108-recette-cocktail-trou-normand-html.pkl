@@ -1,0 +1,21 @@
+(lp0
+S'Trou normand'
+p1
+aF3.3
+aI149
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'calvados'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'boules de'
+p9
+aS'sorbet \xc3\xa0 la pomme verte'
+p10
+aaa.

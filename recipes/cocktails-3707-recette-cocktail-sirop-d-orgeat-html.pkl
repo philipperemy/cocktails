@@ -1,0 +1,49 @@
+(lp0
+S"Sirop d'orgeat"
+p1
+aF3.5
+aI78
+a(lp2
+(lp3
+S'300.0'
+p4
+aS"grammes d'"
+p5
+aS'amandes'
+p6
+aa(lp7
+S'2.0'
+p8
+aS"litres d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'2.5'
+p12
+aS'kilos de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'100.0'
+p16
+aS'grammes de'
+p17
+aS"poudre d'amande"
+p18
+aa(lp19
+S'2.0'
+p20
+aS"cl d'"
+p21
+aS"eau de fleur d'oranger"
+p22
+aa(lp23
+S'5.0'
+p24
+aS"gouttes d'"
+p25
+aS"extrait d'amande am\xc3\xa8re"
+p26
+aaa.

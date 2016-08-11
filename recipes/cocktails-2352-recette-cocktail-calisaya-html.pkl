@@ -1,0 +1,21 @@
+(lp0
+S'Calisaya'
+p1
+aF3.9
+aI16
+a(lp2
+(lp3
+S'0.4'
+p4
+aS'de'
+p5
+aS'calisay'
+p6
+aa(lp7
+S'0.6'
+p8
+aS'de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aaa.

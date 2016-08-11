@@ -1,0 +1,28 @@
+(lp0
+S'Tropical Spritzer'
+p1
+aF3.6
+aI70
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'9.0'
+p8
+aS'cl de'
+p9
+aS'nectar de p\xc3\xaaches'
+p10
+aa(lp11
+S'9.0'
+p12
+aS'cl de'
+p13
+aS'jus de mangues'
+p14
+aaa.

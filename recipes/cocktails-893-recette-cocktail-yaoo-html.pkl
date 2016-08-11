@@ -1,0 +1,35 @@
+(lp0
+S'Yaoo'
+p1
+aF3.8
+aI11
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'eau gazeuse (perrier, salvetat)'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'boules de'
+p9
+aS'sorbet \xc3\xa0 la vanille'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'jus de citrons verts'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'sirop de fruit de la passion (maracuja)'
+p18
+aaa.

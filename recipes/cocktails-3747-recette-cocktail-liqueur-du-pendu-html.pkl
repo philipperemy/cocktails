@@ -1,0 +1,28 @@
+(lp0
+S'Liqueur du pendu'
+p1
+aF4.0
+aI2
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"litre d'"
+p5
+aS'alcool \xc3\xa0 45\xc2\xb0'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'grosse'
+p9
+aS'oranges'
+p10
+aa(lp11
+S'35.0'
+p12
+aS'cl de'
+p13
+aS'sirop de sucre de canne'
+p14
+aaa.

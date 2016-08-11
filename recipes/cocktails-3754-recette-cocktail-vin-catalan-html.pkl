@@ -1,0 +1,35 @@
+(lp0
+S'Vin catalan'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'b\xc3\xa2ton de'
+p5
+aS'cannelle'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de noix'
+p10
+aa(lp11
+S'20.0'
+p12
+aS'cl de'
+p13
+aS'jus de raisins blancs'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'litres de'
+p17
+aS'vin blanc'
+p18
+aaa.

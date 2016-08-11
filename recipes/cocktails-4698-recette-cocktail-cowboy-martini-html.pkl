@@ -1,0 +1,42 @@
+(lp0
+S'Cowboy Martini'
+p1
+aF2.3
+aI3
+a(lp2
+(lp3
+S'7.5'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'sirop de sucre de canne'
+p10
+aa(lp11
+S'2.0'
+p12
+aS"traits d'"
+p13
+aS'angostura orange bitters'
+p14
+aa(lp15
+S'5.0'
+p16
+aS'feuilles de'
+p17
+aS'menthe'
+p18
+aa(lp19
+S'1.0'
+p20
+aS"zeste d'"
+p21
+aS'oranges'
+p22
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de Framboises'
+p1
+aF3.4
+aI200
+a(lp2
+(lp3
+S'350.0'
+p4
+aS'grammes de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'4.0'
+p8
+aS"verres d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'litre de'
+p13
+aS'vodka'
+p14
+aa(lp15
+S'500.0'
+p16
+aS'grammes de'
+p17
+aS'framboises'
+p18
+aaa.

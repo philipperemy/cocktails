@@ -1,0 +1,42 @@
+(lp0
+S'Coulis de cannelle'
+p1
+aF3.1
+aI8
+a(lp2
+(lp3
+S'4.0'
+p4
+aS"jaunes d'"
+p5
+aS'oeufs'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p9
+aS'cannelle en poudre'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 d'"
+p13
+aS'extrait de vanille'
+p14
+aa(lp15
+S'100.0'
+p16
+aS'grammes de'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'40.0'
+p20
+aS'cl de'
+p21
+aS'lait'
+p22
+aaa.

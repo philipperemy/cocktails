@@ -1,0 +1,28 @@
+(lp0
+S'Strawberry Soda Float'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'sirop de fraises'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'boule de'
+p9
+aS'sorbet \xc3\xa0 la vanille'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'eau gazeuse (perrier, salvetat)'
+p14
+aaa.

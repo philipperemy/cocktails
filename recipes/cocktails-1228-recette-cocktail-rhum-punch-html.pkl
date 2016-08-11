@@ -1,0 +1,49 @@
+(lp0
+S'Rhum punch'
+p1
+aF3.2
+aI608
+a(lp2
+(lp3
+S'50.0'
+p4
+aS'cl de'
+p5
+aS'ginger ale (canada dry)'
+p6
+aa(lp7
+S'None'
+p8
+aS'jus de 3'
+p9
+aS'citrons'
+p10
+aa(lp11
+S'None'
+p12
+aS'jus de 3'
+p13
+aS'oranges'
+p14
+aa(lp15
+S'50.0'
+p16
+aS'cl de'
+p17
+aS"jus d'ananas"
+p18
+aa(lp19
+S'0.5'
+p20
+aS'bouteille de'
+p21
+aS'rhum ambr\xc3\xa9'
+p22
+aa(lp23
+S'250.0'
+p24
+aS'g de'
+p25
+aS'sucre'
+p26
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Wembley'
+p1
+aF3.5
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS"jus d'ananas"
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'whisky (bourbon, whiskey)'
+p14
+aaa.

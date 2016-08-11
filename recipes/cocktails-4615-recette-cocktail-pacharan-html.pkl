@@ -1,0 +1,35 @@
+(lp0
+S'Pacharan'
+p1
+aF4.0
+aI7
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'grains de'
+p5
+aS'caf\xc3\xa9'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'b\xc3\xa2ton de'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'kilo de'
+p13
+aS'prunelles'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'litre de'
+p17
+aS'anisette (berger blanc)'
+p18
+aaa.

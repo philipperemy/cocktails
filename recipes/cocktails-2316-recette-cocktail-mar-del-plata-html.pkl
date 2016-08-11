@@ -1,0 +1,35 @@
+(lp0
+S'Mar del plata'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'volumes de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'0.375'
+p8
+aS'volumes de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'0.125'
+p12
+aS'volumes de'
+p13
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'zeste de'
+p17
+aS'citrons'
+p18
+aaa.

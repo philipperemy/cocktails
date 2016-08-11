@@ -1,0 +1,63 @@
+(lp0
+S'Hypercooling'
+p1
+aF3.9
+aI17
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'eau'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'sirop de menthe glaciale'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'trait de'
+p13
+aS'sirop de menthe'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'cr\xc3\xa8me chantilly'
+p18
+aa(lp19
+S'10.0'
+p20
+aS"cl d'"
+p21
+aS'limonade (soda, sprite, 7up)'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'cl de'
+p25
+aS'sirop de citrons'
+p26
+aa(lp27
+S'2.0'
+p28
+aS'cl de'
+p29
+aS'liqueur de menthe verte (get 27)'
+p30
+aa(lp31
+S'6.0'
+p32
+aS'cl de'
+p33
+aS'vodka'
+p34
+aaa.

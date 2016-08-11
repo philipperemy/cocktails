@@ -1,0 +1,28 @@
+(lp0
+S'Champagne du pauvre'
+p1
+aF3.5
+aI6
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'cognac'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sirop de citrons'
+p14
+aaa.

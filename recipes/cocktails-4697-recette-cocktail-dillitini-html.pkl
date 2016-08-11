@@ -1,0 +1,28 @@
+(lp0
+S'Dillitini'
+p1
+aF2.7
+aI3
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.5'
+p8
+aS'cl de'
+p9
+aS'aquavit (akvavit)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"brin d'"
+p13
+aS'aneth'
+p14
+aaa.

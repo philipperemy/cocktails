@@ -1,0 +1,21 @@
+(lp0
+S'Maudite'
+p1
+aF3.1
+aI9
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de menthe verte (get 27)'
+p10
+aaa.

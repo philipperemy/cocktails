@@ -1,0 +1,63 @@
+(lp0
+S'Bi\xc3\xa8re : Vores'
+p1
+aF4.7
+aI6
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'kilos de'
+p5
+aS'malt pilsner'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'kilos de'
+p9
+aS'malt m\xc3\xbcnsner'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'kilo de'
+p13
+aS'malt caramel'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'kilo de'
+p17
+aS'malt blond'
+p18
+aa(lp19
+S'60.0'
+p20
+aS'grammes de'
+p21
+aS'houblon amer tetnang'
+p22
+aa(lp23
+S'50.0'
+p24
+aS'grammes de'
+p25
+aS'houblon aromatique hallertauer'
+p26
+aa(lp27
+S'300.0'
+p28
+aS'grammes de graines de'
+p29
+aS'guarana'
+p30
+aa(lp31
+S'4.0'
+p32
+aS'kilos de'
+p33
+aS'sucre'
+p34
+aaa.

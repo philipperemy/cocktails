@@ -1,0 +1,42 @@
+(lp0
+S'Grog americain'
+p1
+aF3.3
+aI14
+a(lp2
+(lp3
+S'None'
+p4
+aS"jus d'1/2"
+p5
+aS'citrons'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'morceau de'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'None'
+p13
+aS'clous de girofle'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'rhum ambr\xc3\xa9'
+p22
+aaa.

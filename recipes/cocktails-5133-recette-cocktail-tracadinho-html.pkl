@@ -1,0 +1,28 @@
+(lp0
+S'Tra\xc3\xa7adinho'
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'cl de'
+p9
+aS'vin vert (vinho verde)'
+p10
+aa(lp11
+S'10.0'
+p12
+aS'cl de'
+p13
+aS'bi\xc3\xa8re'
+p14
+aaa.

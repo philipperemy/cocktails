@@ -1,0 +1,35 @@
+(lp0
+S'Taille 36'
+p1
+aF3.2
+aI27
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'tomate'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'poign\xc3\xa9es de'
+p9
+aS'persil'
+p10
+aa(lp11
+S'0.25'
+p12
+aS'de'
+p13
+aS'concombre'
+p14
+aa(lp15
+S'0.25'
+p16
+aS'de'
+p17
+aS'citron'
+p18
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Italian pecker'
+p1
+aF5.0
+aI1
+a(lp2
+(lp3
+S'0.2'
+p4
+aS'de'
+p5
+aS'strega'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'de'
+p9
+aS'rhum ambr\xc3\xa9'
+p10
+aa(lp11
+S'0.2'
+p12
+aS'de'
+p13
+aS'tuaca'
+p14
+aa(lp15
+S'0.4'
+p16
+aS'de'
+p17
+aS'mozart original'
+p18
+aaa.

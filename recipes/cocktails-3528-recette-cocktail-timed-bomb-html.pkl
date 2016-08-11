@@ -1,0 +1,21 @@
+(lp0
+S'Timed Bomb'
+p1
+aF3.6
+aI8
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'trait de'
+p5
+aS'cr\xc3\xa8me de whisky (baileys)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'trait de'
+p9
+aS'jus de citrons'
+p10
+aaa.

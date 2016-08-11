@@ -1,0 +1,35 @@
+(lp0
+S'Tomato u.s.'
+p1
+aF3.7
+aI13
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'jus'
+p5
+aS'pamplemousses'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'jus'
+p9
+aS'citrons'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'cl de'
+p13
+aS'ketchup'
+p14
+aa(lp15
+S'25.0'
+p16
+aS'cl de'
+p17
+aS'jus de tomates'
+p18
+aaa.

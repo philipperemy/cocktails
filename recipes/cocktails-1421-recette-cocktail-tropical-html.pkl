@@ -1,0 +1,28 @@
+(lp0
+S'Tropical'
+p1
+aF3.3
+aI26
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'sirop de menthe'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'sirop de grenadine'
+p14
+aaa.

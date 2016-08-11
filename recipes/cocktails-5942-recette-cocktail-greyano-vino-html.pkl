@@ -1,0 +1,42 @@
+(lp0
+S'Greyano vino'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'20.0'
+p4
+aS'cl de'
+p5
+aS'vin rouge'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'None'
+p9
+aS'pomme'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p13
+aS'miel'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'pinc\xc3\xa9e de'
+p17
+aS'poivre'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'None'
+p21
+aS'orange'
+p22
+aaa.

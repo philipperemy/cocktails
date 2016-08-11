@@ -1,0 +1,35 @@
+(lp0
+S'Brandy Flip'
+p1
+aF3.0
+aI35
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'brandy'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS"jaune d'"
+p17
+aS'oeufs'
+p18
+aaa.

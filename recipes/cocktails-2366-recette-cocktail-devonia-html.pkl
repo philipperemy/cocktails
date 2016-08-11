@@ -1,0 +1,28 @@
+(lp0
+S'Devonia'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'de'
+p5
+aS'geni\xc3\xa8vre'
+p6
+aa(lp7
+S'0.666666666667'
+p8
+aS'de'
+p9
+aS'cidre'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'cura\xc3\xa7ao bleu'
+p14
+aaa.

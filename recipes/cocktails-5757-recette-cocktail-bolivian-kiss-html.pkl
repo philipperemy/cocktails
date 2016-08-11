@@ -1,0 +1,21 @@
+(lp0
+S'Bolivian Kiss'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'agwa'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'morceau de'
+p9
+aS'citrons verts'
+p10
+aaa.

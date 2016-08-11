@@ -1,0 +1,35 @@
+(lp0
+S'Amaretto'
+p1
+aF3.1
+aI34
+a(lp2
+(lp3
+S'70.0'
+p4
+aS"noyaux d'"
+p5
+aS'abricots'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'alcool \xc3\xa0 45\xc2\xb0'
+p10
+aa(lp11
+S'500.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'25.0'
+p16
+aS'cl de'
+p17
+aS'lait'
+p18
+aaa.

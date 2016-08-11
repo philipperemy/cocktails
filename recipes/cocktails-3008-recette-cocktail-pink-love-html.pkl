@@ -1,0 +1,28 @@
+(lp0
+S'Pink Love'
+p1
+aF4.2
+aI5
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'tiers'
+p5
+aS'cr\xc3\xa8me de fruit de la passion'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'tiers'
+p9
+aS'liqueur de lychees (soho, litchao)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'tiers'
+p13
+aS'jus de bananes'
+p14
+aaa.

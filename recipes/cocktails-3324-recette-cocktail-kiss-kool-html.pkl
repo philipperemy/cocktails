@@ -1,0 +1,21 @@
+(lp0
+S'Kiss Kool'
+p1
+aF3.5
+aI49
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'cl de'
+p5
+aS'cura\xc3\xa7ao bleu'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'sambuca'
+p10
+aaa.

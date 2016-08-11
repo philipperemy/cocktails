@@ -1,0 +1,35 @@
+(lp0
+S'Brooklyn'
+p1
+aF3.4
+aI16
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'trait de'
+p13
+aS'marasquin'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'trait de'
+p17
+aS'picon'
+p18
+aaa.

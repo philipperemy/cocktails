@@ -1,0 +1,28 @@
+(lp0
+S'Yellow Parrot 2'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'de'
+p5
+aS"liqueur d'abricots (abricot brandy)"
+p6
+aa(lp7
+S'0.333333333333'
+p8
+aS'de'
+p9
+aS'sambuca'
+p10
+aa(lp11
+S'0.333333333333'
+p12
+aS'de'
+p13
+aS'chartreuse verte'
+p14
+aaa.

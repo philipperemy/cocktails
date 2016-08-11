@@ -1,0 +1,35 @@
+(lp0
+S'Shotgun (Tequila Paf)'
+p1
+aF3.7
+aI288
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sel'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'quartier de'
+p9
+aS'citrons verts'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'tequila'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'tonic (schweppes)'
+p18
+aaa.

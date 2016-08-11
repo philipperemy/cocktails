@@ -1,0 +1,35 @@
+(lp0
+S'D\xc3\xa9lice fruit\xc3\xa9'
+p1
+aF3.8
+aI64
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"tranche d'"
+p5
+aS'ananas'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'cl de'
+p9
+aS'jus de poires'
+p10
+aa(lp11
+S'6.0'
+p12
+aS'cl de'
+p13
+aS'sirop de framboises'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'sirop de fraises'
+p18
+aaa.

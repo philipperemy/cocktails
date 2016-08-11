@@ -1,0 +1,28 @@
+(lp0
+S"Sirop d'abricot"
+p1
+aF3.1
+aI16
+a(lp2
+(lp3
+S'2.0'
+p4
+aS"kg d'"
+p5
+aS'abricots'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'kg de'
+p13
+aS'sucre'
+p14
+aaa.

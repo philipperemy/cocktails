@@ -1,0 +1,28 @@
+(lp0
+S'Dirty Martini'
+p1
+aF2.9
+aI192
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS"jus d'olives (saumure)"
+p14
+aaa.

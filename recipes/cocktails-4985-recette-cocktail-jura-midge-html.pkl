@@ -1,0 +1,28 @@
+(lp0
+S'Jura Midge'
+p1
+aF4.2
+aI6
+a(lp2
+(lp3
+S'None'
+p4
+aS"jus d'un"
+p5
+aS'citrons'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p9
+aS"marmelade d'orange"
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'whisky (bourbon, whiskey)'
+p14
+aaa.

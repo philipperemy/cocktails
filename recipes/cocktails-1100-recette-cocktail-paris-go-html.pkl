@@ -1,0 +1,35 @@
+(lp0
+S'Paris go!'
+p1
+aF3.6
+aI5
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'liqueur mandarine napol\xc3\xa9on'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'jus de fruits exotiques'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cl de'
+p17
+aS'cognac'
+p18
+aaa.

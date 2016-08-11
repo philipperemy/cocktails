@@ -1,0 +1,21 @@
+(lp0
+S'Passoa Punch'
+p1
+aF2.7
+aI3
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'cr\xc3\xa8me de fruit de la passion'
+p10
+aaa.

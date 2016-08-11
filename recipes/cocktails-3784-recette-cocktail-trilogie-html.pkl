@@ -1,0 +1,42 @@
+(lp0
+S'Trilogie'
+p1
+aF5.0
+aI3
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'vermouth blanc (martini, cinzano)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'vermouth rouge (martini, cinzano)'
+p14
+aa(lp15
+S'None'
+p16
+aS'zeste de'
+p17
+aS'citrons'
+p18
+aa(lp19
+S'None'
+p20
+aS'trait de'
+p21
+aS'sirop de grenadine'
+p22
+aaa.

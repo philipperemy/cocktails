@@ -1,0 +1,35 @@
+(lp0
+S'Greenger'
+p1
+aF3.7
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"poign\xc3\xa9e de feuilles d'"
+p5
+aS'\xc3\xa9pinards'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'd\xc3\xa9 de'
+p9
+aS'gingembre'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'p\xc3\xaache'
+p14
+aa(lp15
+S'10.0'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

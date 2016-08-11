@@ -1,0 +1,35 @@
+(lp0
+S"Nyoum's"
+p1
+aF3.7
+aI9
+a(lp2
+(lp3
+S'1.5'
+p4
+aS'cl de'
+p5
+aS'liqueur de mangues'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS"liqueur d'ananas"
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'rhum cubain'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'trait de'
+p17
+aS'sirop de m\xc3\xbbre'
+p18
+aaa.

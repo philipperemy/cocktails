@@ -1,0 +1,21 @@
+(lp0
+S'Chiwawa du Bois le Duc'
+p1
+aF4.5
+aI2
+a(lp2
+(lp3
+S'8.0'
+p4
+aS'None'
+p5
+aS'sucre en morceaux'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'eau-de-vie de mirabelles'
+p10
+aaa.

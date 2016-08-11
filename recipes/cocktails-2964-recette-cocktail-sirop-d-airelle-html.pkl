@@ -1,0 +1,21 @@
+(lp0
+S"Sirop d'airelle"
+p1
+aF3.7
+aI3
+a(lp2
+(lp3
+S'100.0'
+p4
+aS'cl de'
+p5
+aS'jus de cranberry (canneberges)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'kg de'
+p9
+aS'sucre'
+p10
+aaa.

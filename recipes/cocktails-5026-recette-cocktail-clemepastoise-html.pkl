@@ -1,0 +1,28 @@
+(lp0
+S'Cl\xc3\xa9mepastoise'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'150.0'
+p4
+aS'grammes de'
+p5
+aS'framboises'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'tranche de'
+p9
+aS'past\xc3\xa8ques'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'None'
+p13
+aS'cl\xc3\xa9mentines'
+p14
+aaa.

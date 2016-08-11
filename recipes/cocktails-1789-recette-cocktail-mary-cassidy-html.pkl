@@ -1,0 +1,35 @@
+(lp0
+S'Mary Cassidy'
+p1
+aF2.7
+aI3
+a(lp2
+(lp3
+S'5.5'
+p4
+aS'cl de'
+p5
+aS'cr\xc3\xa8me de whisky (baileys)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'rhum cubain'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'pinc\xc3\xa9es de'
+p17
+aS'cannelle'
+p18
+aaa.

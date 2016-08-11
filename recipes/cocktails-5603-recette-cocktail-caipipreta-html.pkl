@@ -1,0 +1,28 @@
+(lp0
+S'Caipipreta'
+p1
+aF2.7
+aI23
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'7.0'
+p8
+aS'cl de'
+p9
+aS'vodka noire'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p13
+aS'sucre'
+p14
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Freedom 4'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'None'
+p5
+aS'oranges'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'kiwi'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'lamelles de'
+p13
+aS'gingembre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS"poign\xc3\xa9e d'"
+p17
+aS'\xc3\xa9pinards'
+p18
+aaa.

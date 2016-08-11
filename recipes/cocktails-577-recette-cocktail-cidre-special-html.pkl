@@ -1,0 +1,35 @@
+(lp0
+S'Cidre sp\xc3\xa9cial'
+p1
+aF3.3
+aI11
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'tranche de'
+p9
+aS'pommes'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me de mandarine'
+p14
+aa(lp15
+S'5.0'
+p16
+aS'cl de'
+p17
+aS'cidre'
+p18
+aaa.

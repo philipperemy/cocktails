@@ -1,0 +1,14 @@
+(lp0
+S'Scotch Mist'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aaa.

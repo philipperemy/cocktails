@@ -1,0 +1,63 @@
+(lp0
+S'Bloody Mary'
+p1
+aF4.3
+aI845
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'12.0'
+p8
+aS'cl de'
+p9
+aS'jus de tomates'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'jus de citrons'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'sauce worcestershire'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'gouttes de'
+p21
+aS'tabasco'
+p22
+aa(lp23
+S'None'
+p24
+aS'None'
+p25
+aS'sel de c\xc3\xa9leri'
+p26
+aa(lp27
+S'None'
+p28
+aS'None'
+p29
+aS'sel'
+p30
+aa(lp31
+S'None'
+p32
+aS'None'
+p33
+aS'poivre'
+p34
+aaa.

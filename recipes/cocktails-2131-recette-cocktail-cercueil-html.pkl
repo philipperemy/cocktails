@@ -1,0 +1,14 @@
+(lp0
+S'Cercueil'
+p1
+aF3.4
+aI241
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'tout alcool qui vous tombe sous la main'
+p6
+aaa.

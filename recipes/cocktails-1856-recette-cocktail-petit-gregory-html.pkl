@@ -1,0 +1,42 @@
+(lp0
+S'Petit Gr\xc3\xa9gory'
+p1
+aF3.5
+aI158
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'olive'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'morceau de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'gin'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'None'
+p17
+aS'ficelle'
+p18
+aa(lp19
+S'None'
+p20
+aS'None'
+p21
+aS'tonic (schweppes)'
+p22
+aaa.

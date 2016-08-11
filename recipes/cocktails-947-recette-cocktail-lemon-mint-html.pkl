@@ -1,0 +1,28 @@
+(lp0
+S'Lemon mint'
+p1
+aF3.3
+aI21
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'jus de citrons verts'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'sirop de menthe'
+p14
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Neil armstrong collins'
+p1
+aF1.9
+aI7
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'cognac'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'jus'
+p13
+aS'pamplemousses'
+p14
+aaa.

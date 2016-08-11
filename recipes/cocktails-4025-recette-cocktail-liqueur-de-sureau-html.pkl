@@ -1,0 +1,63 @@
+(lp0
+S'Liqueur de sureau'
+p1
+aF2.6
+aI7
+a(lp2
+(lp3
+S'70.0'
+p4
+aS'grammes de'
+p5
+aS'fleurs de sureau'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'litres de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'pinc\xc3\xa9e de'
+p13
+aS'cannelle'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'pinc\xc3\xa9e de'
+p17
+aS'coriandre'
+p18
+aa(lp19
+S'1.0'
+p20
+aS"pinc\xc3\xa9e d'"
+p21
+aS'ang\xc3\xa9lique'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'zeste de'
+p25
+aS'citrons'
+p26
+aa(lp27
+S'1.0'
+p28
+aS"zeste d'"
+p29
+aS'oranges'
+p30
+aa(lp31
+S'200.0'
+p32
+aS'grammes de'
+p33
+aS'sucre'
+p34
+aaa.

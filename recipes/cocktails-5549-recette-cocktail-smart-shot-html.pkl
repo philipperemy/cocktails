@@ -1,0 +1,21 @@
+(lp0
+S'Smart Shot'
+p1
+aF3.3
+aI4
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'smarties'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'triple sec (cointreau, grand marnier)'
+p10
+aaa.

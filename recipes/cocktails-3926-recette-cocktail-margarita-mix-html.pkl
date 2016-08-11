@@ -1,0 +1,35 @@
+(lp0
+S'Margarita mix'
+p1
+aF4.0
+aI6
+a(lp2
+(lp3
+S'12.0'
+p4
+aS'cl de'
+p5
+aS'jus de citrons'
+p6
+aa(lp7
+S'13.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons verts'
+p10
+aa(lp11
+S'25.0'
+p12
+aS'cl de'
+p13
+aS'sirop de citron vert'
+p14
+aa(lp15
+S'50.0'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

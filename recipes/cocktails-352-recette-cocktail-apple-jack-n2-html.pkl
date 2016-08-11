@@ -1,0 +1,28 @@
+(lp0
+S'Apple jack n\xc2\xb02'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'jus'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'calvados'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aaa.

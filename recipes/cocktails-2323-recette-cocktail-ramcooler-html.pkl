@@ -1,0 +1,42 @@
+(lp0
+S'Ramcooler'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'volumes de'
+p5
+aS'rhum ambr\xc3\xa9'
+p6
+aa(lp7
+S'0.133333333333'
+p8
+aS'volumes de'
+p9
+aS'liqueur galliano'
+p10
+aa(lp11
+S'0.533333333333'
+p12
+aS'volumes de'
+p13
+aS'jus de citrons verts'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'zeste de'
+p17
+aS'citrons verts'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'None'
+p21
+aS'cerises confite'
+p22
+aaa.

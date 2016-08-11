@@ -1,0 +1,21 @@
+(lp0
+S'Soupe de pois'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'spiritueux anis\xc3\xa9 (pastis, ricard, pernod)'
+p10
+aaa.

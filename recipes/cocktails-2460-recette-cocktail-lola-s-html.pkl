@@ -1,0 +1,28 @@
+(lp0
+S"Lola's"
+p1
+aF3.4
+aI91
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cola (coca cola, pepsi)'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de coco (cocogif, malibu)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS"sirop d'ananas"
+p14
+aaa.

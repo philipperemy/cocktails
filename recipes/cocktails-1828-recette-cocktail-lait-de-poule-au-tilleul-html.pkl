@@ -1,0 +1,35 @@
+(lp0
+S'Lait de poule au Tilleul'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'verres de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'sachets-doses de'
+p9
+aS'tilleul'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'None'
+p17
+aS'oeufs'
+p18
+aaa.

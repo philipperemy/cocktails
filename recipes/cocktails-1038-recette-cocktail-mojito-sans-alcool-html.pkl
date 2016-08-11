@@ -1,0 +1,35 @@
+(lp0
+S'Mojito Sans Alcool'
+p1
+aF3.2
+aI98
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'jus'
+p5
+aS'sirop de mojito'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'sirop caribbean (saveur rhum)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sirop de citron vert'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'eau gazeuse (perrier, salvetat)'
+p18
+aaa.

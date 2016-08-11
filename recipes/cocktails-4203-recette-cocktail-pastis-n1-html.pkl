@@ -1,0 +1,35 @@
+(lp0
+S'Pastis n\xc2\xb01'
+p1
+aF2.0
+aI4
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 d'"
+p5
+aS'an\xc3\xa9thol'
+p6
+aa(lp7
+S'50.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'50.0'
+p12
+aS"cl d'"
+p13
+aS'alcool \xc3\xa0 90\xc2\xb0'
+p14
+aa(lp15
+S'None'
+p16
+aS'un demi'
+p17
+aS'b\xc3\xa2tons de reglisse'
+p18
+aaa.

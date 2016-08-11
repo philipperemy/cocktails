@@ -1,0 +1,49 @@
+(lp0
+S'Long Denon Island'
+p1
+aF4.5
+aI2
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'midori'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'1.5'
+p16
+aS'cl de'
+p17
+aS'vodka'
+p18
+aa(lp19
+S'1.5'
+p20
+aS'cl de'
+p21
+aS'triple sec (cointreau, grand marnier)'
+p22
+aa(lp23
+S'6.0'
+p24
+aS'cl de'
+p25
+aS"soda \xc3\xa0 l'orange (orangina)"
+p26
+aaa.

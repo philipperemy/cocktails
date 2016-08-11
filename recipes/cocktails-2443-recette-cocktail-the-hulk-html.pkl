@@ -1,0 +1,35 @@
+(lp0
+S'The Hulk'
+p1
+aF3.1
+aI14
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'midori'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'lait'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'feuilles de menthe'
+p18
+aaa.

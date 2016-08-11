@@ -1,0 +1,35 @@
+(lp0
+S'Baby pink'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'None'
+p4
+aS'cl'
+p5
+aS'jus de goyaves'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl'
+p9
+aS'liqueur de pommes (manzana, manzanita)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl'
+p13
+aS'midori'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl'
+p17
+aS'vodka'
+p18
+aaa.
