@@ -169,20 +169,7 @@ def get_cocktail_list():
     return cocktail_set
 
 
-def write_to_file(recipe):
-    pass
-    # f_csv = open('recipes.csv', 'w+')
-    # for element in recipe:
-    #    f_csv.write(unicode(element).decode().encode('utf-8'))
-    #    f_csv.write(';')
-    # f_csv.close()
-
-
 if __name__ == '__main__':
     urls = get_cocktail_list()
-    recipes_pickle = 'recipes.csv'  # take time to read 4000 files (>1.5GB) so save it into one file.
-    if os.path.isfile(recipes_pickle):
-        with open(recipes_pickle, 'r') as f:
-            recipes = f.readlines()
-    else:
-        recipes = get_recipe_and_rating(urls)
+    recipes = get_recipe_and_rating(urls)
+    print(recipes)
