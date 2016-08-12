@@ -42,7 +42,20 @@ if __name__ == '__main__':
     ingredients_matrix = build_ingredient_matrix(recipes)
     rating_values = np.array([v[1] for v in recipes])
 
-    # np.mean(gnb.fit(ingredients_matrix, np.array(rating_values, dtype=str)).predict(ingredients_matrix) == np.array(rating_values, dtype=str))
-    from sklearn.naive_bayes import GaussianNB
-    gnb = GaussianNB()
-    y_pred = gnb.fit(ingredients_matrix, rating_values)
+    from sklearn.ensemble import RandomForestRegressor
+
+    cutoff = int(0.66 * len(ingredients_matrix))
+    X_train = ingredients_matrix[:cutoff]
+    Y_train = rating_values[:cutoff]
+
+    X_test = ingredients_matrix[cutoff:]
+    Y_test = rating_values[cutoff:]
+
+    reg = RandomForestRegressor(n_estimators=30, min_samples_split=1, n_jobs=-1,
+                                verbose=2, random_state=123, criterion='mse')
+    reg.fit(X_train, Y_train)
+    pred = reg.predict(X_test)
+    for i in range(len(pred)):
+        print('pred = {}, expected = {}'.format(pred[i], Y_test[i]))
+    print('MAE = {}'.format(np.mean(np.abs(pred - Y_test))))
+    print('MAE dummy = {}'.format(np.mean(np.abs(np.mean(Y_train) - Y_test))))
