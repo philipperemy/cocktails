@@ -18,6 +18,10 @@ from slugify import slugify
 # TODO: no ingredients means REMOVE IT.
 # Otherwise we're going to bias our model with ['Verre des dieux', 4.0/5.0, 4, []]
 
+# recipeYield
+# <span itemprop="recipeYield">pour 20 personnes</span>
+# should be only for 1 PERSON.
+
 def convert_to_float(number_str):
     # http://stackoverflow.com/questions/1806278/convert-fraction-to-float
 
