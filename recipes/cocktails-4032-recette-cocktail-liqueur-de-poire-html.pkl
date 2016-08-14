@@ -5,28 +5,28 @@ aF2.8
 aI19
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'grosse'
 p5
 aS'poires'
 p6
 aa(lp7
-S'1.0'
+S'0.05'
 p8
 aS"litre d'"
 p9
 aS'eau-de-vie \xc3\xa0 40\xc2\xb0'
 p10
 aa(lp11
-S'18.0'
+S'0.9'
 p12
 aS"cl d'"
 p13
 aS'eau-de-vie de poires williams'
 p14
 aa(lp15
-S'300.0'
+S'15.0'
 p16
 aS'grammes de'
 p17

@@ -12,14 +12,14 @@ p5
 aS'thym'
 p6
 aa(lp7
-S'100.0'
+S'10.0'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'25.0'
+S'2.5'
 p12
 aS"cl d'"
 p13

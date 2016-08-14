@@ -2,7 +2,7 @@
 S'Mimosa'
 p1
 aF3.2
-aI123
+aI124
 a(lp2
 (lp3
 S'4.0'

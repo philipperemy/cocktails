@@ -5,21 +5,21 @@ aF3.3
 aI78
 a(lp2
 (lp3
-S'3.0'
+S'0.5'
 p4
 aS'None'
 p5
 aS'citrons'
 p6
 aa(lp7
-S'1.0'
+S'0.166666666667'
 p8
 aS"litre d'"
 p9
 aS'eau gazeuse (perrier, salvetat)'
 p10
 aa(lp11
-S'170.0'
+S'28.3333333333'
 p12
 aS'grammes de'
 p13

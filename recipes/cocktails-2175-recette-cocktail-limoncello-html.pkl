@@ -5,28 +5,28 @@ aF3.2
 aI597
 a(lp2
 (lp3
-S'700.0'
+S'14.0'
 p4
 aS'grammes de'
 p5
 aS'sucre'
 p6
 aa(lp7
-S'1.0'
+S'0.02'
 p8
 aS"litre d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'15.0'
+S'0.3'
 p12
 aS'None'
 p13
 aS'citrons'
 p14
 aa(lp15
-S'1.0'
+S'0.02'
 p16
 aS"litre d'"
 p17

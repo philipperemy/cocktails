@@ -5,14 +5,14 @@ aF3.3
 aI71
 a(lp2
 (lp3
-S'5.0'
+S'0.25'
 p4
 aS'paquets de 450g de'
 p5
 aS'skittles'
 p6
 aa(lp7
-S'5.0'
+S'0.25'
 p8
 aS'bouteilles de 75cl de'
 p9

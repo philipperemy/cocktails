@@ -5,35 +5,35 @@ aF3.3
 aI79
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS'None'
 p5
 aS'zestes de citron vert'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'petit verre'
 p9
 aS'vermouth rouge (martini, cinzano)'
 p10
 aa(lp11
-S'2.0'
+S'0.2'
 p12
 aS'bo\xc3\xaetes'
 p13
 aS'lait concentr\xc3\xa9 sucr\xc3\xa9'
 p14
 aa(lp15
-S'2.0'
+S'0.2'
 p16
 aS'bo\xc3\xaetes'
 p17
 aS'lait concentr\xc3\xa9 non sucr\xc3\xa9'
 p18
 aa(lp19
-S'1.0'
+S'0.1'
 p20
 aS'litre'
 p21
@@ -47,7 +47,7 @@ p25
 aS'cannelle et muscade'
 p26
 aa(lp27
-S'2.0'
+S'0.2'
 p28
 aS'bo\xc3\xaetes'
 p29

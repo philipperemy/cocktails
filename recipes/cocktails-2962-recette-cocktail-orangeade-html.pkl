@@ -5,21 +5,21 @@ aF3.1
 aI48
 a(lp2
 (lp3
-S'4.0'
+S'0.666666666667'
 p4
 aS'None'
 p5
 aS'oranges'
 p6
 aa(lp7
-S'2.0'
+S'0.333333333333'
 p8
 aS'None'
 p9
 aS'citrons'
 p10
 aa(lp11
-S'150.0'
+S'25.0'
 p12
 aS'grammes de'
 p13

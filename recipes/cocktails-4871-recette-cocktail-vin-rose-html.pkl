@@ -5,14 +5,14 @@ aF2.8
 aI4
 a(lp2
 (lp3
-S'95.0'
+S'4.75'
 p4
 aS'cl de'
 p5
 aS'vin blanc'
 p6
 aa(lp7
-S'5.0'
+S'0.25'
 p8
 aS'cl de'
 p9

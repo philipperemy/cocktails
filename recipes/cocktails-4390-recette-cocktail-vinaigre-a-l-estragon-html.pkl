@@ -5,14 +5,14 @@ aF3.2
 aI13
 a(lp2
 (lp3
-S'2.0'
+S'0.2'
 p4
 aS"branches d'"
 p5
 aS'estragon'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'litre de'
 p9

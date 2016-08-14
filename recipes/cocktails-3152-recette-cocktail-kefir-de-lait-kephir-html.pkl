@@ -5,14 +5,14 @@ aF3.2
 aI18
 a(lp2
 (lp3
-S'30.0'
+S'15.0'
 p4
 aS'None'
 p5
 aS'grains de kefir de lait'
 p6
 aa(lp7
-S'50.0'
+S'25.0'
 p8
 aS'cl de'
 p9

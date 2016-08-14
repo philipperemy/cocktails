@@ -5,14 +5,14 @@ aF3.2
 aI42
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'None'
 p5
 aS'b\xc3\xa2tons de cannelle'
 p6
 aa(lp7
-S'3.0'
+S'0.15'
 p8
 aS'None'
 p9

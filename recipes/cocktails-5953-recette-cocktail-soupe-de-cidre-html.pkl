@@ -5,28 +5,28 @@ aF3.0
 aI242
 a(lp2
 (lp3
-S'1.0'
+S'0.142857142857'
 p4
 aS'bouteille de'
 p5
 aS'cidre'
 p6
 aa(lp7
-S'30.0'
+S'4.28571428571'
 p8
 aS'cl de'
 p9
 aS"jus d'oranges"
 p10
 aa(lp11
-S'3.0'
+S'0.428571428571'
 p12
 aS'cl de'
 p13
 aS'cognac'
 p14
 aa(lp15
-S'15.0'
+S'2.14285714286'
 p16
 aS'cl de'
 p17

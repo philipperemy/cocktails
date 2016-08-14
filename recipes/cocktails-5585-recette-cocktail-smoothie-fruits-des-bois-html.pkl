@@ -5,35 +5,35 @@ aF4.5
 aI2
 a(lp2
 (lp3
-S'1.0'
+S'0.5'
 p4
 aS'poign\xc3\xa9e de'
 p5
 aS'framboises'
 p6
 aa(lp7
-S'1.0'
+S'0.5'
 p8
 aS'poign\xc3\xa9e de'
 p9
 aS'myrtilles (bleuets)'
 p10
 aa(lp11
-S'1.0'
+S'0.5'
 p12
 aS'None'
 p13
 aS'yaourt nature'
 p14
 aa(lp15
-S'2.0'
+S'1.0'
 p16
 aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
 p17
 aS"sirop d'agave"
 p18
 aa(lp19
-S'20.0'
+S'10.0'
 p20
 aS'cl de'
 p21

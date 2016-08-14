@@ -5,42 +5,42 @@ aF3.3
 aI11
 a(lp2
 (lp3
-S'4.0'
+S'0.2'
 p4
 aS"cuill\xc3\xa8res \xc3\xa0 soupe d'"
 p5
 aS"eau de fleur d'oranger"
 p6
 aa(lp7
-S'0.4'
+S'0.02'
 p8
 aS"litre d'"
 p9
 aS'alcool \xc3\xa0 95\xc2\xb0'
 p10
 aa(lp11
-S'0.4'
+S'0.02'
 p12
 aS"litre d'"
 p13
 aS'eau'
 p14
 aa(lp15
-S'500.0'
+S'25.0'
 p16
 aS'grammes de'
 p17
 aS'sucre'
 p18
 aa(lp19
-S'70.0'
+S'3.5'
 p20
 aS"grammes d'"
 p21
 aS'amandes am\xc3\xa8res'
 p22
 aa(lp23
-S'150.0'
+S'7.5'
 p24
 aS"grammes d'"
 p25

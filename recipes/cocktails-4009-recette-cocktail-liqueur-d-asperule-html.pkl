@@ -5,21 +5,21 @@ aF3.2
 aI20
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS"poign\xc3\xa9e d'"
 p5
 aS'asp\xc3\xa9rule'
 p6
 aa(lp7
-S'450.0'
+S'45.0'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'1.0'
+S'0.1'
 p12
 aS"litre d'"
 p13

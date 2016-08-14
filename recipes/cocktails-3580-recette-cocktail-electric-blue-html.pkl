@@ -1,8 +1,8 @@
 (lp0
 S'Electric Blue'
 p1
-aF3.5
-aI15
+aF3.3
+aI16
 a(lp2
 (lp3
 S'5.0'

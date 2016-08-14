@@ -5,42 +5,42 @@ aF3.2
 aI85
 a(lp2
 (lp3
-S'30.0'
+S'15.0'
 p4
 aS'cl de'
 p5
 aS'jus de pommes'
 p6
 aa(lp7
-S'3.0'
+S'1.5'
 p8
 aS'cl de'
 p9
 aS'nectarines'
 p10
 aa(lp11
-S'1.0'
+S'0.5'
 p12
 aS'cl de'
 p13
 aS'bananes'
 p14
 aa(lp15
-S'1.0'
+S'0.5'
 p16
 aS'zeste de'
 p17
 aS'jus de citrons'
 p18
 aa(lp19
-S'1.0'
+S'0.5'
 p20
 aS'cuill\xc3\xa8re de'
 p21
 aS'sirop de miel'
 p22
 aa(lp23
-S'4.0'
+S'2.0'
 p24
 aS'cl de'
 p25

@@ -5,63 +5,63 @@ aF2.4
 aI5
 a(lp2
 (lp3
-S'2.0'
+S'0.2'
 p4
 aS"grammes de graines d'"
 p5
 aS'anis vert'
 p6
 aa(lp7
-S'4.0'
+S'0.4'
 p8
 aS'grammes de feuilles de'
 p9
 aS'm\xc3\xa9lisse'
 p10
 aa(lp11
-S'4.0'
+S'0.4'
 p12
 aS'grammes de feuilles de'
 p13
 aS'menthe'
 p14
 aa(lp15
-S'6.0'
+S'0.6'
 p16
 aS"grammes de graines d'"
 p17
 aS'ang\xc3\xa9lique'
 p18
 aa(lp19
-S'4.0'
+S'0.4'
 p20
 aS'grammes de'
 p21
 aS'bourgeons de sapin'
 p22
 aa(lp23
-S'4.0'
+S'0.4'
 p24
 aS"grammes d'"
 p25
 aS'armoise'
 p26
 aa(lp27
-S'2.0'
+S'0.2'
 p28
 aS"litres d'"
 p29
 aS'alcool \xc3\xa0 90\xc2\xb0'
 p30
 aa(lp31
-S'2.0'
+S'0.2'
 p32
 aS'kilos de'
 p33
 aS'sucre'
 p34
 aa(lp35
-S'2.0'
+S'0.2'
 p36
 aS"litres d'"
 p37

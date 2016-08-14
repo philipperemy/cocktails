@@ -5,28 +5,28 @@ aF3.2
 aI6
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'None'
 p5
 aS'anana'
 p6
 aa(lp7
-S'2.0'
+S'0.1'
 p8
 aS'gousses de'
 p9
 aS'vanille'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'litres de'
 p13
 aS'rhum blanc'
 p14
 aa(lp15
-S'500.0'
+S'25.0'
 p16
 aS'grammes de'
 p17

@@ -5,14 +5,14 @@ aF3.0
 aI80
 a(lp2
 (lp3
-S'3.0'
+S'0.3'
 p4
 aS'None'
 p5
 aS'oranges'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'litres de'
 p9

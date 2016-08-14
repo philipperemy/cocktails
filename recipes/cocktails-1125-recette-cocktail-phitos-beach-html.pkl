@@ -1,8 +1,8 @@
 (lp0
 S'Phitos beach'
 p1
-aF3.4
-aI11
+aF3.3
+aI12
 a(lp2
 (lp3
 S'2.0'

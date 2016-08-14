@@ -5,28 +5,28 @@ aF3.3
 aI3
 a(lp2
 (lp3
-S'2.0'
+S'0.1'
 p4
 aS'tasses de fleurs de'
 p5
 aS'mimosas'
 p6
 aa(lp7
-S'25.0'
+S'1.25'
 p8
 aS"cl d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'None'
 p13
 aS'citron'
 p14
 aa(lp15
-S'500.0'
+S'25.0'
 p16
 aS'grammes de'
 p17

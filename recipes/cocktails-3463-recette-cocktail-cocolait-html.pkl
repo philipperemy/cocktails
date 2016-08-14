@@ -5,21 +5,21 @@ aF3.3
 aI145
 a(lp2
 (lp3
-S'1.0'
+S'0.142857142857'
 p4
 aS'litre'
 p5
 aS"jus d'ananas"
 p6
 aa(lp7
-S'40.0'
+S'5.71428571429'
 p8
 aS'cl de'
 p9
 aS'lait de coco'
 p10
 aa(lp11
-S'2.0'
+S'0.285714285714'
 p12
 aS'None'
 p13

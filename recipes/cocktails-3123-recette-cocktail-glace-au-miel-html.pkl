@@ -5,35 +5,35 @@ aF3.8
 aI51
 a(lp2
 (lp3
-S'4.0'
+S'0.8'
 p4
 aS"jaunes d'"
 p5
 aS'oeufs'
 p6
 aa(lp7
-S'50.0'
+S'10.0'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'60.0'
+S'12.0'
 p12
 aS'cl de'
 p13
 aS'sirop de miel'
 p14
 aa(lp15
-S'40.0'
+S'8.0'
 p16
 aS'cl de'
 p17
 aS'lait'
 p18
 aa(lp19
-S'20.0'
+S'4.0'
 p20
 aS'cl de'
 p21

@@ -5,42 +5,42 @@ aF3.1
 aI13
 a(lp2
 (lp3
-S'3.0'
+S'0.6'
 p4
 aS'None'
 p5
 aS'citrons'
 p6
 aa(lp7
-S'50.0'
+S'10.0'
 p8
 aS"cl d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'50.0'
+S'10.0'
 p12
 aS'grammes de'
 p13
 aS'sucre'
 p14
 aa(lp15
-S'25.0'
+S'5.0'
 p16
 aS'cl de'
 p17
 aS'vodka'
 p18
 aa(lp19
-S'300.0'
+S'60.0'
 p20
 aS'grammes de'
 p21
 aS'fraises'
 p22
 aa(lp23
-S'9.0'
+S'1.8'
 p24
 aS'feuilles de'
 p25

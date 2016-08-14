@@ -12,14 +12,14 @@ p5
 aS'caf\xc3\xa9'
 p6
 aa(lp7
-S'1.0'
+S'0.25'
 p8
 aS'gousse de'
 p9
 aS'cardamome'
 p10
 aa(lp11
-S'1.0'
+S'0.25'
 p12
 aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
 p13
@@ -33,7 +33,7 @@ p17
 aS'sucre roux (cassonade)'
 p18
 aa(lp19
-S'1.0'
+S'0.25'
 p20
 aS'boule de'
 p21

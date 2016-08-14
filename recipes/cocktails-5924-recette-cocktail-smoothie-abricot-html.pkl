@@ -5,28 +5,28 @@ aF3.0
 aI2
 a(lp2
 (lp3
-S'6.0'
+S'3.0'
 p4
 aS'None'
 p5
 aS'abricots'
 p6
 aa(lp7
-S'2.0'
+S'1.0'
 p8
 aS'None'
 p9
 aS'yaourt nature'
 p10
 aa(lp11
-S'1.0'
+S'0.5'
 p12
 aS'None'
 p13
 aS'citron'
 p14
 aa(lp15
-S'3.0'
+S'1.5'
 p16
 aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
 p17

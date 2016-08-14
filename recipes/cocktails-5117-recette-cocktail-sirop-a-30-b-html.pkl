@@ -5,14 +5,14 @@ aF2.5
 aI8
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS"litre d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'1350.0'
+S'67.5'
 p8
 aS'g de'
 p9

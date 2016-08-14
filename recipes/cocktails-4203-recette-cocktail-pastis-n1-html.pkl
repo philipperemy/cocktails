@@ -5,21 +5,21 @@ aF2.0
 aI4
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS"cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 d'"
 p5
 aS'an\xc3\xa9thol'
 p6
 aa(lp7
-S'50.0'
+S'5.0'
 p8
 aS"cl d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'50.0'
+S'5.0'
 p12
 aS"cl d'"
 p13

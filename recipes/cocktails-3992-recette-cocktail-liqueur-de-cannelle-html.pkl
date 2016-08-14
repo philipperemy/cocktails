@@ -5,21 +5,21 @@ aF3.5
 aI10
 a(lp2
 (lp3
-S'2.0'
+S'0.2'
 p4
 aS'None'
 p5
 aS'b\xc3\xa2tons de cannelle'
 p6
 aa(lp7
-S'50.0'
+S'5.0'
 p8
 aS"cl d'"
 p9
 aS'alcool de fruits'
 p10
 aa(lp11
-S'350.0'
+S'35.0'
 p12
 aS'grammes de'
 p13

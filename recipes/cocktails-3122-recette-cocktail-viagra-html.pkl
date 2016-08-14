@@ -5,14 +5,14 @@ aF3.0
 aI136
 a(lp2
 (lp3
-S'50.0'
+S'25.0'
 p4
 aS'cl de'
 p5
 aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
 p6
 aa(lp7
-S'75.0'
+S'37.5'
 p8
 aS'cl de'
 p9
@@ -26,7 +26,7 @@ p13
 aS'chocolat en poudre'
 p14
 aa(lp15
-S'1.0'
+S'0.5'
 p16
 aS'gousse de'
 p17

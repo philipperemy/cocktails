@@ -5,28 +5,28 @@ aF2.7
 aI9
 a(lp2
 (lp3
-S'0.25'
+S'0.0125'
 p4
 aS"litre d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'175.0'
+S'8.75'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'0.5'
+S'0.025'
 p12
 aS"litre d'"
 p13
 aS'eau-de-vie'
 p14
 aa(lp15
-S'500.0'
+S'25.0'
 p16
 aS'grammes de'
 p17

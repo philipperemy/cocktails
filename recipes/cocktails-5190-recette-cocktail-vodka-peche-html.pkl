@@ -5,14 +5,14 @@ aF3.8
 aI9
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'None'
 p5
 aS'p\xc3\xaache'
 p6
 aa(lp7
-S'1.0'
+S'0.05'
 p8
 aS'litre de'
 p9

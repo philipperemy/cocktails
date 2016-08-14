@@ -5,7 +5,7 @@ aF2.3
 aI27
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS"litre d'"
 p5
@@ -19,7 +19,7 @@ p9
 aS'feuilles de m\xc3\xa9lisse'
 p10
 aa(lp11
-S'1.0'
+S'0.1'
 p12
 aS'kg de'
 p13

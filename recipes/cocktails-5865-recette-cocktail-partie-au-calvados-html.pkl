@@ -5,56 +5,56 @@ aF2.5
 aI17
 a(lp2
 (lp3
-S'2.0'
+S'0.2'
 p4
 aS'None'
 p5
 aS'citrons verts'
 p6
 aa(lp7
-S'2.0'
+S'0.2'
 p8
 aS'None'
 p9
 aS'pommes'
 p10
 aa(lp11
-S'3.0'
+S'0.3'
 p12
 aS'None'
 p13
 aS'clous de girofle'
 p14
 aa(lp15
-S'200.0'
+S'20.0'
 p16
 aS'grammes de'
 p17
 aS'sucre'
 p18
 aa(lp19
-S'20.0'
+S'2.0'
 p20
 aS'cl de'
 p21
 aS'jus de citrons'
 p22
 aa(lp23
-S'30.0'
+S'3.0'
 p24
 aS'cl de'
 p25
 aS'calvados'
 p26
 aa(lp27
-S'150.0'
+S'15.0'
 p28
 aS'cl de'
 p29
 aS'cidre'
 p30
 aa(lp31
-S'30.0'
+S'3.0'
 p32
 aS"cl d'"
 p33

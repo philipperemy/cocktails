@@ -5,49 +5,49 @@ aF3.1
 aI23
 a(lp2
 (lp3
-S'60.0'
+S'6.0'
 p4
 aS'cl de'
 p5
 aS'rhum blanc'
 p6
 aa(lp7
-S'40.0'
+S'4.0'
 p8
 aS'cl de'
 p9
 aS'jus de pamplemousses'
 p10
 aa(lp11
-S'20.0'
+S'2.0'
 p12
 aS'cl de'
 p13
 aS'sirop de sucre de canne'
 p14
 aa(lp15
-S'4.0'
+S'0.4'
 p16
 aS'cuill\xc3\xa8re de'
 p17
 aS'cannelle en poudre'
 p18
 aa(lp19
-S'3.0'
+S'0.3'
 p20
 aS'None'
 p21
 aS'citrons verts'
 p22
 aa(lp23
-S'1.0'
+S'0.1'
 p24
 aS'None'
 p25
 aS'orange'
 p26
 aa(lp27
-S'0.5'
+S'0.05'
 p28
 aS'None'
 p29

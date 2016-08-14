@@ -5,28 +5,28 @@ aF3.3
 aI241
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'b\xc3\xa2ton de'
 p5
 aS'cannelle'
 p6
 aa(lp7
-S'20.0'
+S'1.0'
 p8
 aS'cl de'
 p9
 aS'sirop de sucre de canne'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'None'
 p13
 aS'gousses de vanille'
 p14
 aa(lp15
-S'250.0'
+S'12.5'
 p16
 aS"grammes d'"
 p17
@@ -47,14 +47,14 @@ p25
 aS'oranges'
 p26
 aa(lp27
-S'50.0'
+S'2.5'
 p28
 aS'cl de'
 p29
 aS'riesling'
 p30
 aa(lp31
-S'100.0'
+S'5.0'
 p32
 aS'cl de'
 p33

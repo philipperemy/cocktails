@@ -5,14 +5,14 @@ aF2.2
 aI6
 a(lp2
 (lp3
-S'100.0'
+S'33.3333333333'
 p4
 aS'grammes de'
 p5
 aS"m&m;'s"
 p6
 aa(lp7
-S'50.0'
+S'16.6666666667'
 p8
 aS'cl de'
 p9

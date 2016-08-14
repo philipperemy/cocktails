@@ -5,42 +5,42 @@ aF3.3
 aI4
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'litres de'
 p5
 aS'vin blanc'
 p6
 aa(lp7
-S'3.0'
+S'0.15'
 p8
 aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
 p9
 aS'chicor\xc3\xa9e'
 p10
 aa(lp11
-S'250.0'
+S'12.5'
 p12
 aS'grammes de'
 p13
 aS'coriandre'
 p14
 aa(lp15
-S'5.0'
+S'0.25'
 p16
 aS"jaunes d'"
 p17
 aS'oeufs'
 p18
 aa(lp19
-S'300.0'
+S'15.0'
 p20
 aS'grammes de'
 p21
 aS'sucre'
 p22
 aa(lp23
-S'1.0'
+S'0.05'
 p24
 aS"verre d'"
 p25

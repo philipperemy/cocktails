@@ -5,63 +5,63 @@ aF3.4
 aI7
 a(lp2
 (lp3
-S'50.0'
+S'5.0'
 p4
 aS"cl d'"
 p5
 aS'alcool \xc3\xa0 45\xc2\xb0'
 p6
 aa(lp7
-S'6.0'
+S'0.6'
 p8
 aS"t\xc3\xaates d'"
 p9
 aS'anis \xc3\xa9toil\xc3\xa9'
 p10
 aa(lp11
-S'1.0'
+S'0.1'
 p12
 aS"cuill\xc3\xa8re \xc3\xa0 soupe d'"
 p13
 aS'anis vert'
 p14
 aa(lp15
-S'400.0'
+S'40.0'
 p16
 aS'grammes de'
 p17
 aS'sucre'
 p18
 aa(lp19
-S'1.5'
+S'0.15'
 p20
 aS'litres de'
 p21
 aS'vin blanc'
 p22
 aa(lp23
-S'1.0'
+S'0.1'
 p24
 aS'cuill\xc3\xa8re \xc3\xa0 soupe de graines de'
 p25
 aS'fenouil'
 p26
 aa(lp27
-S'1.0'
+S'0.1'
 p28
 aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
 p29
 aS'coriandre'
 p30
 aa(lp31
-S'1.0'
+S'0.1'
 p32
 aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
 p33
 aS'baies de geni\xc3\xa8vre'
 p34
 aa(lp35
-S'10.0'
+S'1.0'
 p36
 aS"cl d'"
 p37

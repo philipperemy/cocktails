@@ -5,21 +5,21 @@ aF3.1
 aI41
 a(lp2
 (lp3
-S'0.8'
+S'0.04'
 p4
 aS'de'
 p5
 aS'grenache noir'
 p6
 aa(lp7
-S'0.1'
+S'0.005'
 p8
 aS'de'
 p9
 aS'grenache gris'
 p10
 aa(lp11
-S'0.1'
+S'0.005'
 p12
 aS'de'
 p13

@@ -5,42 +5,42 @@ aF2.7
 aI150
 a(lp2
 (lp3
-S'4.0'
+S'2.0'
 p4
 aS'cl de'
 p5
 aS'cura\xc3\xa7ao bleu'
 p6
 aa(lp7
-S'4.0'
+S'2.0'
 p8
 aS'cl de'
 p9
 aS'rhum blanc'
 p10
 aa(lp11
-S'4.0'
+S'2.0'
 p12
 aS'cl de'
 p13
 aS'tequila'
 p14
 aa(lp15
-S'4.0'
+S'2.0'
 p16
 aS'cl de'
 p17
 aS'vermouth dry (martini, noilly prat)'
 p18
 aa(lp19
-S'4.0'
+S'2.0'
 p20
 aS'cl de'
 p21
 aS'sirop de sucre de canne'
 p22
 aa(lp23
-S'1.0'
+S'0.5'
 p24
 aS"trait d'"
 p25

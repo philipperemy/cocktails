@@ -5,35 +5,35 @@ aF4.0
 aI4
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'litres de'
 p5
 aS'vodka'
 p6
 aa(lp7
-S'2.0'
+S'0.1'
 p8
 aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de grains de'
 p9
 aS'fenouil'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'None'
 p13
 aS'clous de girofle'
 p14
 aa(lp15
-S'1.0'
+S'0.05'
 p16
 aS'morceau de'
 p17
 aS'cannelle'
 p18
 aa(lp19
-S'90.0'
+S'4.5'
 p20
 aS'grammes de'
 p21

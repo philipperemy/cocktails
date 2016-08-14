@@ -5,28 +5,28 @@ aF3.2
 aI71
 a(lp2
 (lp3
-S'1.5'
+S'0.075'
 p4
 aS'kilo de'
 p5
 aS'sucre'
 p6
 aa(lp7
-S'1.0'
+S'0.05'
 p8
 aS"litre d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS"litre d'"
 p13
 aS'alcool \xc3\xa0 90\xc2\xb0'
 p14
 aa(lp15
-S'1.25'
+S'0.0625'
 p16
 aS'kilos de'
 p17

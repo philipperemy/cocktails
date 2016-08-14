@@ -5,7 +5,7 @@ aF2.6
 aI26
 a(lp2
 (lp3
-S'30.0'
+S'1.5'
 p4
 aS'cl de'
 p5
@@ -19,7 +19,7 @@ p9
 aS'vin rouge'
 p10
 aa(lp11
-S'10.0'
+S'0.5'
 p12
 aS'cl de'
 p13

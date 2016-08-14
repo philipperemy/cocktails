@@ -19,28 +19,28 @@ p9
 aS'fruits de saison'
 p10
 aa(lp11
-S'6.0'
+S'0.3'
 p12
 aS'None'
 p13
 aS'citrons'
 p14
 aa(lp15
-S'5.0'
+S'0.25'
 p16
 aS'bouteilles de'
 p17
 aS'champagne'
 p18
 aa(lp19
-S'1.0'
+S'0.05'
 p20
 aS'bouteille de'
 p21
 aS'marasquin'
 p22
 aa(lp23
-S'1.0'
+S'0.05'
 p24
 aS'bouteille de'
 p25

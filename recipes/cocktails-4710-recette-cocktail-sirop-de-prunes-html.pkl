@@ -12,7 +12,7 @@ p5
 aS'sucre'
 p6
 aa(lp7
-S'2.0'
+S'0.1'
 p8
 aS'kilos de'
 p9

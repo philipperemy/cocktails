@@ -5,14 +5,14 @@ aF3.3
 aI3
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS"litre d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'3.0'
+S'0.15'
 p8
 aS'kilos de'
 p9

@@ -5,21 +5,21 @@ aF3.8
 aI6
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS"litre d'"
 p5
 aS'eau-de-vie blanche'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'branche de'
 p9
 aS'verveine'
 p10
 aa(lp11
-S'20.0'
+S'2.0'
 p12
 aS'cubes de'
 p13

@@ -5,28 +5,28 @@ aF1.9
 aI10
 a(lp2
 (lp3
-S'200.0'
+S'10.0'
 p4
 aS"grammes de noyaux d'"
 p5
 aS'abricots'
 p6
 aa(lp7
-S'1.0'
+S'0.05'
 p8
 aS"litre d'"
 p9
 aS'eau-de-vie \xc3\xa0 40\xc2\xb0'
 p10
 aa(lp11
-S'250.0'
+S'12.5'
 p12
 aS'grammes de'
 p13
 aS'sucre'
 p14
 aa(lp15
-S'25.0'
+S'1.25'
 p16
 aS"cl d'"
 p17

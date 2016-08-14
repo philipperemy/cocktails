@@ -5,35 +5,35 @@ aF2.6
 aI8
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS"litre d'"
 p5
 aS'alcool \xc3\xa0 90\xc2\xb0'
 p6
 aa(lp7
-S'1.0'
+S'0.05'
 p8
 aS'None'
 p9
 aS'anana'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'gramme de'
 p13
 aS'safran'
 p14
 aa(lp15
-S'1.0'
+S'0.05'
 p16
 aS'gousse de'
 p17
 aS'vanille'
 p18
 aa(lp19
-S'500.0'
+S'25.0'
 p20
 aS'grammes de'
 p21

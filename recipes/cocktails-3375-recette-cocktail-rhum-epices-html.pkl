@@ -19,42 +19,42 @@ p9
 aS'citrons'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'b\xc3\xa2ton de'
 p13
 aS'cannelle'
 p14
 aa(lp15
-S'1.0'
+S'0.05'
 p16
 aS'gousse de'
 p17
 aS'vanille'
 p18
 aa(lp19
-S'1.0'
+S'0.05'
 p20
 aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
 p21
 aS'sirop de miel'
 p22
 aa(lp23
-S'2.0'
+S'0.1'
 p24
 aS'cl de'
 p25
 aS'sucre'
 p26
 aa(lp27
-S'100.0'
+S'5.0'
 p28
 aS'cl de'
 p29
 aS'rhum blanc'
 p30
 aa(lp31
-S'2.0'
+S'0.1'
 p32
 aS'None'
 p33

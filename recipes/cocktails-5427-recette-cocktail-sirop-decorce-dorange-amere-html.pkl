@@ -5,21 +5,21 @@ aF3.0
 aI4
 a(lp2
 (lp3
-S'100.0'
+S'5.0'
 p4
 aS"grammes de zestes secs d'"
 p5
 aS'oranges'
 p6
 aa(lp7
-S'10.0'
+S'0.5'
 p8
 aS'cl de'
 p9
 aS'alcool \xc3\xa0 60\xc2\xb0'
 p10
 aa(lp11
-S'100.0'
+S'5.0'
 p12
 aS'cl de'
 p13

@@ -5,21 +5,21 @@ aF3.4
 aI5
 a(lp2
 (lp3
-S'6.0'
+S'0.2'
 p4
 aS'None'
 p5
 aS'pamplemousses'
 p6
 aa(lp7
-S'1.0'
+S'0.0333333333333'
 p8
 aS'kilo de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'1.0'
+S'0.0333333333333'
 p12
 aS'None'
 p13

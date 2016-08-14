@@ -5,21 +5,21 @@ aF2.9
 aI57
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS"litre d'"
 p5
 aS'alcool \xc3\xa0 95\xc2\xb0'
 p6
 aa(lp7
-S'5.0'
+S'0.25'
 p8
 aS'litres de'
 p9
 aS'jus de raisins muscat'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS'kilo de'
 p13

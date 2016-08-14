@@ -5,42 +5,42 @@ aF3.0
 aI57
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'litres de'
 p5
 aS'vin blanc'
 p6
 aa(lp7
-S'3.0'
+S'0.15'
 p8
 aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
 p9
 aS'chicor\xc3\xa9e'
 p10
 aa(lp11
-S'1.0'
+S'0.05'
 p12
 aS"verre d'"
 p13
 aS'eau-de-vie'
 p14
 aa(lp15
-S'250.0'
+S'12.5'
 p16
 aS'grammes de'
 p17
 aS'coriandre'
 p18
 aa(lp19
-S'25.0'
+S'1.25'
 p20
 aS'None'
 p21
 aS'amandes am\xc3\xa8res'
 p22
 aa(lp23
-S'300.0'
+S'15.0'
 p24
 aS'grammes de'
 p25

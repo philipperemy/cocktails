@@ -5,14 +5,14 @@ aF3.8
 aI16
 a(lp2
 (lp3
-S'1.0'
+S'0.25'
 p4
 aS'litre de'
 p5
 aS'vinaigre de vin'
 p6
 aa(lp7
-S'7.0'
+S'1.75'
 p8
 aS"gousses d'"
 p9

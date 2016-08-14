@@ -5,28 +5,28 @@ aF3.1
 aI92
 a(lp2
 (lp3
-S'25.0'
+S'1.25'
 p4
 aS"cl d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'25.0'
+S'1.25'
 p8
 aS"cl d'"
 p9
 aS'eau-de-vie'
 p10
 aa(lp11
-S'75.0'
+S'3.75'
 p12
 aS'grammes de'
 p13
 aS'p\xc3\xa9tales de roses'
 p14
 aa(lp15
-S'350.0'
+S'17.5'
 p16
 aS'grammes de'
 p17

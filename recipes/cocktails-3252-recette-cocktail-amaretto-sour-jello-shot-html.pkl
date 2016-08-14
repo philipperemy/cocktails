@@ -5,28 +5,28 @@ aF3.6
 aI54
 a(lp2
 (lp3
-S'16.0'
+S'2.28571428571'
 p4
 aS"cl d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'10.0'
+S'1.42857142857'
 p8
 aS"cl d'"
 p9
 aS'amaretto'
 p10
 aa(lp11
-S'2.0'
+S'0.285714285714'
 p12
 aS'cl de'
 p13
 aS'jus de citrons'
 p14
 aa(lp15
-S'2.0'
+S'0.285714285714'
 p16
 aS'grammes de'
 p17

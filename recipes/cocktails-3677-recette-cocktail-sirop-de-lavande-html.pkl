@@ -5,28 +5,28 @@ aF3.0
 aI9
 a(lp2
 (lp3
-S'50.0'
+S'5.0'
 p4
 aS"cl d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'kilo de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'20.0'
+S'2.0'
 p12
 aS'grammes de'
 p13
 aS'fleurs de lavande'
 p14
 aa(lp15
-S'2.0'
+S'0.2'
 p16
 aS'None'
 p17

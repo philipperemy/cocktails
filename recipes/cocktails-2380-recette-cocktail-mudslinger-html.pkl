@@ -5,21 +5,21 @@ aF3.4
 aI9
 a(lp2
 (lp3
-S'75.0'
+S'4.16666666667'
 p4
 aS'cl de'
 p5
 aS'liqueur de p\xc3\xaaches'
 p6
 aa(lp7
-S'100.0'
+S'5.55555555556'
 p8
 aS'cl de'
 p9
 aS"jus d'oranges"
 p10
 aa(lp11
-S'75.0'
+S'4.16666666667'
 p12
 aS'cl de'
 p13

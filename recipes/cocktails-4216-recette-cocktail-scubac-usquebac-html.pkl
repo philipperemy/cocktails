@@ -5,56 +5,56 @@ aF4.3
 aI3
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS'gousse de'
 p5
 aS'vanille'
 p6
 aa(lp7
-S'4.0'
+S'0.4'
 p8
 aS'gramms de'
 p9
 aS'macis'
 p10
 aa(lp11
-S'2.0'
+S'0.2'
 p12
 aS'grammes de'
 p13
 aS'safran'
 p14
 aa(lp15
-S'2.0'
+S'0.2'
 p16
 aS'grammes de'
 p17
 aS'clous de girofle'
 p18
 aa(lp19
-S'2.0'
+S'0.2'
 p20
 aS'grammes de'
 p21
 aS'coriandre'
 p22
 aa(lp23
-S'1.0'
+S'0.1'
 p24
 aS'None'
 p25
 aS'citron'
 p26
 aa(lp27
-S'4.0'
+S'0.4'
 p28
 aS'litres de'
 p29
 aS'vodka'
 p30
 aa(lp31
-S'4.0'
+S'0.4'
 p32
 aS'grammes de'
 p33

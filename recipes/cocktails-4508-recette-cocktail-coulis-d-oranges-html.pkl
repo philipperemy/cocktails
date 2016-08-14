@@ -5,42 +5,42 @@ aF3.9
 aI13
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS"morceau d'"
 p5
 aS'orange confite'
 p6
 aa(lp7
-S'1.0'
+S'0.1'
 p8
 aS'feuille de'
 p9
 aS'g\xc3\xa9latine'
 p10
 aa(lp11
-S'1.0'
+S'0.1'
 p12
 aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
 p13
 aS'sucre'
 p14
 aa(lp15
-S'1.0'
+S'0.1'
 p16
 aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
 p17
 aS'triple sec (cointreau, grand marnier)'
 p18
 aa(lp19
-S'0.5'
+S'0.05'
 p20
 aS'None'
 p21
 aS'citron'
 p22
 aa(lp23
-S'25.0'
+S'2.5'
 p24
 aS'cl de'
 p25

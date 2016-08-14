@@ -5,21 +5,21 @@ aF2.7
 aI31
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS"litre d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'300.0'
+S'15.0'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'2.0'
+S'0.1'
 p12
 aS'gousses de'
 p13

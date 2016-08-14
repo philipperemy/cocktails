@@ -5,14 +5,14 @@ aF3.2
 aI9
 a(lp2
 (lp3
-S'100.0'
+S'10.0'
 p4
 aS"grammes d'"
 p5
 aS'amandes'
 p6
 aa(lp7
-S'500.0'
+S'50.0'
 p8
 aS"grammes d'"
 p9

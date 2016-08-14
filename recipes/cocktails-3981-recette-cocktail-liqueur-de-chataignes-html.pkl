@@ -5,7 +5,7 @@ aF3.1
 aI10
 a(lp2
 (lp3
-S'1.0'
+S'0.05'
 p4
 aS'pot de'
 p5

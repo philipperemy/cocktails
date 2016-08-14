@@ -5,42 +5,42 @@ aF3.6
 aI14
 a(lp2
 (lp3
-S'15.0'
+S'0.75'
 p4
 aS'None'
 p5
 aS'abricots'
 p6
 aa(lp7
-S'25.0'
+S'1.25'
 p8
 aS"cl d'"
 p9
 aS'eau'
 p10
 aa(lp11
-S'25.0'
+S'1.25'
 p12
 aS"cl d'"
 p13
 aS'alcool \xc3\xa0 90\xc2\xb0'
 p14
 aa(lp15
-S'1.0'
+S'0.05'
 p16
 aS'None'
 p17
 aS'batons de cannelle'
 p18
 aa(lp19
-S'1.5'
+S'0.075'
 p20
 aS'litres de'
 p21
 aS'vin blanc'
 p22
 aa(lp23
-S'200.0'
+S'10.0'
 p24
 aS'grammes de'
 p25

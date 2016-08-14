@@ -12,21 +12,21 @@ p5
 aS'eau'
 p6
 aa(lp7
-S'300.0'
+S'15.0'
 p8
 aS'grammes de'
 p9
 aS'sucre'
 p10
 aa(lp11
-S'100.0'
+S'5.0'
 p12
 aS'grammes de'
 p13
 aS'bourgeons de sapin'
 p14
 aa(lp15
-S'0.5'
+S'0.025'
 p16
 aS"litre d'"
 p17

@@ -5,7 +5,7 @@ aF3.0
 aI3
 a(lp2
 (lp3
-S'1.0'
+S'0.1'
 p4
 aS'None'
 p5

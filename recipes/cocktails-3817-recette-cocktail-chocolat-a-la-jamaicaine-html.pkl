@@ -5,28 +5,28 @@ aF3.9
 aI25
 a(lp2
 (lp3
-S'1.0'
+S'0.25'
 p4
 aS"litre d'"
 p5
 aS'eau'
 p6
 aa(lp7
-S'150.0'
+S'37.5'
 p8
 aS'grammes de'
 p9
 aS'chocolat noir'
 p10
 aa(lp11
-S'50.0'
+S'12.5'
 p12
 aS'grammes de'
 p13
 aS'sucre roux (cassonade)'
 p14
 aa(lp15
-S'10.0'
+S'2.5'
 p16
 aS'cl de'
 p17

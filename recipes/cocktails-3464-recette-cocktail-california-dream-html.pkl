@@ -2,38 +2,38 @@
 S'California Dream'
 p1
 aF3.8
-aI259
+aI260
 a(lp2
 (lp3
-S'6.0'
+S'3.0'
 p4
 aS'None'
 p5
 aS'fraises'
 p6
 aa(lp7
-S'1.0'
+S'0.5'
 p8
 aS'None'
 p9
 aS'banane'
 p10
 aa(lp11
-S'15.0'
+S'7.5'
 p12
 aS'cl de'
 p13
 aS"jus d'oranges"
 p14
 aa(lp15
-S'1.0'
+S'0.5'
 p16
 aS'None'
 p17
 aS'kiwi'
 p18
 aa(lp19
-S'1.0'
+S'0.5'
 p20
 aS'None'
 p21

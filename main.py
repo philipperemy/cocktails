@@ -5,7 +5,7 @@ import numpy as np
 from utils import *
 
 
-def build_vocabulary(elements, max_features_percentage=1.0):
+def build_vocabulary(elements, max_features_percentage=0.1):
     c = collections.Counter(elements)
     max_features = int(max_features_percentage * len(c))
     features = dict()
@@ -19,6 +19,13 @@ def build_vocabulary(elements, max_features_percentage=1.0):
     reversed_features = {v: k for k, v in features.items()}
     return features, max_features, reversed_features
 
+
+def apply_ingredient_nlp(recipes):
+    descriptions = []
+    for recipe in recipes:
+        descriptions.append([ingredient[2].strip().lower().decode('utf-8') for ingredient in recipe[3]])
+    rating = np.array([v[1] for v in recipes])
+    return descriptions, rating
 
 def build_ingredient_matrix(recipes):
     ingredients = sum([[ingredient[2].strip().lower() for ingredient in recipe[3]] for recipe in recipes], [])
@@ -46,9 +53,6 @@ def build_ingredient_matrix(recipes):
 
 
 def regress(reg):
-    for x_train in X_train:
-        print(x_train)
-
     reg.fit(X_train, Y_train)
     pred = reg.predict(X_test)
     for i in range(len(pred)):
@@ -70,7 +74,7 @@ if __name__ == '__main__':
     X_test = ingredients_matrix[cutoff:]
     Y_test = rating_values[cutoff:]
 
-    from sklearn.linear_model import SGDRegressor
+    from sklearn.neural_network import MLPRegressor
 
-    reg2 = SGDRegressor()
+    reg2 = MLPRegressor(hidden_layer_sizes=(10,), max_iter=1000, verbose=True)
     regress(reg2)

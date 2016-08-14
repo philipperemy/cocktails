@@ -5,35 +5,35 @@ aF3.3
 aI20
 a(lp2
 (lp3
-S'2.0'
+S'0.2'
 p4
 aS'None'
 p5
 aS'yaourt flanby'
 p6
 aa(lp7
-S'250.0'
+S'25.0'
 p8
 aS'grammes de'
 p9
 aS'lait concentr\xc3\xa9 sucr\xc3\xa9'
 p10
 aa(lp11
-S'1.0'
+S'0.1'
 p12
 aS'None'
 p13
 aS'caf\xc3\xa9'
 p14
 aa(lp15
-S'20.0'
+S'2.0'
 p16
 aS'cl de'
 p17
 aS'whisky (bourbon, whiskey)'
 p18
 aa(lp19
-S'20.0'
+S'2.0'
 p20
 aS"cl d'"
 p21

@@ -5,35 +5,35 @@ aF3.6
 aI18
 a(lp2
 (lp3
-S'17.5'
+S'0.875'
 p4
 aS"ml d'"
 p5
 aS'acide phosphorique'
 p6
 aa(lp7
-S'30.0'
+S'1.5'
 p8
 aS'ml de'
 p9
 aS'colorant caramel'
 p10
 aa(lp11
-S'2.36'
+S'0.118'
 p12
 aS'kilos de'
 p13
 aS'sucre'
 p14
 aa(lp15
-S'2.28'
+S'0.114'
 p16
 aS"litres d'"
 p17
 aS'eau'
 p18
 aa(lp19
-S'10.0'
+S'0.5'
 p20
 aS'ml de'
 p21
