@@ -33,3 +33,6 @@ if __name__ == '__main__':
     os.remove('bad.txt.2.w')
     read_and_write('good.txt.2')
     read_and_write('bad.txt.2')
+
+# sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g' bad.txt > bad.txt.2
+# sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g' good.txt > good.txt.2
