@@ -18,7 +18,6 @@ if __name__ == '__main__':
 
     descriptions = []
     for recipe in recipes:
-        #    descriptions.append('. '.join([' '.join(v) for v in recipe[3]]).decode('utf-8'))
         descriptions.append('. '.join([v[2] for v in recipe[3]]).decode('utf-8'))
     labels = np.array([v[1] for v in recipes])
     mean_label = np.mean(labels.flatten())

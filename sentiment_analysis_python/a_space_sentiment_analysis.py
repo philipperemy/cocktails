@@ -60,8 +60,8 @@ def evaluate_features(feature_select):
             negFeatures.append(negWords)
 
     # selects 3/4 of the features to be used for training and 1/4 to be used for testing
-    posCutoff = int(math.floor(len(posFeatures) * 3 / 4))
-    negCutoff = int(math.floor(len(negFeatures) * 3 / 4))
+    posCutoff = int(math.floor(len(posFeatures) * 3/4))
+    negCutoff = int(math.floor(len(negFeatures) * 3/4))
     trainFeatures = posFeatures[:posCutoff] + negFeatures[:negCutoff]
     testFeatures = posFeatures[posCutoff:] + negFeatures[negCutoff:]
 
@@ -81,7 +81,7 @@ def evaluate_features(feature_select):
     # prints metrics to show how well the feature selection did
     print 'train on %d instances, test on %d instances' % (len(trainFeatures), len(testFeatures))
     print 'accuracy:', nltk.classify.util.accuracy(classifier, testFeatures)
-    show_most_information_features(classifier, 1000)
+    show_most_information_features(classifier, 30)
 
 
 # creates a feature selection mechanism that uses all words
@@ -150,14 +150,13 @@ def find_best_words(word_scores, number):
 def best_word_features(words):
     return dict([(word, True) for word in words if word in best_words])
 
+print 'using all words as features'
+evaluate_features(make_full_dict)
 
 # numbers of features to select
-numbers_to_test = [500]
+numbers_to_test = [10, 20, 50, 100, 200, 500, 1000, 2000, 4000, 6000, 8000]
 # tries the best_word_features mechanism with each of the numbers_to_test of features
 for num in numbers_to_test:
     print 'evaluating best %d word features' % (num)
-    print ''
-    print ''
-    print ''
     best_words = find_best_words(word_scores, num)
     evaluate_features(best_word_features)

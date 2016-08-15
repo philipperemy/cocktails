@@ -1,7 +1,7 @@
 import itertools
 
 
-def filter_line(line, tuple_length=3):
+def filter_line(line, tuple_length=2):
     elements = line.split('.')
     new_elements = []
     for elt in elements:
@@ -29,10 +29,12 @@ def read_and_write(filename):
 
 if __name__ == '__main__':
     import os
+
     os.remove('good.txt.2.w')
     os.remove('bad.txt.2.w')
     read_and_write('good.txt.2')
     read_and_write('bad.txt.2')
 
-# sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g' bad.txt > bad.txt.2
-# sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g' good.txt > good.txt.2
+    # tuple_length = 3
+    # cocktail_str = 'vodka black_currant_syrup caramel_syrup curacao water'
+    # print(' '.join(['+'.join(v) for v in set(itertools.combinations(cocktail_str.split(), tuple_length))]))

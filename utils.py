@@ -8,20 +8,10 @@ import pickle
 import re
 from string import ascii_uppercase
 
-# sys.setrecursionlimit(10000)
-
 import requests
 from bs4 import BeautifulSoup
 from slugify import slugify
 
-
-# TODO: no ingredients means REMOVE IT.
-# concerns only two rows.
-# Otherwise we're going to bias our model with ['Verre des dieux', 4.0/5.0, 4, []]
-
-# recipeYield
-# <span itemprop="recipeYield">pour 20 personnes</span>
-# should be only for 1 PERSON.
 
 def adjust_quantity_with_number_of_people(quantity, num_people):
     if quantity is None:
@@ -33,10 +23,7 @@ def adjust_quantity_with_number_of_people(quantity, num_people):
 
 def convert_to_float(number_str):
     # http://stackoverflow.com/questions/1806278/convert-fraction-to-float
-
     number_str = number_str.strip().lower().replace(',', '.').encode('ascii', 'ignore').replace('  ', '-')
-
-    # recette-cocktail-maury-premier-printemps.html
     if '%' in number_str:
         number_str = number_str.replace('%', '')
         return float(number_str) * 0.01
@@ -119,6 +106,7 @@ def get_recipe_and_rating(urls, handler=None):
             assert response.status_code == 200
             content = response.content
             soup = BeautifulSoup(content, 'html.parser')
+
             rating_value = float(soup.find_all('span', {'itemprop': 'ratingValue'})[0].next)
             rating_count = int(soup.find_all('span', {'itemprop': 'ratingCount'})[0].next)
             name = soup.find_all('h1', {'itemprop': 'name'})[0].next.encode('utf-8').strip()
@@ -126,7 +114,7 @@ def get_recipe_and_rating(urls, handler=None):
 
             how_many_people_str = str(soup.find('span', {'itemprop': 'recipeYield'}).contents[0])
             group = re.search('[0-9]+', how_many_people_str)
-            if group == None:
+            if group is None:
                 for_how_many_people = 1
             else:
                 for_how_many_people = float(group.group())
