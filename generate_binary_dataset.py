@@ -11,7 +11,7 @@ from utils import *
 
 NEG_FILE = 'data/neg.txt'
 POS_FILE = 'data/pos.txt'
-TUPLE_LENGTH = 3
+TUPLE_LENGTH = 10
 
 
 def read_and_write(filename, tuple_length=2):
