@@ -1,7 +1,0 @@
-(lp0
-S'Verre des dieux'
-p1
-aF4.0
-aI4
-a(lp2
-a.

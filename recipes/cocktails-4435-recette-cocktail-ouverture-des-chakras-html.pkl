@@ -1,7 +1,0 @@
-(lp0
-S'Ouverture des chakras'
-p1
-aF3.0
-aI2
-a(lp2
-a.
