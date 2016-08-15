@@ -1,0 +1,21 @@
+(lp0
+S'Vodka piment'
+p1
+aF3.5
+aI10
+a(lp2
+(lp3
+S'0.05'
+p4
+aS'litre de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'None'
+p9
+aS'piments rouges'
+p10
+aaa.

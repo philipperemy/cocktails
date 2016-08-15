@@ -1,0 +1,35 @@
+(lp0
+S'Chantaco'
+p1
+aF3.6
+aI219
+a(lp2
+(lp3
+S'0.25'
+p4
+aS'de'
+p5
+aS"jus d'orange"
+p6
+aa(lp7
+S'0.25'
+p8
+aS'de'
+p9
+aS'jus de citron'
+p10
+aa(lp11
+S'0.25'
+p12
+aS'de'
+p13
+aS'jus de pamplemousse'
+p14
+aa(lp15
+S'0.25'
+p16
+aS'de'
+p17
+aS'sirop de fraise'
+p18
+aaa.

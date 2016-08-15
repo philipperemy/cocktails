@@ -1,0 +1,28 @@
+(lp0
+S'491'
+p1
+aF3.3
+aI27
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'ginger ale (canada dry)'
+p14
+aaa.

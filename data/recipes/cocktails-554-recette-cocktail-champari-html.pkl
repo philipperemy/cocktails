@@ -1,0 +1,21 @@
+(lp0
+S'Champari'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'angostura bitters'
+p10
+aaa.

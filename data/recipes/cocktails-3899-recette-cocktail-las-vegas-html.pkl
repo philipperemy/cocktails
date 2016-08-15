@@ -1,0 +1,42 @@
+(lp0
+S'Las Vegas'
+p1
+aF4.0
+aI10
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'sirop de cassis'
+p6
+aa(lp7
+S'12.0'
+p8
+aS'cl de'
+p9
+aS'eau'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cura\xc3\xa7ao bleu'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'vodka'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'sirop de caramel'
+p22
+aaa.

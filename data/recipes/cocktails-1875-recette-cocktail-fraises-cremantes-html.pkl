@@ -1,0 +1,42 @@
+(lp0
+S'Fraises cr\xc3\xa9mantes'
+p1
+aF3.2
+aI131
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'boules de'
+p5
+aS'sorbet \xc3\xa0 la fraise'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de fraises'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'champagne'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'None'
+p17
+aS'fraise'
+p18
+aa(lp19
+S'None'
+p20
+aS'None'
+p21
+aS'sucre'
+p22
+aaa.

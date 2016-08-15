@@ -1,0 +1,28 @@
+(lp0
+S'Malibu choco'
+p1
+aF3.9
+aI10
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS'liqueur de coco (cocogif, malibu)'
+p6
+aa(lp7
+S'20.0'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cuillere a soupe'
+p13
+aS'chocolat en poudre'
+p14
+aaa.

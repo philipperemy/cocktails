@@ -1,0 +1,35 @@
+(lp0
+S'Smoothie Fraise'
+p1
+aF3.7
+aI323
+a(lp2
+(lp3
+S'83.3333333333'
+p4
+aS'grammes de'
+p5
+aS'fraises'
+p6
+aa(lp7
+S'0.333333333333'
+p8
+aS'None'
+p9
+aS'yaourt nature'
+p10
+aa(lp11
+S'0.666666666667'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS'sirop de miel'
+p14
+aa(lp15
+S'3.33333333333'
+p16
+aS'cl de'
+p17
+aS'lait'
+p18
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Fresh Cucumber'
+p1
+aF4.7
+aI3
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'sirop de concombre'
+p10
+aa(lp11
+S'5.0'
+p12
+aS"cl d'"
+p13
+aS'eau gazeuse (perrier, salvetat)'
+p14
+aaa.

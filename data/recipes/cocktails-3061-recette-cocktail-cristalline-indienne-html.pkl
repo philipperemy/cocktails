@@ -1,0 +1,35 @@
+(lp0
+S'Cristalline indienne'
+p1
+aF4.3
+aI7
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'vodka vanille'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'curry'
+p18
+aaa.

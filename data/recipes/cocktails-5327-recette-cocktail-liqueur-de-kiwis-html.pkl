@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de Kiwis'
+p1
+aF2.8
+aI18
+a(lp2
+(lp3
+S'0.733333333333'
+p4
+aS'None'
+p5
+aS'kiwis'
+p6
+aa(lp7
+S'3.33333333333'
+p8
+aS'cl de'
+p9
+aS'vodka'
+p10
+aa(lp11
+S'0.0333333333333'
+p12
+aS'gousse de'
+p13
+aS'vanille'
+p14
+aa(lp15
+S'0.666666666667'
+p16
+aS'cl de'
+p17
+aS'sirop de sucre de canne'
+p18
+aaa.

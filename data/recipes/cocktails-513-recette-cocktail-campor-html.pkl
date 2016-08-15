@@ -1,0 +1,21 @@
+(lp0
+S'Campor'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'None'
+p4
+aS'jus'
+p5
+aS"jus d'oranges"
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'angostura bitters'
+p10
+aaa.

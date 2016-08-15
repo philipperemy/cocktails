@@ -1,0 +1,42 @@
+(lp0
+S'Sant\xc3\xa9'
+p1
+aF3.1
+aI163
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'poires'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'pommes'
+p10
+aa(lp11
+S'12.5'
+p12
+aS'cl de'
+p13
+aS"jus d'oranges"
+p14
+aa(lp15
+S'12.5'
+p16
+aS'cl de'
+p17
+aS'yaourt nature'
+p18
+aa(lp19
+S'0.25'
+p20
+aS'cl de'
+p21
+aS'sirop de miel'
+p22
+aaa.

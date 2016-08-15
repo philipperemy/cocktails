@@ -1,0 +1,35 @@
+(lp0
+S'Champagne cocktail'
+p1
+aF4.4
+aI467
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'morceau de'
+p5
+aS'sucre roux (cassonade)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS"traits d'"
+p9
+aS'angostura bitters'
+p10
+aa(lp11
+S'10.0'
+p12
+aS'cl de'
+p13
+aS'champagne'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'cognac'
+p18
+aaa.

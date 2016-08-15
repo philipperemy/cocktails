@@ -1,0 +1,28 @@
+(lp0
+S'Tall Black Russian'
+p1
+aF3.4
+aI54
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'cola (coca cola, pepsi)'
+p14
+aaa.

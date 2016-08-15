@@ -1,0 +1,21 @@
+(lp0
+S'Sirop de betterave'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'5.0'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'25.0'
+p8
+aS'grammes de'
+p9
+aS'vergeoise brune'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Kiss Cool'
+p1
+aF3.4
+aI666
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de menthe blanche (get 31)'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'cura\xc3\xa7ao bleu'
+p14
+aaa.

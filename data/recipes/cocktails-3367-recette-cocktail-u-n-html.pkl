@@ -1,0 +1,63 @@
+(lp0
+S'U.N.'
+p1
+aF3.6
+aI10
+a(lp2
+(lp3
+S'0.166666666667'
+p4
+aS'de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'0.166666666667'
+p8
+aS'de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'0.166666666667'
+p12
+aS'de'
+p13
+aS'gin'
+p14
+aa(lp15
+S'0.166666666667'
+p16
+aS'de'
+p17
+aS'rhum blanc'
+p18
+aa(lp19
+S'0.166666666667'
+p20
+aS'de'
+p21
+aS'aquavit (akvavit)'
+p22
+aa(lp23
+S'0.0833333333333'
+p24
+aS'de'
+p25
+aS'vodka'
+p26
+aa(lp27
+S'0.0833333333333'
+p28
+aS'de'
+p29
+aS'spiritueux anis\xc3\xa9 (pastis, ricard, pernod)'
+p30
+aa(lp31
+S'None'
+p32
+aS'un trait de'
+p33
+aS'tequila'
+p34
+aaa.

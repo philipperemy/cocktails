@@ -1,0 +1,21 @@
+(lp0
+S'Liqueur de chataignes'
+p1
+aF3.1
+aI10
+a(lp2
+(lp3
+S'0.05'
+p4
+aS'pot de'
+p5
+aS'confiture de chataignes'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'eau-de-vie de fruits'
+p10
+aaa.

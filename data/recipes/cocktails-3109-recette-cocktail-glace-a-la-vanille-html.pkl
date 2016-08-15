@@ -1,0 +1,35 @@
+(lp0
+S'Glace \xc3\xa0 la vanille'
+p1
+aF3.8
+aI110
+a(lp2
+(lp3
+S'0.333333333333'
+p4
+aS'None'
+p5
+aS'gousses de vanille'
+p6
+aa(lp7
+S'16.6666666667'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'1.33333333333'
+p12
+aS"jaunes d'"
+p13
+aS'oeufs'
+p14
+aa(lp15
+S'23.3333333333'
+p16
+aS'grammes de'
+p17
+aS'sucre'
+p18
+aaa.

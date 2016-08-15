@@ -1,0 +1,42 @@
+(lp0
+S'Margarita Jello Shot'
+p1
+aF3.4
+aI70
+a(lp2
+(lp3
+S'2.28571428571'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'tequila'
+p10
+aa(lp11
+S'0.428571428571'
+p12
+aS'cl de'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aa(lp15
+S'0.285714285714'
+p16
+aS'cl de'
+p17
+aS'jus de citrons'
+p18
+aa(lp19
+S'0.285714285714'
+p20
+aS'grammes de'
+p21
+aS'g\xc3\xa9latine en poudre'
+p22
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Roberto'
+p1
+aF2.6
+aI20
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'jus'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'vermouth dry (martini, noilly prat)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'amaretto'
+p14
+aaa.

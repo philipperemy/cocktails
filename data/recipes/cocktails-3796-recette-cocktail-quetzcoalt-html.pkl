@@ -1,0 +1,56 @@
+(lp0
+S'Quetzcoalt'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cuill\xc3\xa8re de'
+p5
+aS'yaourt nature'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cuill\xc3\xa8re de'
+p9
+aS'coulis de framboises'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sirop de fruit de la passion (maracuja)'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'jus de bananes'
+p18
+aa(lp19
+S'5.0'
+p20
+aS'cl de'
+p21
+aS'jus de pommes'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'cl de'
+p25
+aS'midori'
+p26
+aa(lp27
+S'3.0'
+p28
+aS'cl de'
+p29
+aS'vodka'
+p30
+aaa.

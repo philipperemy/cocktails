@@ -1,0 +1,35 @@
+(lp0
+S'Sirop d\xe2\x80\x99\xc3\xa9corce d\xe2\x80\x99orange am\xc3\xa8re'
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'5.0'
+p4
+aS"grammes de zestes secs d'"
+p5
+aS'oranges'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'alcool \xc3\xa0 60\xc2\xb0'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'cl de'
+p13
+aS'eau'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'sucre'
+p18
+aaa.

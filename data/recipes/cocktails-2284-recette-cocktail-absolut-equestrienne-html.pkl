@@ -1,0 +1,35 @@
+(lp0
+S'Absolut Equestrienne'
+p1
+aF3.4
+aI30
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de bananes (pisang ambon)'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'sirop de citrons'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'cidre'
+p18
+aaa.

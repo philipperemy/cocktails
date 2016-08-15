@@ -1,0 +1,42 @@
+(lp0
+S'In\xc3\xa8s'
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'0.3'
+p4
+aS'volumes de'
+p5
+aS'vermouth dry (martini, noilly prat)'
+p6
+aa(lp7
+S'0.3'
+p8
+aS'volumes de'
+p9
+aS'vermouth rose (martini, cinzano)'
+p10
+aa(lp11
+S'0.3'
+p12
+aS'volumes de'
+p13
+aS'gin'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'volumes de'
+p17
+aS'amaretto'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'None'
+p21
+aS'olive'
+p22
+aaa.

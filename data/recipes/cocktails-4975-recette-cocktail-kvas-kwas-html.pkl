@@ -1,0 +1,63 @@
+(lp0
+S'Kvas (kwas)'
+p1
+aF4.0
+aI5
+a(lp2
+(lp3
+S'0.2'
+p4
+aS"litres d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'grammes de'
+p9
+aS'levure'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'None'
+p16
+aS'quelques'
+p17
+aS'feuilles de cassis'
+p18
+aa(lp19
+S'None'
+p20
+aS'quelques branches de'
+p21
+aS'menthe'
+p22
+aa(lp23
+S'2.5'
+p24
+aS'grammes de'
+p25
+aS'raisins secs'
+p26
+aa(lp27
+S'0.05'
+p28
+aS'zeste de'
+p29
+aS'citrons'
+p30
+aa(lp31
+S'25.0'
+p32
+aS'grammes de'
+p33
+aS'pain de seigle'
+p34
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Mizuwari'
+p1
+aF2.3
+aI11
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'eau'
+p10
+aaa.

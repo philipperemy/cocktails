@@ -1,0 +1,42 @@
+(lp0
+S'Tilleul aux lierre'
+p1
+aF5.0
+aI1
+a(lp2
+(lp3
+S'0.25'
+p4
+aS'poign\xc3\xa9e'
+p5
+aS'fleurs de tilleul'
+p6
+aa(lp7
+S'0.25'
+p8
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9'
+p9
+aS'anis'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p17
+aS'feuilles de lierre grimpant'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'rondelles'
+p21
+aS'citrons'
+p22
+aaa.

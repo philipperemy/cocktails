@@ -1,0 +1,21 @@
+(lp0
+S'Vodka Carambar (Vodkarambar)'
+p1
+aF3.5
+aI192
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'None'
+p5
+aS'carambars'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'bouteille de'
+p9
+aS'vodka'
+p10
+aaa.

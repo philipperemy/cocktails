@@ -1,0 +1,21 @@
+(lp0
+S'M\xc3\xaal\xc3\xa9-cass'
+p1
+aF1.7
+aI10
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'calvados'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'cr\xc3\xa8me de cassis'
+p10
+aaa.

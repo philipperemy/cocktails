@@ -1,0 +1,21 @@
+(lp0
+S'Red Down'
+p1
+aF3.3
+aI6
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'vodka rouge (eristoff)'
+p6
+aa(lp7
+S'7.0'
+p8
+aS'cl de'
+p9
+aS'limonade (soda, sprite, 7up)'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Fancy lemonade'
+p1
+aF3.9
+aI15
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'2.5'
+p8
+aS'cl de'
+p9
+aS'sirop de fraises'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sucre'
+p14
+aaa.

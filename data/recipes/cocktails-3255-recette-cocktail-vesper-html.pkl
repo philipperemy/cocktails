@@ -1,0 +1,35 @@
+(lp0
+S'Vesper'
+p1
+aF2.7
+aI362
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'6.0'
+p8
+aS'cl de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'lillet blanc'
+p14
+aa(lp15
+S'1.0'
+p16
+aS"zeste d'"
+p17
+aS'oranges'
+p18
+aaa.

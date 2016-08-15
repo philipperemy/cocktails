@@ -1,0 +1,21 @@
+(lp0
+S'Barbe Blanche'
+p1
+aF3.5
+aI11
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'sirop de barbe \xc3\xa0 papa'
+p10
+aaa.

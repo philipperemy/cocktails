@@ -1,0 +1,42 @@
+(lp0
+S'Coulis saharien'
+p1
+aF2.6
+aI5
+a(lp2
+(lp3
+S'0.25'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aa(lp11
+S'0.025'
+p12
+aS'None'
+p13
+aS'banane'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'None'
+p17
+aS'p\xc3\xaaches'
+p18
+aa(lp19
+S'0.1'
+p20
+aS'None'
+p21
+aS'abricots'
+p22
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Baby Guinness'
+p1
+aF3.7
+aI15
+a(lp2
+(lp3
+S'0.8'
+p4
+aS'de'
+p5
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'de'
+p9
+aS'cr\xc3\xa8me de whisky (baileys)'
+p10
+aaa.

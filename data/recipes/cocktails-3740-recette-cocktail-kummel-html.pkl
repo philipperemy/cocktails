@@ -1,0 +1,56 @@
+(lp0
+S'Kummel'
+p1
+aF3.0
+aI5
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litre d'"
+p5
+aS'alcool \xc3\xa0 45\xc2\xb0'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'grammes de'
+p9
+aS'carvi'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS"graines d'anis"
+p14
+aa(lp15
+S'0.05'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p17
+aS'coriandre'
+p18
+aa(lp19
+S'None'
+p20
+aS"zeste d'un"
+p21
+aS'citrons'
+p22
+aa(lp23
+S'50.0'
+p24
+aS'grammes de'
+p25
+aS'sucre'
+p26
+aa(lp27
+S'2.0'
+p28
+aS"cl d'"
+p29
+aS'eau'
+p30
+aaa.

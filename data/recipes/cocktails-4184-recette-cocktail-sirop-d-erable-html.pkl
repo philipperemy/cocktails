@@ -1,0 +1,14 @@
+(lp0
+S"Sirop d'erable"
+p1
+aF3.7
+aI74
+a(lp2
+(lp3
+S'None'
+p4
+aS'quelques'
+p5
+aS'\xc3\xa9rables'
+p6
+aaa.

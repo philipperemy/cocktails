@@ -1,0 +1,42 @@
+(lp0
+S'Glace au citron'
+p1
+aF3.4
+aI47
+a(lp2
+(lp3
+S'3.75'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'None'
+p9
+aS'citrons'
+p10
+aa(lp11
+S'45.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.5'
+p16
+aS"blancs d'"
+p17
+aS'oeufs'
+p18
+aa(lp19
+S'15.0'
+p20
+aS'cl de'
+p21
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p22
+aaa.

@@ -1,0 +1,63 @@
+(lp0
+S'Cola de mono'
+p1
+aF2.5
+aI2
+a(lp2
+(lp3
+S'2.5'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'0.4'
+p8
+aS'None'
+p9
+aS'clous de girofle'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'pinc\xc3\xa9e de'
+p13
+aS'noix de muscade'
+p14
+aa(lp15
+S'0.2'
+p16
+aS'b\xc3\xa2tons de'
+p17
+aS'cannelle'
+p18
+aa(lp19
+S'0.2'
+p20
+aS'litres de'
+p21
+aS'lait'
+p22
+aa(lp23
+S'0.3'
+p24
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p25
+aS'caf\xc3\xa9 soluble'
+p26
+aa(lp27
+S'0.6'
+p28
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p29
+aS'sucre'
+p30
+aa(lp31
+S'2.5'
+p32
+aS'cl de'
+p33
+aS'pisco'
+p34
+aaa.

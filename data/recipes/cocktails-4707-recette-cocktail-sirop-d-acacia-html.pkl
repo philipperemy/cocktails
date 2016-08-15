@@ -1,0 +1,35 @@
+(lp0
+S"Sirop d'acacia"
+p1
+aF2.5
+aI20
+a(lp2
+(lp3
+S'7.5'
+p4
+aS"grammes de p\xc3\xa9tales d'"
+p5
+aS'acacia'
+p6
+aa(lp7
+S'2.5'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'30.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.025'
+p16
+aS'None'
+p17
+aS'citron'
+p18
+aaa.

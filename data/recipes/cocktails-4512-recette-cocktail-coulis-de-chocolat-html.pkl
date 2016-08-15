@@ -1,0 +1,28 @@
+(lp0
+S'Coulis de chocolat'
+p1
+aF3.9
+aI75
+a(lp2
+(lp3
+S'7.5'
+p4
+aS'grammes de'
+p5
+aS'chocolat noir'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'noix de'
+p9
+aS'beurre'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p14
+aaa.

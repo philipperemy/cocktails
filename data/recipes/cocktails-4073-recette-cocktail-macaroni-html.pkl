@@ -1,0 +1,28 @@
+(lp0
+S'Macaroni'
+p1
+aF3.5
+aI13
+a(lp2
+(lp3
+S'0.7'
+p4
+aS'None'
+p5
+aS'spiritueux anis\xc3\xa9 (pastis, ricard, pernod)'
+p6
+aa(lp7
+S'0.3'
+p8
+aS'None'
+p9
+aS'vermouth rouge (martini, cinzano)'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'eau'
+p14
+aaa.

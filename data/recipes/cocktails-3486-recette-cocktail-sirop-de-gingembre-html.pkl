@@ -1,0 +1,42 @@
+(lp0
+S'Sirop de gingembre'
+p1
+aF2.4
+aI7
+a(lp2
+(lp3
+S'1.5'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'jus de pommes'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'd\xc3\xa9 de'
+p13
+aS'gingembre'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'zestes de'
+p17
+aS'citrons'
+p18
+aa(lp19
+S'0.1'
+p20
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p21
+aS'jus de citrons'
+p22
+aaa.

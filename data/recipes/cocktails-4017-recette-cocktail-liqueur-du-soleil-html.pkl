@@ -1,0 +1,49 @@
+(lp0
+S'Liqueur du soleil'
+p1
+aF4.0
+aI21
+a(lp2
+(lp3
+S'0.1'
+p4
+aS'None'
+p5
+aS'citrons vert'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'poign\xc3\xa9e de'
+p9
+aS'geni\xc3\xa8vre'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'litres de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'pinc\xc3\xa9e de'
+p17
+aS'cannelle'
+p18
+aa(lp19
+S'30.0'
+p20
+aS'grammes de'
+p21
+aS'sucre'
+p22
+aa(lp23
+S'1.5'
+p24
+aS"cl d'"
+p25
+aS'eau'
+p26
+aaa.

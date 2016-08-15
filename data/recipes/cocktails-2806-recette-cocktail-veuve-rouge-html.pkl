@@ -1,0 +1,21 @@
+(lp0
+S'Veuve rouge'
+p1
+aF3.3
+aI13
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'de'
+p5
+aS'energy drink (red bull, pitbull, duff)'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'de'
+p9
+aS'champagne'
+p10
+aaa.

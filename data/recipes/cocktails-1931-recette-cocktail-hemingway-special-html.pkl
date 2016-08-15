@@ -1,0 +1,35 @@
+(lp0
+S'Hemingway Sp\xc3\xa9cial'
+p1
+aF3.9
+aI186
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'rhum cubain'
+p6
+aa(lp7
+S'None'
+p8
+aS"jus d'un"
+p9
+aS'citrons verts'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS'jus de pamplemousses'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cuill\xc3\xa8res de'
+p17
+aS'marasquin'
+p18
+aaa.

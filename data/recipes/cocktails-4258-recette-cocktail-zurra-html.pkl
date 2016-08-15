@@ -1,0 +1,49 @@
+(lp0
+S'Zurra'
+p1
+aF3.4
+aI20
+a(lp2
+(lp3
+S'0.3'
+p4
+aS'cl de'
+p5
+aS'liqueur de p\xc3\xaaches'
+p6
+aa(lp7
+S'0.15'
+p8
+aS"cl d'"
+p9
+aS'eau-de-vie de poires williams'
+p10
+aa(lp11
+S'2.5'
+p12
+aS'cl de'
+p13
+aS'nectar de p\xc3\xaaches'
+p14
+aa(lp15
+S'0.05'
+p16
+aS'None'
+p17
+aS'p\xc3\xaache'
+p18
+aa(lp19
+S'0.15'
+p20
+aS'None'
+p21
+aS'nectarines'
+p22
+aa(lp23
+S'None'
+p24
+aS'None'
+p25
+aS'vin mousseux'
+p26
+aaa.

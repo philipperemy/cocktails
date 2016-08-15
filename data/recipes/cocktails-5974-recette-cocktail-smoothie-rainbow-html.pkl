@@ -1,0 +1,70 @@
+(lp0
+S'Smoothie Rainbow'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'banane'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'orange'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'poign\xc3\xa9e de'
+p13
+aS'myrtilles'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'poign\xc3\xa9e de'
+p17
+aS'fraises'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'poign\xc3\xa9e de'
+p21
+aS'framboises'
+p22
+aa(lp23
+S'2.0'
+p24
+aS"rondelles d'"
+p25
+aS'ananas au sirop'
+p26
+aa(lp27
+S'1.0'
+p28
+aS'None'
+p29
+aS'yaourt nature'
+p30
+aa(lp31
+S'1.0'
+p32
+aS'None'
+p33
+aS'kiwi'
+p34
+aa(lp35
+S'4.0'
+p36
+aS'feuilles de'
+p37
+aS'basilic'
+p38
+aaa.

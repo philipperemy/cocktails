@@ -1,0 +1,21 @@
+(lp0
+S'Kir valletais (Kir montassier)'
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'cr\xc3\xa8me de cassis'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'vin blanc'
+p10
+aaa.

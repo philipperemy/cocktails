@@ -1,0 +1,56 @@
+(lp0
+S'Vin de coings'
+p1
+aF3.3
+aI4
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'None'
+p5
+aS'coings'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'litres de'
+p9
+aS'vodka'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'kilos de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'5.0'
+p16
+aS'grammes de'
+p17
+aS'sel'
+p18
+aa(lp19
+S'3.0'
+p20
+aS'grammes de'
+p21
+aS'levure de bi\xc3\xa8re'
+p22
+aa(lp23
+S'0.5'
+p24
+aS'None'
+p25
+aS'clous de girofle'
+p26
+aa(lp27
+S'5.0'
+p28
+aS"litres d'"
+p29
+aS'eau'
+p30
+aaa.

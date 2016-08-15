@@ -1,0 +1,21 @@
+(lp0
+S'Angostura & Ginger Ale'
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'5.0'
+p4
+aS"traits d'"
+p5
+aS'angostura bitters'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'ginger ale (canada dry)'
+p10
+aaa.

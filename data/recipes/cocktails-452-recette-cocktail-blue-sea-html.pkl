@@ -1,0 +1,56 @@
+(lp0
+S'Blue sea'
+p1
+aF3.6
+aI175
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'None'
+p8
+aS"jus d'un"
+p9
+aS'citrons'
+p10
+aa(lp11
+S'2.5'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'cura\xc3\xa7ao bleu'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cl de'
+p21
+aS'triple sec (cointreau, grand marnier)'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'cl de'
+p25
+aS'tequila'
+p26
+aa(lp27
+S'2.0'
+p28
+aS"gouttes d'"
+p29
+aS'angostura bitters'
+p30
+aaa.

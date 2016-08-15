@@ -1,0 +1,35 @@
+(lp0
+S'Balboa Smoothie'
+p1
+aF3.6
+aI334
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'banane'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'None'
+p9
+aS'yaourt nature'
+p10
+aa(lp11
+S'0.25'
+p12
+aS"cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 d'"
+p13
+aS'extrait de vanille'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS"jus d'oranges"
+p18
+aaa.

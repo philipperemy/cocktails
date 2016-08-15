@@ -1,0 +1,14 @@
+(lp0
+S'Iceberg (ou H2O)'
+p1
+aF2.9
+aI896
+a(lp2
+(lp3
+S'16.0'
+p4
+aS'cl de'
+p5
+aS'eau'
+p6
+aaa.

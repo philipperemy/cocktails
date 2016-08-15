@@ -1,0 +1,42 @@
+(lp0
+S'Baby one more time'
+p1
+aF3.8
+aI13
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'/10\xc3\xa8me'
+p5
+aS'jus de pamplemousses roses'
+p6
+aa(lp7
+S'5.0'
+p8
+aS'/10\xc3\xa8me'
+p9
+aS'tequila'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'/10\xc3\xa8me'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'/10\xc3\xa8me'
+p17
+aS'sirop de roses'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'/10\xc3\xa8me'
+p21
+aS'liqueur de framboises'
+p22
+aaa.

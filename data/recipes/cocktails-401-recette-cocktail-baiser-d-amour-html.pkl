@@ -1,0 +1,28 @@
+(lp0
+S"Baiser d'amour"
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'triple sec (cointreau, grand marnier)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'chocolat en poudre'
+p14
+aaa.

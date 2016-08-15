@@ -1,0 +1,21 @@
+(lp0
+S'Chiwawa'
+p1
+aF3.0
+aI170
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'rhum blanc'
+p10
+aaa.

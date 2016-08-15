@@ -1,0 +1,28 @@
+(lp0
+S'Amarelinha'
+p1
+aF3.0
+aI7
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'jus de 2 ou 3'
+p5
+aS'citrons verts'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'moiti\xc3\xa9es de'
+p9
+aS'p\xc3\xaaches au sirop'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sucre'
+p14
+aaa.

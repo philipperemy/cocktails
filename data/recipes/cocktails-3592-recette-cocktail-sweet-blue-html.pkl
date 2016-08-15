@@ -1,0 +1,28 @@
+(lp0
+S'Sweet blue'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'sour puss'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'sambuca'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'cura\xc3\xa7ao bleu'
+p14
+aaa.

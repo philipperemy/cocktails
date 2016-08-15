@@ -1,0 +1,35 @@
+(lp0
+S'Vasco'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'sirop de citrons'
+p6
+aa(lp7
+S'None'
+p8
+aS'le reste du verre de'
+p9
+aS'eau gazeuse (perrier, salvetat)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'doigt de'
+p13
+aS'gin'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'doigts de'
+p17
+aS'liqueur de menthe verte (get 27)'
+p18
+aaa.

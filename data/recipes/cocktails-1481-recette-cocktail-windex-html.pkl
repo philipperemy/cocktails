@@ -1,0 +1,35 @@
+(lp0
+S'Windex'
+p1
+aF2.9
+aI15
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'mesure de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'0.25'
+p8
+aS'mesure de'
+p9
+aS'cura\xc3\xa7ao bleu'
+p10
+aa(lp11
+S'0.25'
+p12
+aS'mesure de'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'lime cordial'
+p18
+aaa.

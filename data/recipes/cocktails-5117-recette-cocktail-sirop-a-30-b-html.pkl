@@ -1,0 +1,21 @@
+(lp0
+S'Sirop \xc3\xa0 30\xc2\xb0 B'
+p1
+aF2.5
+aI8
+a(lp2
+(lp3
+S'0.05'
+p4
+aS"litre d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'67.5'
+p8
+aS'g de'
+p9
+aS'sucre'
+p10
+aaa.

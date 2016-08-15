@@ -1,0 +1,35 @@
+(lp0
+S'Sirius'
+p1
+aF2.3
+aI6
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'triple sec (cointreau, grand marnier)'
+p14
+aa(lp15
+S'1.5'
+p16
+aS'cl de'
+p17
+aS'liqueur mandarine napol\xc3\xa9on'
+p18
+aaa.

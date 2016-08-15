@@ -1,0 +1,35 @@
+(lp0
+S'Trinidad'
+p1
+aF3.1
+aI140
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'tequila'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'cura\xc3\xa7ao bleu'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'tonic (schweppes)'
+p18
+aaa.

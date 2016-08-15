@@ -1,0 +1,28 @@
+(lp0
+S'Liqueur de dattes'
+p1
+aF2.8
+aI5
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'gousses de vanille'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'None'
+p9
+aS'dattes'
+p10
+aa(lp11
+S'40.0'
+p12
+aS'cl de'
+p13
+aS'cognac'
+p14
+aaa.

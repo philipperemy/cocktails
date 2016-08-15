@@ -1,0 +1,35 @@
+(lp0
+S'Flower Smoothie'
+p1
+aF3.3
+aI27
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'yaourt nature'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'sirop de violette'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'sirop de fleurs de sureau'
+p18
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S"Vinaigre \xc3\xa0 l'estragon"
+p1
+aF3.2
+aI13
+a(lp2
+(lp3
+S'0.2'
+p4
+aS"branches d'"
+p5
+aS'estragon'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'litre de'
+p9
+aS'vin blanc'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Eau de coings'
+p1
+aF3.4
+aI7
+a(lp2
+(lp3
+S'25.0'
+p4
+aS'grammes de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'0.1'
+p8
+aS"litre d'"
+p9
+aS'eau-de-vie'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'kilo de'
+p13
+aS'coings'
+p14
+aaa.

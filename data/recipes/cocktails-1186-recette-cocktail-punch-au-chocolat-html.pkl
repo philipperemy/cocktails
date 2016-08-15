@@ -1,0 +1,56 @@
+(lp0
+S'Punch au chocolat'
+p1
+aF3.5
+aI20
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cannelle'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'caf\xc3\xa9 soluble'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p25
+aS'chocolat en poudre'
+p26
+aa(lp27
+S'15.0'
+p28
+aS'cl de'
+p29
+aS'lait'
+p30
+aaa.

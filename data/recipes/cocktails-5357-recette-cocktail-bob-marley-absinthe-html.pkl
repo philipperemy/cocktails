@@ -1,0 +1,49 @@
+(lp0
+S'Bob Marley Absinthe'
+p1
+aF3.9
+aI7
+a(lp2
+(lp3
+S'6.0'
+p4
+aS"cl d'"
+p5
+aS'eau gazeuse (perrier, salvetat)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS"cl d'"
+p9
+aS'absinthe'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'jus de citrons'
+p14
+aa(lp15
+S'3.0'
+p16
+aS'cl de'
+p17
+aS"jus d'oranges"
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p21
+aS'sucre'
+p22
+aa(lp23
+S'8.0'
+p24
+aS'feuilles de'
+p25
+aS'menthe'
+p26
+aaa.

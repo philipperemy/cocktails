@@ -1,0 +1,28 @@
+(lp0
+S'Tr\xc3\xa9sor de la Buse'
+p1
+aF3.0
+aI4
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'None'
+p5
+aS'gousses de vanille'
+p6
+aa(lp7
+S'40.0'
+p8
+aS'cl de'
+p9
+aS'rhum ambr\xc3\xa9'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de'
+p13
+aS'sucre'
+p14
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Sizzurp'
+p1
+aF2.4
+aI98
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'sirop contre la toux'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'cl de'
+p9
+aS'limonade (soda, sprite, 7up)\t'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'bonbons acidul\xc3\xa9s'
+p14
+aaa.

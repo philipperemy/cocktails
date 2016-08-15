@@ -1,0 +1,28 @@
+(lp0
+S'Lime Cordial'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'1.2'
+p4
+aS'None'
+p5
+aS'citrons verts'
+p6
+aa(lp7
+S'5.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'50.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aaa.

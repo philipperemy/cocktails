@@ -1,0 +1,14 @@
+(lp0
+S'Amaretto Mist'
+p1
+aF3.7
+aI535
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'amaretto'
+p6
+aaa.

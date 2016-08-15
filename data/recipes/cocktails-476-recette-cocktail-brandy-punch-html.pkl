@@ -1,0 +1,63 @@
+(lp0
+S'Brandy punch'
+p1
+aF3.0
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'fruits de saison'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau gazeuse (perrier, salvetat)'
+p10
+aa(lp11
+S'None'
+p12
+aS'cl de'
+p13
+aS'sirop de sucre de canne'
+p14
+aa(lp15
+S'15.0'
+p16
+aS'jus'
+p17
+aS'citrons'
+p18
+aa(lp19
+S'10.0'
+p20
+aS'cl de'
+p21
+aS'marasquin'
+p22
+aa(lp23
+S'20.0'
+p24
+aS'cl de'
+p25
+aS'rhum blanc'
+p26
+aa(lp27
+S'25.0'
+p28
+aS'cl de'
+p29
+aS'triple sec (cointreau, grand marnier)'
+p30
+aa(lp31
+S'1.0'
+p32
+aS'bouteille de'
+p33
+aS'cognac'
+p34
+aaa.

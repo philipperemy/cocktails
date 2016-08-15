@@ -1,0 +1,35 @@
+(lp0
+S'Menthe au citron'
+p1
+aF4.4
+aI5
+a(lp2
+(lp3
+S'3.33333333333'
+p4
+aS'None'
+p5
+aS'feuilles de menthe'
+p6
+aa(lp7
+S'0.166666666667'
+p8
+aS'None'
+p9
+aS'citron'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cubes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.166666666667'
+p16
+aS"litre d'"
+p17
+aS'eau'
+p18
+aaa.

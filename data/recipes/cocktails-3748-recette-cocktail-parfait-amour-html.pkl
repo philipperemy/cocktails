@@ -1,0 +1,63 @@
+(lp0
+S'Parfait amour'
+p1
+aF3.6
+aI5
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litre d'"
+p5
+aS'alcool \xc3\xa0 45\xc2\xb0'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'zeste de'
+p9
+aS'citrons'
+p10
+aa(lp11
+S'0.2'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 soupe de feuilles de'
+p13
+aS'thym'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'b\xc3\xa2ton de'
+p17
+aS'cannelle'
+p18
+aa(lp19
+S'0.1'
+p20
+aS'gramme de'
+p21
+aS'vanille'
+p22
+aa(lp23
+S'0.1'
+p24
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p25
+aS'coriandre'
+p26
+aa(lp27
+S'0.1'
+p28
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p29
+aS'macis'
+p30
+aa(lp31
+S'6.0'
+p32
+aS'cl de'
+p33
+aS'sirop de sucre de canne'
+p34
+aaa.

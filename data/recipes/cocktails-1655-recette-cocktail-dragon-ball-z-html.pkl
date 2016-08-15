@@ -1,0 +1,28 @@
+(lp0
+S'Dragon Ball Z'
+p1
+aF3.3
+aI16
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'absinthe'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'gold strike (goldschlager)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de pommes (manzana, manzanita)'
+p14
+aaa.

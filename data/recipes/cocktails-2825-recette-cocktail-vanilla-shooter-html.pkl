@@ -1,0 +1,21 @@
+(lp0
+S'Vanilla Shooter'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'schnaps vanille'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de cranberry (canneberges)'
+p10
+aaa.

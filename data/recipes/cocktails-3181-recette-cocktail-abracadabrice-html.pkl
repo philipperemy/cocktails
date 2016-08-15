@@ -1,0 +1,28 @@
+(lp0
+S'Abracadabrice'
+p1
+aF3.5
+aI669
+a(lp2
+(lp3
+S'9.0'
+p4
+aS'cl de'
+p5
+aS'jus de cassis'
+p6
+aa(lp7
+S'None'
+p8
+aS"jus d'un quart de"
+p9
+aS'citrons'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'carambar'
+p14
+aaa.

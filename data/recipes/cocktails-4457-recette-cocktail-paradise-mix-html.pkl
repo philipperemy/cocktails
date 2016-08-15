@@ -1,0 +1,35 @@
+(lp0
+S'Paradise mix'
+p1
+aF4.2
+aI33
+a(lp2
+(lp3
+S'0.15'
+p4
+aS'None'
+p5
+aS'bananes'
+p6
+aa(lp7
+S'1.25'
+p8
+aS'cl de'
+p9
+aS"jus d'oranges"
+p10
+aa(lp11
+S'1.25'
+p12
+aS'cl de'
+p13
+aS"jus d'ananas"
+p14
+aa(lp15
+S'1.25'
+p16
+aS'cl de'
+p17
+aS'jus de pommes'
+p18
+aaa.

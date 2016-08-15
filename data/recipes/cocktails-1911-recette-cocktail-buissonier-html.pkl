@@ -1,0 +1,28 @@
+(lp0
+S'Buissonier'
+p1
+aF3.7
+aI63
+a(lp2
+(lp3
+S'0.2'
+p4
+aS'de'
+p5
+aS'sirop de cassi'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'de'
+p9
+aS'sirop de groseille'
+p10
+aa(lp11
+S'0.6'
+p12
+aS'de'
+p13
+aS'jus de groseilles'
+p14
+aaa.

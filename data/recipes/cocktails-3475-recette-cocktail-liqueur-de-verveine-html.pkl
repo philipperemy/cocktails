@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de verveine'
+p1
+aF2.9
+aI21
+a(lp2
+(lp3
+S'0.1'
+p4
+aS'litre de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'gousse de'
+p9
+aS'vanille'
+p10
+aa(lp11
+S'40.0'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'grammes de'
+p17
+aS'verveine'
+p18
+aaa.

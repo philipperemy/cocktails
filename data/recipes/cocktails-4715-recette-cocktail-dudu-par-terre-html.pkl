@@ -1,0 +1,63 @@
+(lp0
+S'Dudu par terre'
+p1
+aF2.0
+aI1
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'gin'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'tequila'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'trait de'
+p17
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p18
+aa(lp19
+S'5.0'
+p20
+aS'gouttes de'
+p21
+aS'jus de citrons'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'gouttes de'
+p25
+aS'vanille'
+p26
+aa(lp27
+S'3.0'
+p28
+aS'cl de'
+p29
+aS'cola (coca cola, pepsi)'
+p30
+aa(lp31
+S'2.0'
+p32
+aS'cl de'
+p33
+aS'limonade (soda, sprite, 7up)'
+p34
+aaa.

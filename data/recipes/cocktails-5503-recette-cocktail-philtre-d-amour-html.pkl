@@ -1,0 +1,63 @@
+(lp0
+S"Philtre d'amour"
+p1
+aF2.9
+aI26
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'None'
+p5
+aS'clous de girofle'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'grain de'
+p9
+aS'poivre noir'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'grammes de'
+p13
+aS'cardamome verte'
+p14
+aa(lp15
+S'10.0'
+p16
+aS'grammes de'
+p17
+aS'gingembre'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'gousse de'
+p21
+aS'vanille'
+p22
+aa(lp23
+S'75.0'
+p24
+aS'cl de'
+p25
+aS'vin blanc'
+p26
+aa(lp27
+S'100.0'
+p28
+aS'grammes de'
+p29
+aS'sirop de miel'
+p30
+aa(lp31
+S'10.0'
+p32
+aS'grammes de'
+p33
+aS'cannelle'
+p34
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Sweet rose'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'de'
+p9
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p10
+aa(lp11
+S'0.4'
+p12
+aS'de'
+p13
+aS'liqueur de fraises des bois'
+p14
+aa(lp15
+S'0.4'
+p16
+aS'de'
+p17
+aS'vodka'
+p18
+aaa.

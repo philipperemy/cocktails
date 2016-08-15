@@ -1,0 +1,28 @@
+(lp0
+S'Punch passion'
+p1
+aF3.0
+aI164
+a(lp2
+(lp3
+S'0.75'
+p4
+aS'cl de'
+p5
+aS'sirop de sucre de canne'
+p6
+aa(lp7
+S'0.25'
+p8
+aS'None'
+p9
+aS'fruit de la passion (maracuja)'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aaa.

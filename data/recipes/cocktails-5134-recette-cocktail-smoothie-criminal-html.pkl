@@ -1,0 +1,42 @@
+(lp0
+S'Smoothie Criminal'
+p1
+aF3.1
+aI51
+a(lp2
+(lp3
+S'0.125'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'12.5'
+p8
+aS'cl de'
+p9
+aS'lait'
+p10
+aa(lp11
+S'62.5'
+p12
+aS'grammes de'
+p13
+aS'framboises'
+p14
+aa(lp15
+S'0.75'
+p16
+aS'None'
+p17
+aS'bananes'
+p18
+aa(lp19
+S'1.25'
+p20
+aS'cl de'
+p21
+aS'sirop de vanille'
+p22
+aaa.

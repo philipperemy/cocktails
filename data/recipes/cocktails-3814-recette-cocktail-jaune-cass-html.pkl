@@ -1,0 +1,28 @@
+(lp0
+S'Jaune cass'
+p1
+aF3.4
+aI12
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'sirop de cassis'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'spiritueux anis\xc3\xa9 (pastis, ricard, pernod)'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'eau'
+p14
+aaa.

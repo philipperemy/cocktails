@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de bouillon-blanc'
+p1
+aF2.4
+aI10
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'fleurs de bouillon blanc'
+p6
+aa(lp7
+S'2.5'
+p8
+aS"cl d'"
+p9
+aS'eau-de-vie'
+p10
+aa(lp11
+S'12.5'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'2.5'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

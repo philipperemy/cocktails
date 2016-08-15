@@ -1,0 +1,49 @@
+(lp0
+S'Beaut\xc3\xa9  Nature'
+p1
+aF4.1
+aI19
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p5
+aS'fleurs de mauve'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p9
+aS'racines de bardane'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p13
+aS"semences d'anis vert"
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p17
+aS'fleurs de bruy\xc3\xa8re'
+p18
+aa(lp19
+S'4.0'
+p20
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p21
+aS'fleurs de lavande'
+p22
+aa(lp23
+S'4.0'
+p24
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p25
+aS'pens\xc3\xa9e sauvage'
+p26
+aaa.

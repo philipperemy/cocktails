@@ -1,0 +1,56 @@
+(lp0
+S'Le frugivore gourmet'
+p1
+aF4.0
+aI2
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'None'
+p5
+aS'avocat'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'None'
+p9
+aS'banane'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'tasse de'
+p13
+aS'fruits rouges'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'poign\xc3\xa9e de'
+p17
+aS'myrtilles (bleuets)'
+p18
+aa(lp19
+S'10.0'
+p20
+aS'None'
+p21
+aS'fraises'
+p22
+aa(lp23
+S'0.5'
+p24
+aS"poign\xc3\xa9e d'"
+p25
+aS'\xc3\xa9pinards'
+p26
+aa(lp27
+S'5.0'
+p28
+aS"cl d'"
+p29
+aS'eau'
+p30
+aaa.

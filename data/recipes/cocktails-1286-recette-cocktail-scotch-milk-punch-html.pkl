@@ -1,0 +1,28 @@
+(lp0
+S'Scotch milk punch'
+p1
+aF3.8
+aI11
+a(lp2
+(lp3
+S'12.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cl de'
+p13
+aS'sucre'
+p14
+aaa.

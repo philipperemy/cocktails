@@ -1,0 +1,35 @@
+(lp0
+S'Orange Sombrero'
+p1
+aF4.1
+aI8
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'tequila'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'None'
+p16
+aS"tranche d'"
+p17
+aS'oranges'
+p18
+aaa.

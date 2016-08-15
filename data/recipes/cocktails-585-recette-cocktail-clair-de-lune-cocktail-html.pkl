@@ -1,0 +1,21 @@
+(lp0
+S'Clair de lune cocktail'
+p1
+aF2.0
+aI3
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'eau-de-vie de mirabelles'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'marasquin'
+p10
+aaa.

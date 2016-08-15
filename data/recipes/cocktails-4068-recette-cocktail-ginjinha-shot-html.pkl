@@ -1,0 +1,14 @@
+(lp0
+S'Ginjinha Shot'
+p1
+aF3.8
+aI6
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'ginjinha'
+p6
+aaa.

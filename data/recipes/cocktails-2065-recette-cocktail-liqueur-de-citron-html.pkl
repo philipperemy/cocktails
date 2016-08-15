@@ -1,0 +1,49 @@
+(lp0
+S'Liqueur de citron'
+p1
+aF3.0
+aI111
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litres d'"
+p5
+aS'eau-de-vie \xc3\xa0 40\xc2\xb0'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'grosse pinc\xc3\xa9e de'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'None'
+p13
+aS'clous de girofle'
+p14
+aa(lp15
+S'0.05'
+p16
+aS'kilo de'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'1.25'
+p20
+aS"cl d'"
+p21
+aS'eau'
+p22
+aa(lp23
+S'0.1'
+p24
+aS'kilos de'
+p25
+aS'citrons'
+p26
+aaa.

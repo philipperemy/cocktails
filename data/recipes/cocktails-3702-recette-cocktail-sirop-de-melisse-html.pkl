@@ -1,0 +1,28 @@
+(lp0
+S'Sirop de m\xc3\xa9lisse'
+p1
+aF2.3
+aI27
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litre d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'None'
+p8
+aS'une poign\xc3\xa9e de'
+p9
+aS'feuilles de m\xc3\xa9lisse'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'kg de'
+p13
+aS'sucre'
+p14
+aaa.

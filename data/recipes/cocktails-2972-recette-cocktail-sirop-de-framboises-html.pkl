@@ -1,0 +1,28 @@
+(lp0
+S'Sirop de framboises'
+p1
+aF3.5
+aI177
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'kilos de'
+p5
+aS'framboises'
+p6
+aa(lp7
+S'25.0'
+p8
+aS"cl d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'kilos de'
+p13
+aS'sucre'
+p14
+aaa.

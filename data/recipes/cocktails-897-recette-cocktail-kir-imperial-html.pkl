@@ -1,0 +1,28 @@
+(lp0
+S'Kir imperial'
+p1
+aF3.1
+aI161
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'vin blanc'
+p6
+aa(lp7
+S'9.0'
+p8
+aS'cl de'
+p9
+aS'champagne'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me de framboise'
+p14
+aaa.

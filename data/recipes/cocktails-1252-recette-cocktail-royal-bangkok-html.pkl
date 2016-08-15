@@ -1,0 +1,42 @@
+(lp0
+S'Royal bangkok'
+p1
+aF3.0
+aI5
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'cognac'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'liqueur de goyave'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'jus de goyaves'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'jus de fruit de la passion (maracuja)'
+p22
+aaa.

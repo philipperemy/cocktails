@@ -1,0 +1,70 @@
+(lp0
+S'Barbade'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'3.25'
+p4
+aS'grammes de'
+p5
+aS'b\xc3\xa2tons de cannelle'
+p6
+aa(lp7
+S'0.75'
+p8
+aS'grammes de graines de'
+p9
+aS'coriandre'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'grammes de'
+p13
+aS'clous de girofle'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'None'
+p17
+aS'oranges'
+p18
+aa(lp19
+S'0.125'
+p20
+aS"litres d'"
+p21
+aS'alcool \xc3\xa0 85\xc2\xb0'
+p22
+aa(lp23
+S'0.75'
+p24
+aS"grammes d'"
+p25
+aS'amandes am\xc3\xa8res'
+p26
+aa(lp27
+S'0.2'
+p28
+aS'grammes de'
+p29
+aS'macis'
+p30
+aa(lp31
+S'0.1'
+p32
+aS'grammes de'
+p33
+aS'noix de muscade r\xc3\xa2p\xc3\xa9e'
+p34
+aa(lp35
+S'0.1'
+p36
+aS'None'
+p37
+aS'citrons'
+p38
+aaa.

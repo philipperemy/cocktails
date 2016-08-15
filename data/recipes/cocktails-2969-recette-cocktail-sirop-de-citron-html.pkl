@@ -1,0 +1,35 @@
+(lp0
+S'Sirop de citron'
+p1
+aF3.6
+aI109
+a(lp2
+(lp3
+S'0.6'
+p4
+aS'None'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'None'
+p9
+aS'zestes de citron'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'kilo de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.75'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aaa.

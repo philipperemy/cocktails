@@ -1,0 +1,28 @@
+(lp0
+S'Sirop de caf\xc3\xa9'
+p1
+aF3.3
+aI4
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litre d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'0.15'
+p8
+aS'kg de'
+p9
+aS'caf\xc3\xa9 en poudre'
+p10
+aa(lp11
+S'0.15'
+p12
+aS'kg de'
+p13
+aS'sucre'
+p14
+aaa.

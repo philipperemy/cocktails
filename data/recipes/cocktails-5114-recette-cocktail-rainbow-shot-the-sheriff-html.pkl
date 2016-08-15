@@ -1,0 +1,35 @@
+(lp0
+S'Rainbow Shot the Sheriff'
+p1
+aF3.7
+aI157
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS"jus d'oranges"
+p6
+aa(lp7
+S'0.3'
+p8
+aS'cl de'
+p9
+aS'vodka'
+p10
+aa(lp11
+S'0.3'
+p12
+aS'cl de'
+p13
+aS'sirop de grenadine'
+p14
+aa(lp15
+S'0.2'
+p16
+aS'cl de'
+p17
+aS'cura\xc3\xa7ao bleu'
+p18
+aaa.

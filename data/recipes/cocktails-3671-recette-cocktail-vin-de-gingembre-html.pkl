@@ -1,0 +1,42 @@
+(lp0
+S'Vin de gingembre'
+p1
+aF2.1
+aI15
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'None'
+p9
+aS'clous de girofle'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'grammes de'
+p13
+aS'gingembre'
+p14
+aa(lp15
+S'1.5'
+p16
+aS"cl d'"
+p17
+aS'eau-de-vie'
+p18
+aa(lp19
+S'0.1'
+p20
+aS'litres de'
+p21
+aS'vin rouge'
+p22
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S'Peach and love'
+p1
+aF2.6
+aI30
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'jus de citrons'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'nectar de p\xc3\xaaches'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'cidre'
+p14
+aaa.

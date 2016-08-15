@@ -1,0 +1,21 @@
+(lp0
+S'Incider'
+p1
+aF3.5
+aI8
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cidre'
+p6
+aa(lp7
+S'4.5'
+p8
+aS'cl de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aaa.

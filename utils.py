@@ -3,6 +3,7 @@
 
 from __future__ import print_function
 
+import itertools
 import os
 import pickle
 import re
@@ -91,11 +92,11 @@ def clean_html(raw_html):
 
 def get_recipe_and_rating(urls, handler=None):
     recipes = []
-    if not os.path.exists('recipes'):
-        os.makedirs('recipes')
+    if not os.path.exists('data/recipes'):
+        os.makedirs('data/recipes')
     for i, url in enumerate(urls):
         print('{}/{}'.format(i, len(urls)))
-        cocktail_pickle = 'recipes/{}.pkl'.format(slugify(url))
+        cocktail_pickle = 'data/recipes/{}.pkl'.format(slugify(url))
         if os.path.isfile(cocktail_pickle):
             recipe = pickle.load(open(cocktail_pickle, 'r'))
             # recipe = None # - faster results but does not return anything.
@@ -161,7 +162,7 @@ def get_links(url, depth=0):
 
 
 def get_cocktail_list():
-    cocktail_pickle = 'cocktail_set.pkl'
+    cocktail_pickle = 'data/cocktail_set.pkl'
     if os.path.isfile(cocktail_pickle):
         with open(cocktail_pickle, 'rb') as f:
             cocktail_set = pickle.load(f)
@@ -178,6 +179,47 @@ def get_cocktail_list():
         with open(cocktail_pickle, 'wb') as f:
             pickle.dump(cocktail_set, f)
     return cocktail_set
+
+
+def show_most_information_features(instance, n):
+    # Determine the most relevant features, and display them.
+    cpdist = instance._feature_probdist
+    print('Most Informative Features')
+
+    for (fname, fval) in instance.most_informative_features(n):
+        def labelprob(l):
+            return cpdist[l, fname].prob(fval)
+
+        labels = sorted([l for l in instance._labels
+                         if fval in cpdist[l, fname].samples()],
+                        key=labelprob)
+        if len(labels) == 1:
+            continue
+        l0 = labels[0]
+        l1 = labels[-1]
+        if cpdist[l0, fname].prob(fval) == 0:
+            ratio = 'INF'
+        else:
+            ratio = '%8.1f' % (cpdist[l1, fname].prob(fval) /
+                               cpdist[l0, fname].prob(fval))
+        print(('%24s = %-14r %6s : %-6s = %s : 1.0' %
+               (fname.decode('utf-8'), fval, ("%s" % l1)[:6], ("%s" % l0)[:6], ratio)))
+
+
+def filter_line(line, tuple_length=2):
+    elements = line.split('.')
+    new_elements = []
+    for elt in elements:
+        new_element = []
+        for split_elt in elt.split():
+            split_elt = split_elt.strip()
+            split_elt = split_elt.replace("'", '')
+            if split_elt == 'de':
+                continue
+            new_element.append(split_elt)
+        new_elements.append(new_element)
+    new_str = ' '.join(['_'.join(v) for v in new_elements])
+    return ' '.join(['_'.join(v) for v in set(itertools.permutations(new_str.split(), tuple_length))])
 
 
 if __name__ == '__main__':

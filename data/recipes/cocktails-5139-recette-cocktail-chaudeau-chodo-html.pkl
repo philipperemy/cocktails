@@ -1,0 +1,49 @@
+(lp0
+S'Chaudeau (chodo)'
+p1
+aF3.7
+aI13
+a(lp2
+(lp3
+S'0.166666666667'
+p4
+aS'gousse de'
+p5
+aS'vanille'
+p6
+aa(lp7
+S'0.166666666667'
+p8
+aS'b\xc3\xa2ton de'
+p9
+aS'cannelle'
+p10
+aa(lp11
+S'0.166666666667'
+p12
+aS'litre de'
+p13
+aS'lait'
+p14
+aa(lp15
+S'0.666666666667'
+p16
+aS'None'
+p17
+aS'oeufs'
+p18
+aa(lp19
+S'None'
+p20
+aS'zeste de un'
+p21
+aS'citrons verts'
+p22
+aa(lp23
+S'16.6666666667'
+p24
+aS'grammes de'
+p25
+aS'sucre'
+p26
+aaa.

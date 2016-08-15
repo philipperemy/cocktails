@@ -1,0 +1,42 @@
+(lp0
+S'Liqueur de sauge'
+p1
+aF3.8
+aI5
+a(lp2
+(lp3
+S'0.05'
+p4
+aS"litre d'"
+p5
+aS'eau-de-vie'
+p6
+aa(lp7
+S'0.05'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'kilo de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'2.5'
+p16
+aS'feuilles de'
+p17
+aS'sauge'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'fleurs de'
+p21
+aS'sauge'
+p22
+aaa.

@@ -1,0 +1,42 @@
+(lp0
+S'Liqueur de magnolia'
+p1
+aF2.8
+aI4
+a(lp2
+(lp3
+S'0.05'
+p4
+aS'fleur de'
+p5
+aS'magnolia'
+p6
+aa(lp7
+S'3.75'
+p8
+aS'cl de'
+p9
+aS'vin rouge'
+p10
+aa(lp11
+S'2.0'
+p12
+aS"cl d'"
+p13
+aS'eau-de-vie'
+p14
+aa(lp15
+S'17.5'
+p16
+aS'grammes de'
+p17
+aS'sucre'
+p18
+aa(lp19
+S'0.05'
+p20
+aS'gousse de'
+p21
+aS'vanille'
+p22
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Alize Blond'
+p1
+aF2.2
+aI6
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'triple sec (cointreau, grand marnier)'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'rhum blanc'
+p10
+aaa.

@@ -1,0 +1,56 @@
+(lp0
+S'Liqueur de citron aux \xc3\xa9pices'
+p1
+aF3.7
+aI9
+a(lp2
+(lp3
+S'0.3'
+p4
+aS'None'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'0.1'
+p8
+aS"litre d'"
+p9
+aS'eau-de-vie \xc3\xa0 40\xc2\xb0'
+p10
+aa(lp11
+S'0.1'
+p12
+aS'pinc\xc3\xa9e de'
+p13
+aS'cannelle'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'None'
+p17
+aS'clous de girofle'
+p18
+aa(lp19
+S'0.1'
+p20
+aS'pinc\xc3\xa9e de'
+p21
+aS'safran'
+p22
+aa(lp23
+S'25.0'
+p24
+aS'grammes de'
+p25
+aS'sucre'
+p26
+aa(lp27
+S'1.5'
+p28
+aS"cl d'"
+p29
+aS'eau'
+p30
+aaa.

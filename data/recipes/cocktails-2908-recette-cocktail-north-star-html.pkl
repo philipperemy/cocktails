@@ -1,0 +1,21 @@
+(lp0
+S'North Star'
+p1
+aF2.0
+aI6
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'cl de'
+p5
+aS'jus de citrons'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'jus de pamplemousses'
+p10
+aaa.

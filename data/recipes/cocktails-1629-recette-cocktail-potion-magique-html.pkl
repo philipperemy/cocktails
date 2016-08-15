@@ -1,0 +1,35 @@
+(lp0
+S'Potion magique'
+p1
+aF4.0
+aI143
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'camomille'
+p10
+aa(lp11
+S'3.0'
+p12
+aS"cl d'"
+p13
+aS'infusion de tilleul'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'go\xc3\xbbttes de'
+p17
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p18
+aaa.

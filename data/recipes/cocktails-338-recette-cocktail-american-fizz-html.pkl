@@ -1,0 +1,42 @@
+(lp0
+S'American Fizz'
+p1
+aF3.4
+aI53
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'None'
+p9
+aS'citron'
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'cognac'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'cl de'
+p17
+aS'gin'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'cl de'
+p21
+aS'sirop de grenadine'
+p22
+aaa.

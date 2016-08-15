@@ -1,0 +1,28 @@
+(lp0
+S'Green bull'
+p1
+aF3.2
+aI5
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'cura\xc3\xa7ao bleu'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'bouteille de'
+p13
+aS'energy drink (red bull, pitbull, duff)'
+p14
+aaa.

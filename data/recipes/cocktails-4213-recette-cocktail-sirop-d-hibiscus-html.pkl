@@ -1,0 +1,35 @@
+(lp0
+S"Sirop d'hibiscus"
+p1
+aF3.3
+aI10
+a(lp2
+(lp3
+S'0.1'
+p4
+aS"litre d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'kilo de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'None'
+p13
+aS'citron'
+p14
+aa(lp15
+S'0.1'
+p16
+aS'grosse poign\xc3\xa9e de'
+p17
+aS"fleurs d'hibiscus"
+p18
+aaa.

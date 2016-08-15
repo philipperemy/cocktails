@@ -1,0 +1,42 @@
+(lp0
+S'Slimmer'
+p1
+aF2.5
+aI13
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS"lait d'amandes"
+p6
+aa(lp7
+S'5.0'
+p8
+aS'cl de'
+p9
+aS'th\xc3\xa9 vert'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'yaourt nature'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 soupe de'
+p17
+aS'miel'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'None'
+p21
+aS'caf\xc3\xa9'
+p22
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Vinaigre au basilic'
+p1
+aF2.7
+aI6
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'vinaigre blanc'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'feuilles de'
+p9
+aS'basilic'
+p10
+aaa.

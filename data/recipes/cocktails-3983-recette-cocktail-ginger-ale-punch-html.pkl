@@ -1,0 +1,42 @@
+(lp0
+S'Ginger ale Punch'
+p1
+aF2.5
+aI4
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'grammes de'
+p5
+aS'gingembre'
+p6
+aa(lp7
+S'0.075'
+p8
+aS"litres d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'None'
+p12
+aS'jus de 2'
+p13
+aS'citrons verts'
+p14
+aa(lp15
+S'0.3'
+p16
+aS'None'
+p17
+aS'clous de girofle'
+p18
+aa(lp19
+S'15.0'
+p20
+aS'grammes de'
+p21
+aS'sucre'
+p22
+aaa.

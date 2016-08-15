@@ -1,0 +1,21 @@
+(lp0
+S'Rye and dry'
+p1
+aF3.1
+aI10
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'ginger ale (canada dry)'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aaa.

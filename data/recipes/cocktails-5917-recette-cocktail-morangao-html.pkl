@@ -1,0 +1,28 @@
+(lp0
+S'Morang\xc3\xa3o'
+p1
+aF3.5
+aI8
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'None'
+p5
+aS'fraises'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'citrons vert'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'licor beir\xc3\xa3o'
+p14
+aaa.

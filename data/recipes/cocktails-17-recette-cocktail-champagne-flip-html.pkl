@@ -1,0 +1,49 @@
+(lp0
+S'Champagne flip'
+p1
+aF3.1
+aI106
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"jaune d'"
+p9
+aS'oeufs'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p17
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p18
+aa(lp19
+S'3.0'
+p20
+aS'traits de'
+p21
+aS'triple sec (cointreau, grand marnier)'
+p22
+aa(lp23
+S'2.0'
+p24
+aS'cl de'
+p25
+aS'cognac'
+p26
+aaa.

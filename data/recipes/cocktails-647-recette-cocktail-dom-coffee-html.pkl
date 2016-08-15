@@ -1,0 +1,28 @@
+(lp0
+S'DOM Coffee'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'b\xc3\xa9n\xc3\xa9dictine'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'tasse de'
+p13
+aS'caf\xc3\xa9'
+p14
+aaa.

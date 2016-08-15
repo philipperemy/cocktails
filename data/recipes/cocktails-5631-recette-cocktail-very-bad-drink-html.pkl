@@ -1,0 +1,35 @@
+(lp0
+S'Very Bad Drink'
+p1
+aF3.0
+aI5
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'sirop de violette'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS"sirop d'\xc3\xa9pices (spicy)"
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cl de'
+p17
+aS'sirop de macaron'
+p18
+aaa.

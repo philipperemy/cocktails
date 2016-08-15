@@ -1,0 +1,21 @@
+(lp0
+S'Rhum basilic citron'
+p1
+aF3.2
+aI89
+a(lp2
+(lp3
+S'0.1'
+p4
+aS'bouteille de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'0.1'
+p8
+aS'poign\xc3\xa9e de feuilles de'
+p9
+aS'basilic'
+p10
+aaa.

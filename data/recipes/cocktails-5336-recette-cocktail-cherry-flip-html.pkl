@@ -1,0 +1,42 @@
+(lp0
+S'Cherry flip'
+p1
+aF2.6
+aI5
+a(lp2
+(lp3
+S'4.5'
+p4
+aS'cl de'
+p5
+aS'liqueur de cerises (cherry brandy)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'None'
+p17
+aS'oeuf'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'pinc\xc3\xa9e de'
+p21
+aS'noix de muscade'
+p22
+aaa.

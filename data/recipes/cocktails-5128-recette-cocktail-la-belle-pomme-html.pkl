@@ -1,0 +1,42 @@
+(lp0
+S'La belle pomme'
+p1
+aF3.8
+aI4
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'2.0'
+p8
+aS"cl d'"
+p9
+aS'agave sec'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS"sirop d'agave"
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'jus de citrons'
+p18
+aa(lp19
+S'0.25'
+p20
+aS'None'
+p21
+aS'pomme'
+p22
+aaa.

@@ -1,0 +1,35 @@
+(lp0
+S'Cognac shrub'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'cognac'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'x\xc3\xa9r\xc3\xa8s (sherry)'
+p18
+aaa.

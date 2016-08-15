@@ -1,0 +1,28 @@
+(lp0
+S'Sirop de pissenlit'
+p1
+aF3.1
+aI12
+a(lp2
+(lp3
+S'120.0'
+p4
+aS'None'
+p5
+aS'pissenlits'
+p6
+aa(lp7
+S'0.2'
+p8
+aS"litres d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'0.2'
+p12
+aS'kilos de'
+p13
+aS'sucre'
+p14
+aaa.

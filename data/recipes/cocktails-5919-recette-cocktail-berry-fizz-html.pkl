@@ -1,0 +1,35 @@
+(lp0
+S'Berry Fizz'
+p1
+aF2.9
+aI26
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'sirop de myrtilles'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'lime cordial'
+p10
+aa(lp11
+S'5.0'
+p12
+aS'cl de'
+p13
+aS'gin'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'eau gazeuse (perrier, salvetat)'
+p18
+aaa.

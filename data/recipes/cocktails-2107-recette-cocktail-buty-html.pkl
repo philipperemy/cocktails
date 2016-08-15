@@ -1,0 +1,35 @@
+(lp0
+S'Buty'
+p1
+aF3.3
+aI6
+a(lp2
+(lp3
+S'1.5'
+p4
+aS'cl'
+p5
+aS'cognac'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl'
+p9
+aS'liqueur de bananes (pisang ambon)'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl'
+p13
+aS'liqueur de pommes (manzana, manzanita)'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'trait'
+p17
+aS'sirop de caramel'
+p18
+aaa.

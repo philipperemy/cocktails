@@ -1,0 +1,28 @@
+(lp0
+S'Slow and furious'
+p1
+aF4.5
+aI2
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'energy drink (red bull, pitbull, duff)'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'piment'
+p14
+aaa.

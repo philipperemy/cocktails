@@ -1,0 +1,49 @@
+(lp0
+S'Amba'
+p1
+aF3.5
+aI10
+a(lp2
+(lp3
+S'0.4'
+p4
+aS'volumes de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'0.3'
+p8
+aS'volumes de'
+p9
+aS'rhum ambr\xc3\xa9'
+p10
+aa(lp11
+S'0.2'
+p12
+aS'volumes de'
+p13
+aS'vermouth rouge (martini, cinzano)'
+p14
+aa(lp15
+S'0.05'
+p16
+aS'volumes de'
+p17
+aS"liqueur d'abricots (abricot brandy)"
+p18
+aa(lp19
+S'1.0'
+p20
+aS'zeste de'
+p21
+aS'citrons'
+p22
+aa(lp23
+S'1.0'
+p24
+aS'None'
+p25
+aS'cerises confite'
+p26
+aaa.

@@ -1,0 +1,42 @@
+(lp0
+S'Serengeti'
+p1
+aF3.2
+aI5
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'boule de'
+p5
+aS'sorbet \xc3\xa0 la vanille'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de caf\xc3\xa9 (kahlua, marie brizard)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cl de'
+p13
+aS'sambuca'
+p14
+aa(lp15
+S'1.5'
+p16
+aS"cl d'"
+p17
+aS'amarula'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p22
+aaa.

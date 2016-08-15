@@ -1,0 +1,42 @@
+(lp0
+S'Tu me mangues'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'None'
+p4
+aS"jus d'un demi"
+p5
+aS'citrons verts'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'None'
+p9
+aS'yaourt nature'
+p10
+aa(lp11
+S'150.0'
+p12
+aS'grammes de'
+p13
+aS'mangues'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p17
+aS'miel'
+p18
+aa(lp19
+S'1.0'
+p20
+aS'pinc\xc3\xa9e de'
+p21
+aS'cannelle'
+p22
+aaa.

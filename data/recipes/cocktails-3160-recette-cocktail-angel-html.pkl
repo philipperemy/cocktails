@@ -1,0 +1,35 @@
+(lp0
+S'Angel'
+p1
+aF3.7
+aI12
+a(lp2
+(lp3
+S'0.571428571429'
+p4
+aS'de'
+p5
+aS'cacha\xc3\xa7a'
+p6
+aa(lp7
+S'0.285714285714'
+p8
+aS'de'
+p9
+aS'liqueur de vanille'
+p10
+aa(lp11
+S'0.142857142857'
+p12
+aS'de'
+p13
+aS'jus de citron'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'sirop de roses'
+p18
+aaa.

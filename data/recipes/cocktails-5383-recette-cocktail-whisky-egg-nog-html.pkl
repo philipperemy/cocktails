@@ -1,0 +1,35 @@
+(lp0
+S'Whisky Egg Nog'
+p1
+aF3.2
+aI13
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'whisky (bourbon, whiskey)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'sirop de sucre de canne'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'jaune de'
+p17
+aS'oeufs'
+p18
+aaa.

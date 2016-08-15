@@ -1,0 +1,21 @@
+(lp0
+S'Tangerine Sorbet Champagne'
+p1
+aF2.8
+aI18
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'boule de'
+p5
+aS'sorbet \xc3\xa0 la mandarine'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'cl de'
+p9
+aS'champagne'
+p10
+aaa.

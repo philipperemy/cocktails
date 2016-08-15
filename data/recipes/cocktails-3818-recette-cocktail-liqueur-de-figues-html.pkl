@@ -1,0 +1,28 @@
+(lp0
+S'Liqueur de figues'
+p1
+aF2.8
+aI22
+a(lp2
+(lp3
+S'0.05'
+p4
+aS"litre d'"
+p5
+aS'alcool \xc3\xa0 45\xc2\xb0'
+p6
+aa(lp7
+S'15.0'
+p8
+aS'grammes de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'kilo de'
+p13
+aS'figues'
+p14
+aaa.

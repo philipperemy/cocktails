@@ -1,0 +1,21 @@
+(lp0
+S'Vodka Banana'
+p1
+aF3.6
+aI91
+a(lp2
+(lp3
+S'1.0'
+p4
+aS'bouteille de'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'sachet'
+p9
+aS'bananes en bonbons'
+p10
+aaa.

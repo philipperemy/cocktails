@@ -1,0 +1,28 @@
+(lp0
+S'Double K'
+p1
+aF2.3
+aI16
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'vin blanc'
+p6
+aa(lp7
+S'4.0'
+p8
+aS'cl de'
+p9
+aS'vodka'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me de cassis'
+p14
+aaa.

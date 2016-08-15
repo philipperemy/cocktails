@@ -1,0 +1,28 @@
+(lp0
+S'Siberia'
+p1
+aF2.5
+aI2
+a(lp2
+(lp3
+S'6.0'
+p4
+aS'cl de'
+p5
+aS'lait'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'vodka'
+p10
+aa(lp11
+S'1.5'
+p12
+aS'cl de'
+p13
+aS'liqueur mandarine napol\xc3\xa9on'
+p14
+aaa.

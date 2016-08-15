@@ -1,0 +1,42 @@
+(lp0
+S'Coco Jello Shot'
+p1
+aF3.4
+aI38
+a(lp2
+(lp3
+S'2.28571428571'
+p4
+aS"cl d'"
+p5
+aS'eau'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de coco (cocogif, malibu)'
+p10
+aa(lp11
+S'0.571428571429'
+p12
+aS'cl de'
+p13
+aS'rhum blanc'
+p14
+aa(lp15
+S'0.285714285714'
+p16
+aS'grammes de'
+p17
+aS'g\xc3\xa9latine en poudre'
+p18
+aa(lp19
+S'None'
+p20
+aS'quelques gouttes de'
+p21
+aS'colorant alimentaire'
+p22
+aaa.

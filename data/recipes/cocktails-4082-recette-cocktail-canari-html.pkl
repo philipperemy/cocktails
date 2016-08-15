@@ -1,0 +1,28 @@
+(lp0
+S'Canari'
+p1
+aF2.8
+aI6
+a(lp2
+(lp3
+S'2.5'
+p4
+aS'cl de'
+p5
+aS'spiritueux anis\xc3\xa9 (pastis, ricard, pernod)'
+p6
+aa(lp7
+S'1.5'
+p8
+aS'cl de'
+p9
+aS'sirop de citrons'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'eau'
+p14
+aaa.

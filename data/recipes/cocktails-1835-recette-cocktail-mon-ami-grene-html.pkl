@@ -1,0 +1,35 @@
+(lp0
+S'Mon ami Gr\xc3\xa8ne'
+p1
+aF4.0
+aI4
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p5
+aS"semences d'anis vert"
+p6
+aa(lp7
+S'6.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p9
+aS'fleurs de lavande'
+p10
+aa(lp11
+S'6.0'
+p12
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p13
+aS'feuilles de menthe'
+p14
+aa(lp15
+S'6.0'
+p16
+aS'cuill\xc3\xa8res \xc3\xa0 soupe'
+p17
+aS'fleurs de camomille'
+p18
+aaa.

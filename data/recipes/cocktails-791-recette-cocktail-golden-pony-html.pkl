@@ -1,0 +1,35 @@
+(lp0
+S'Golden pony'
+p1
+aF2.6
+aI5
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'eau gazeuse (perrier, salvetat)'
+p6
+aa(lp7
+S'0.3'
+p8
+aS'None'
+p9
+aS"jus d'oranges"
+p10
+aa(lp11
+S'0.3'
+p12
+aS'None'
+p13
+aS"liqueur d'abricots (abricot brandy)"
+p14
+aa(lp15
+S'0.4'
+p16
+aS'None'
+p17
+aS'whisky (bourbon, whiskey)'
+p18
+aaa.

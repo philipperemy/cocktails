@@ -1,0 +1,35 @@
+(lp0
+S"Truff'n sky"
+p1
+aF3.0
+aI29
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'cl de'
+p5
+aS'whisky (bourbon, whiskey)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS'sirop de sucre de canne'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'None'
+p13
+aS'citron'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'gramme de'
+p17
+aS'truffe'
+p18
+aaa.

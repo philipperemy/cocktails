@@ -1,0 +1,49 @@
+(lp0
+S'Vin de chicor\xc3\xa9e'
+p1
+aF3.0
+aI29
+a(lp2
+(lp3
+S'0.05'
+p4
+aS'bouteille de'
+p5
+aS'vin blanc'
+p6
+aa(lp7
+S'0.05'
+p8
+aS"verre d'"
+p9
+aS'eau-de-vie'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'None'
+p13
+aS'orange'
+p14
+aa(lp15
+S'0.15'
+p16
+aS'None'
+p17
+aS'clous de girofle'
+p18
+aa(lp19
+S'10.0'
+p20
+aS'grammes de'
+p21
+aS'sucre'
+p22
+aa(lp23
+S'0.1'
+p24
+aS'cl de'
+p25
+aS'chicor\xc3\xa9e'
+p26
+aaa.

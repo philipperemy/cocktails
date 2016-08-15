@@ -1,0 +1,42 @@
+(lp0
+S'Biebertini'
+p1
+aF3.4
+aI13
+a(lp2
+(lp3
+S'2.66666666667'
+p4
+aS'cl de'
+p5
+aS'lait de coco'
+p6
+aa(lp7
+S'2.66666666667'
+p8
+aS'cl de'
+p9
+aS"jus d'ananas"
+p10
+aa(lp11
+S'1.33333333333'
+p12
+aS'cl de'
+p13
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p14
+aa(lp15
+S'0.333333333333'
+p16
+aS'None'
+p17
+aS'banane'
+p18
+aa(lp19
+S'6.66666666667'
+p20
+aS'None'
+p21
+aS'fraises'
+p22
+aaa.

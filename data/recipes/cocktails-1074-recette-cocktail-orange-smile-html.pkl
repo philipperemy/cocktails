@@ -1,0 +1,28 @@
+(lp0
+S'Orange smile'
+p1
+aF3.5
+aI19
+a(lp2
+(lp3
+S'10.0'
+p4
+aS'cl de'
+p5
+aS"jus d'oranges"
+p6
+aa(lp7
+S'6.0'
+p8
+aS'cl de'
+p9
+aS'sirop de grenadine'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'None'
+p13
+aS'oeuf'
+p14
+aaa.

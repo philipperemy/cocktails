@@ -1,0 +1,35 @@
+(lp0
+S'Bavaroise'
+p1
+aF3.3
+aI3
+a(lp2
+(lp3
+S'0.2'
+p4
+aS'trait de'
+p5
+aS'rhum blanc'
+p6
+aa(lp7
+S'0.2'
+p8
+aS'zeste de'
+p9
+aS"vanille, d'amande am\xc3\xa8re et de la muscade"
+p10
+aa(lp11
+S'0.8'
+p12
+aS'cl de'
+p13
+aS'bananes'
+p14
+aa(lp15
+S'0.04'
+p16
+aS'bouteille de'
+p17
+aS'lait concentr\xc3\xa9 sucr\xc3\xa9'
+p18
+aaa.

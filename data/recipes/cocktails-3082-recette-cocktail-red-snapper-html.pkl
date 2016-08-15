@@ -1,0 +1,63 @@
+(lp0
+S'Red snapper'
+p1
+aF2.8
+aI23
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'poivre'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'sel'
+p10
+aa(lp11
+S'None'
+p12
+aS'None'
+p13
+aS'sel de celeri'
+p14
+aa(lp15
+S'2.0'
+p16
+aS'gouttes de'
+p17
+aS'tabasco'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'sauce worcestershire'
+p22
+aa(lp23
+S'12.0'
+p24
+aS'cl de'
+p25
+aS'jus de tomates'
+p26
+aa(lp27
+S'0.5'
+p28
+aS'cl de'
+p29
+aS'jus de citrons'
+p30
+aa(lp31
+S'4.0'
+p32
+aS'cl de'
+p33
+aS'gin'
+p34
+aaa.

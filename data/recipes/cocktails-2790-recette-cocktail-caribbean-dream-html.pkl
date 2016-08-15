@@ -1,0 +1,42 @@
+(lp0
+S'Caribbean Dream'
+p1
+aF3.5
+aI33
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'rhum cubain'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'cr\xc3\xa8me de whisky (baileys)'
+p10
+aa(lp11
+S'2.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de menthe verte (get 27)'
+p14
+aa(lp15
+S'20.0'
+p16
+aS'cl de'
+p17
+aS'lait'
+p18
+aa(lp19
+S'2.0'
+p20
+aS'cl de'
+p21
+aS'chocolat en poudre'
+p22
+aaa.

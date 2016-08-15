@@ -1,0 +1,35 @@
+(lp0
+S'Coffee smile'
+p1
+aF2.7
+aI3
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cr\xc3\xa8me chantilly'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'cl de'
+p9
+aS'sucre roux (cassonade)'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de cacao brun'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'tasse de'
+p17
+aS'caf\xc3\xa9'
+p18
+aaa.

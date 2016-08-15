@@ -1,0 +1,42 @@
+(lp0
+S'Caf\xc3\xa9 chocolat'
+p1
+aF2.8
+aI5
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'cr\xc3\xa8me chantilly'
+p6
+aa(lp7
+S'166.666666667'
+p8
+aS'grammes de'
+p9
+aS'caf\xc3\xa9 en poudre'
+p10
+aa(lp11
+S'66.6666666667'
+p12
+aS'grammes de'
+p13
+aS'chocolat en poudre'
+p14
+aa(lp15
+S'16.6666666667'
+p16
+aS"cl d'"
+p17
+aS'eau'
+p18
+aa(lp19
+S'0.333333333333'
+p20
+aS"sachet d'"
+p21
+aS'aspartame'
+p22
+aaa.

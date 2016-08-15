@@ -1,0 +1,35 @@
+(lp0
+S'Caf\xc3\xa9 special'
+p1
+aF3.2
+aI58
+a(lp2
+(lp3
+S'2.0'
+p4
+aS'cl de'
+p5
+aS'licor 43'
+p6
+aa(lp7
+S'125.0'
+p8
+aS"ml d'un"
+p9
+aS'caf\xc3\xa9'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"cl d'"
+p13
+aS'amaretto'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'cr\xc3\xa8me chantilly'
+p18
+aaa.

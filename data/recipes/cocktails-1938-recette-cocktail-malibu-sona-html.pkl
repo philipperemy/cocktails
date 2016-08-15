@@ -1,0 +1,28 @@
+(lp0
+S'Malibu So\xc3\xb1a'
+p1
+aF4.0
+aI1
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'sirop de bananes'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS"jus d'ananas"
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'liqueur de coco (cocogif, malibu)'
+p14
+aaa.

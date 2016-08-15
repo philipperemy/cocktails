@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de farigoule'
+p1
+aF3.1
+aI11
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'thym'
+p6
+aa(lp7
+S'10.0'
+p8
+aS'grammes de'
+p9
+aS'sucre'
+p10
+aa(lp11
+S'2.5'
+p12
+aS"cl d'"
+p13
+aS'eau'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'alcool \xc3\xa0 85\xc2\xb0'
+p18
+aaa.

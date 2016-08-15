@@ -1,0 +1,42 @@
+(lp0
+S'Buffle'
+p1
+aF3.2
+aI64
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'cl de'
+p5
+aS'tequila'
+p6
+aa(lp7
+S'None'
+p8
+aS'None'
+p9
+aS'tonic (schweppes)'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'morceau de'
+p13
+aS'citrons'
+p14
+aa(lp15
+S'None'
+p16
+aS'None'
+p17
+aS'sel'
+p18
+aa(lp19
+S'None'
+p20
+aS'None'
+p21
+aS'tabasco'
+p22
+aaa.

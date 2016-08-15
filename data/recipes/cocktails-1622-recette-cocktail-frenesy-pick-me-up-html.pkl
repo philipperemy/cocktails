@@ -1,0 +1,56 @@
+(lp0
+S'Frenesy pick me up'
+p1
+aF3.0
+aI3
+a(lp2
+(lp3
+S'1.0'
+p4
+aS"jaune d'"
+p5
+aS'oeufs'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de l\xc3\xa9gumes'
+p10
+aa(lp11
+S'3.0'
+p12
+aS'cl de'
+p13
+aS'vodka'
+p14
+aa(lp15
+S'0.5'
+p16
+aS'cl de'
+p17
+aS'jus de citrons'
+p18
+aa(lp19
+S'0.5'
+p20
+aS'cl de'
+p21
+aS'sauce anglaise'
+p22
+aa(lp23
+S'0.5'
+p24
+aS'cuill\xc3\xa8re de'
+p25
+aS'sucre'
+p26
+aa(lp27
+S'5.0'
+p28
+aS'feuilles de'
+p29
+aS'basilic'
+p30
+aaa.

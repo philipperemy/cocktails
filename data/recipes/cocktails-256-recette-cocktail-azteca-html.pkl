@@ -1,0 +1,35 @@
+(lp0
+S'Azteca'
+p1
+aF2.3
+aI4
+a(lp2
+(lp3
+S'4.0'
+p4
+aS'cl de'
+p5
+aS'tequila'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'cl de'
+p9
+aS'jus de citrons verts'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'cuill\xc3\xa8re \xc3\xa0 caf\xc3\xa9 de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'1.0'
+p16
+aS'morceau de'
+p17
+aS'mangues'
+p18
+aaa.

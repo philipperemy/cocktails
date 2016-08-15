@@ -1,0 +1,49 @@
+(lp0
+S'Liqueur de coriandre'
+p1
+aF1.5
+aI2
+a(lp2
+(lp3
+S'1.5'
+p4
+aS'grammes de graines de'
+p5
+aS'coriandre'
+p6
+aa(lp7
+S'0.05'
+p8
+aS'None'
+p9
+aS'clous de girofle'
+p10
+aa(lp11
+S'0.05'
+p12
+aS'pinc\xc3\xa9e de'
+p13
+aS'cannelle'
+p14
+aa(lp15
+S'0.05'
+p16
+aS"litre d'"
+p17
+aS'alcool \xc3\xa0 90\xc2\xb0'
+p18
+aa(lp19
+S'0.05'
+p20
+aS"litre d'"
+p21
+aS'eau'
+p22
+aa(lp23
+S'37.5'
+p24
+aS'grammes de'
+p25
+aS'sucre'
+p26
+aaa.

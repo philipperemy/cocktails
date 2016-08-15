@@ -1,0 +1,28 @@
+(lp0
+S'Fant\xc3\xb4me'
+p1
+aF2.9
+aI7
+a(lp2
+(lp3
+S'0.2'
+p4
+aS"d'"
+p5
+aS'eau-de-vie de poires williams'
+p6
+aa(lp7
+S'0.8'
+p8
+aS'de'
+p9
+aS'vin blanc'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'cuill\xc3\xa8re de'
+p13
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p14
+aaa.

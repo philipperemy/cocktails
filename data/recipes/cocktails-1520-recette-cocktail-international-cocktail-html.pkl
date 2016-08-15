@@ -1,0 +1,35 @@
+(lp0
+S'International Cocktail'
+p1
+aF4.4
+aI7
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'cl de'
+p5
+aS'gin'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cl de'
+p9
+aS"sirop d'ananas"
+p10
+aa(lp11
+S'4.0'
+p12
+aS'cl de'
+p13
+aS'chartreuse verte'
+p14
+aa(lp15
+S'4.0'
+p16
+aS'cl de'
+p17
+aS'cognac'
+p18
+aaa.

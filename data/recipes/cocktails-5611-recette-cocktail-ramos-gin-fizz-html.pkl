@@ -1,0 +1,70 @@
+(lp0
+S'Ramos Gin Fizz'
+p1
+aF3.0
+aI62
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'eau gazeuse (perrier, salvetat)'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"trait d'"
+p9
+aS'extrait de vanille'
+p10
+aa(lp11
+S'1.0'
+p12
+aS"trait d'"
+p13
+aS"eau de fleur d'oranger"
+p14
+aa(lp15
+S'3.0'
+p16
+aS'cl de'
+p17
+aS'cr\xc3\xa8me fra\xc3\xaeche liquide'
+p18
+aa(lp19
+S'1.0'
+p20
+aS"blanc d'"
+p21
+aS'oeufs'
+p22
+aa(lp23
+S'1.5'
+p24
+aS'cl de'
+p25
+aS'sirop de sucre de canne'
+p26
+aa(lp27
+S'1.5'
+p28
+aS'cl de'
+p29
+aS'jus de citrons verts'
+p30
+aa(lp31
+S'1.5'
+p32
+aS'cl de'
+p33
+aS'jus de citrons'
+p34
+aa(lp35
+S'6.0'
+p36
+aS'cl de'
+p37
+aS'gin'
+p38
+aaa.

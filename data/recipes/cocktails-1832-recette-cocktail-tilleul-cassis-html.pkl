@@ -1,0 +1,21 @@
+(lp0
+S'Tilleul-cassis'
+p1
+aF3.0
+aI1
+a(lp2
+(lp3
+S'0.75'
+p4
+aS'sachets de'
+p5
+aS'tilleul'
+p6
+aa(lp7
+S'2.5'
+p8
+aS'cl de'
+p9
+aS'sirop de cassis'
+p10
+aaa.

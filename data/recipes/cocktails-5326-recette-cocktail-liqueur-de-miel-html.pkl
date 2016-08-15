@@ -1,0 +1,49 @@
+(lp0
+S'Liqueur de miel'
+p1
+aF3.4
+aI5
+a(lp2
+(lp3
+S'0.0666666666667'
+p4
+aS'None'
+p5
+aS'citron'
+p6
+aa(lp7
+S'0.0666666666667'
+p8
+aS'None'
+p9
+aS'orange'
+p10
+aa(lp11
+S'0.266666666667'
+p12
+aS'None'
+p13
+aS'clous de girofle'
+p14
+aa(lp15
+S'3.33333333333'
+p16
+aS'cl de'
+p17
+aS'vodka'
+p18
+aa(lp19
+S'33.3333333333'
+p20
+aS'grammes de'
+p21
+aS'sirop de miel'
+p22
+aa(lp23
+S'3.33333333333'
+p24
+aS"cl d'"
+p25
+aS'eau'
+p26
+aaa.

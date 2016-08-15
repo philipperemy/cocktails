@@ -1,0 +1,21 @@
+(lp0
+S'Le grog des montagnes'
+p1
+aF3.9
+aI15
+a(lp2
+(lp3
+S'5.0'
+p4
+aS'None'
+p5
+aS'feuilles de verveine'
+p6
+aa(lp7
+S'1.0'
+p8
+aS'cuill\xc3\xa8res \xc3\xa0 caf\xc3\xa9 de'
+p9
+aS'liqueur de verveine'
+p10
+aaa.

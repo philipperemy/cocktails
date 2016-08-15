@@ -1,0 +1,35 @@
+(lp0
+S'Liqueur de cl\xc3\xa9mentine'
+p1
+aF3.3
+aI16
+a(lp2
+(lp3
+S'0.2'
+p4
+aS'None'
+p5
+aS'cl\xc3\xa9mentines'
+p6
+aa(lp7
+S'0.025'
+p8
+aS"litre d'"
+p9
+aS'eau-de-vie'
+p10
+aa(lp11
+S'12.5'
+p12
+aS'grammes de'
+p13
+aS'sucre'
+p14
+aa(lp15
+S'0.0125'
+p16
+aS"litre d'"
+p17
+aS'eau'
+p18
+aaa.

@@ -1,0 +1,21 @@
+(lp0
+S'Jaune contre jaune'
+p1
+aF3.7
+aI18
+a(lp2
+(lp3
+S'3.0'
+p4
+aS'None'
+p5
+aS'citrons'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aaa.

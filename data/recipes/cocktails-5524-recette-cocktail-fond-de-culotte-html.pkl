@@ -1,0 +1,21 @@
+(lp0
+S'Fond de culotte'
+p1
+aF3.0
+aI13
+a(lp2
+(lp3
+S'9.0'
+p4
+aS'cl de'
+p5
+aS'liqueur de gentiane'
+p6
+aa(lp7
+S'3.0'
+p8
+aS'cl de'
+p9
+aS'sirop de cassis'
+p10
+aaa.

@@ -1,0 +1,28 @@
+(lp0
+S"Sirop d'oranges"
+p1
+aF3.7
+aI67
+a(lp2
+(lp3
+S'14.0'
+p4
+aS'None'
+p5
+aS'oranges'
+p6
+aa(lp7
+S'1.0'
+p8
+aS"litre d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'1.0'
+p12
+aS'kilo de'
+p13
+aS'sucre'
+p14
+aaa.

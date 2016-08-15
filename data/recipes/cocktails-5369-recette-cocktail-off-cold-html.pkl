@@ -1,0 +1,21 @@
+(lp0
+S'Off Cold'
+p1
+aF2.5
+aI2
+a(lp2
+(lp3
+S'15.0'
+p4
+aS'cl de'
+p5
+aS'champagne'
+p6
+aa(lp7
+S'2.0'
+p8
+aS'morceaux de'
+p9
+aS'sucre'
+p10
+aaa.

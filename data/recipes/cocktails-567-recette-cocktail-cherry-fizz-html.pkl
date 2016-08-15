@@ -1,0 +1,28 @@
+(lp0
+S'Cherry fizz'
+p1
+aF3.5
+aI2
+a(lp2
+(lp3
+S'None'
+p4
+aS'None'
+p5
+aS'limonade (soda, sprite, 7up)'
+p6
+aa(lp7
+S'6.0'
+p8
+aS'cl de'
+p9
+aS'liqueur de cerises (cherry brandy)'
+p10
+aa(lp11
+S'0.5'
+p12
+aS'jus'
+p13
+aS'citrons'
+p14
+aaa.

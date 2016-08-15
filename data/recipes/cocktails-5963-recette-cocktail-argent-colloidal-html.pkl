@@ -1,0 +1,14 @@
+(lp0
+S'Argent collo\xc3\xafdal'
+p1
+aF4.7
+aI3
+a(lp2
+(lp3
+S'5.0'
+p4
+aS"litres d'"
+p5
+aS'eau distill\xc3\xa9e'
+p6
+aaa.

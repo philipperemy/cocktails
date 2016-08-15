@@ -1,0 +1,28 @@
+(lp0
+S'Vinaigre de framboise'
+p1
+aF3.5
+aI23
+a(lp2
+(lp3
+S'50.0'
+p4
+aS'grammes de'
+p5
+aS'sucre'
+p6
+aa(lp7
+S'0.2'
+p8
+aS"litres d'"
+p9
+aS'eau'
+p10
+aa(lp11
+S'40.0'
+p12
+aS'grammes de'
+p13
+aS'framboises'
+p14
+aaa.

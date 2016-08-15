@@ -1,0 +1,21 @@
+(lp0
+S'Sour vodka'
+p1
+aF3.7
+aI3
+a(lp2
+(lp3
+S'0.5'
+p4
+aS'once'
+p5
+aS'vodka'
+p6
+aa(lp7
+S'0.5'
+p8
+aS'once'
+p9
+aS'sour power'
+p10
+aaa.
