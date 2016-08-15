@@ -95,7 +95,8 @@ def get_recipe_and_rating(urls, handler=None):
     if not os.path.exists('data/recipes'):
         os.makedirs('data/recipes')
     for i, url in enumerate(urls):
-        print('{}/{}'.format(i, len(urls)))
+        if i % 1000 == 0:
+            print('{}/{}'.format(i, len(urls)))
         cocktail_pickle = 'data/recipes/{}.pkl'.format(slugify(url))
         if os.path.isfile(cocktail_pickle):
             recipe = pickle.load(open(cocktail_pickle, 'r'))
@@ -131,7 +132,7 @@ def get_recipe_and_rating(urls, handler=None):
             structured_ingredients = [[unicode(e).encode('utf-8') for e in v] for v in structured_ingredients]
             recipe = [name, rating_value, rating_count, structured_ingredients]
             pickle.dump(recipe, open(cocktail_pickle, 'w'))
-        print(recipe)
+        # print(recipe)
         if handler is not None:
             handler(recipe)
         else:
@@ -206,7 +207,7 @@ def show_most_information_features(instance, n):
                (fname.decode('utf-8'), fval, ("%s" % l1)[:6], ("%s" % l0)[:6], ratio)))
 
 
-def filter_line(line, tuple_length=2):
+def filter_line_aux(line, tuple_length=2):
     elements = line.split('.')
     new_elements = []
     for elt in elements:
@@ -219,10 +220,21 @@ def filter_line(line, tuple_length=2):
             new_element.append(split_elt)
         new_elements.append(new_element)
     new_str = ' '.join(['_'.join(v) for v in new_elements])
-    return ' '.join(['_'.join(v) for v in set(itertools.permutations(new_str.split(), tuple_length))])
+    return ' '.join(['+'.join(sorted(v)) for v in set(itertools.combinations(new_str.split(), tuple_length))])
+
+
+def filter_line(line, tuple_length=2):
+    out = ''
+    for i in range(1, tuple_length + 1, 1):
+        out += filter_line_aux(line, tuple_length=i) + ' '
+    return out
 
 
 if __name__ == '__main__':
-    urls = get_cocktail_list()
-    recipes = get_recipe_and_rating(urls)
-    print(recipes)
+    print(filter_line('A. B. C.', tuple_length=3))
+    print(filter_line('C. B. A.', tuple_length=3))
+    # B_C A_B A_C - must be the same.
+    # A_B A_C B_C
+    # urls = get_cocktail_list()
+    # recipes = get_recipe_and_rating(urls)
+    # print(recipes)

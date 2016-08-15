@@ -9,14 +9,18 @@ import numpy as np
 
 from utils import *
 
+NEG_FILE = 'data/neg.txt'
+POS_FILE = 'data/pos.txt'
+TUPLE_LENGTH = 3
 
-def read_and_write(filename):
+
+def read_and_write(filename, tuple_length=2):
     lines = []
     with open(filename, 'r') as r:
         lines.extend(r.readlines())
     with open(filename + '.w', 'a') as w:
         for line in lines:
-            w.write(filter_line(line))
+            w.write(filter_line(line, tuple_length=tuple_length))
             w.write('\n')
 
 
@@ -29,6 +33,13 @@ def write_to_file(name, line, decode=True):
         f.write('\n')
 
 
+def remove_if_any(filename):
+    try:
+        os.remove(filename)
+    except OSError:
+        pass
+
+
 if __name__ == '__main__':
     urls = get_cocktail_list()
     recipes = get_recipe_and_rating(urls)
@@ -39,25 +50,24 @@ if __name__ == '__main__':
     labels = np.array([v[1] for v in recipes])
     mean_label = np.mean(labels.flatten())
 
-    os.remove('good.txt')
-    os.remove('bad.txt')
+    remove_if_any(POS_FILE)
+    remove_if_any(NEG_FILE)
 
     for i in range((len(labels))):
         if labels[i] > mean_label:
-            write_to_file('good.txt', descriptions[i])
+            write_to_file(POS_FILE, descriptions[i])
         else:
-            write_to_file('bad.txt', descriptions[i])
+            write_to_file(NEG_FILE, descriptions[i])
 
-    for filename in ['good.txt', 'bad.txt']:
-        bash_command = "sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g' {0:} > {0:}.2".format(
+    for filename in [POS_FILE, NEG_FILE]:
+        bash_command = "sed 's/[àâä]/a/g; s/[ÀÂÄ]/A/g; s/[éèêë]/e/g; s/[ÉÈÊË]/E/g; s/[îï]/i/g; s/[ÎÏ]/I/g; s/[ôö]/o/g; s/[ÖÔ]/O/g; s/[ûüù]/u/g; s/[ÛÜÙ]/U/g; s/ç/c/g; s/Ç/C/g; s/°/o/g; s/Ã©/e/g' {0:} > {0:}.2".format(
             filename)
         print('executing {}'.format(bash_command))
-        process = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE)
+        process = subprocess.Popen(bash_command, stdout=subprocess.PIPE, shell=True)
         output = process.communicate()[0]
         print(output)
 
-        os.remove('{}.2.w'.format(filename))
-        read_and_write('{}.2'.format(filename))
-
-    os.remove('good.txt.2')
-    os.remove('bad.txt.2')
+        remove_if_any('{}.2.w'.format(filename))
+        read_and_write('{}.2'.format(filename), tuple_length=TUPLE_LENGTH)
+        remove_if_any('{}.2'.format(filename))
+        os.rename('{}.2.w'.format(filename), filename)
