@@ -67,7 +67,10 @@ if __name__ == '__main__':
         output = process.communicate()[0]
         print(output)
 
-        remove_if_any('{}.2.w'.format(filename))
-        read_and_write('{}.2'.format(filename), tuple_length=TUPLE_LENGTH)
-        remove_if_any('{}.2'.format(filename))
-        os.rename('{}.2.w'.format(filename), filename)
+        if TUPLE_LENGTH > 1:
+            remove_if_any('{}.2.w'.format(filename))
+            read_and_write('{}.2'.format(filename), tuple_length=TUPLE_LENGTH)
+            remove_if_any('{}.2'.format(filename))
+            os.rename('{}.2.w'.format(filename), filename)
+        else:
+            os.rename('{}.2'.format(filename), filename + '.raw')

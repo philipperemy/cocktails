@@ -80,7 +80,7 @@ def evaluate_features(feature_select):
     # prints metrics to show how well the feature selection did
     print 'train on %d instances, test on %d instances' % (len(trainFeatures), len(testFeatures))
     print 'accuracy:', nltk.classify.util.accuracy(classifier, testFeatures)
-    show_most_information_features(classifier, 30)
+    show_most_information_features(classifier, 60)
 
 
 # creates a feature selection mechanism that uses all words
