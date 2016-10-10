@@ -1,17 +1,24 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-from __future__ import print_function
-
+import collections
 import itertools
+import math
 import os
 import pickle
 import re
 from string import ascii_uppercase
 
+import nltk
+import nltk.classify.util
+import nltk.metrics
 import requests
 from bs4 import BeautifulSoup
+from nltk.classify import NaiveBayesClassifier
+from nltk.metrics import BigramAssocMeasures
+from nltk.probability import FreqDist, ConditionalFreqDist
 from slugify import slugify
+
+NEG_FILE = 'data/neg.txt'
+POS_FILE = 'data/pos.txt'
+TUPLE_LENGTH = 10
 
 
 def adjust_quantity_with_number_of_people(quantity, num_people):
@@ -24,7 +31,7 @@ def adjust_quantity_with_number_of_people(quantity, num_people):
 
 def convert_to_float(number_str):
     # http://stackoverflow.com/questions/1806278/convert-fraction-to-float
-    number_str = number_str.strip().lower().replace(',', '.').encode('ascii', 'ignore').replace('  ', '-')
+    number_str = number_str.strip().lower().replace(',', '.').replace('  ', '-')
     if '%' in number_str:
         number_str = number_str.replace('%', '')
         return float(number_str) * 0.01
@@ -73,6 +80,12 @@ def convert_to_float(number_str):
             split_num = number_str.split('ou')
             return 0.5 * float(split_num[1]) + 0.5 * float(split_num[0])
 
+        if '½' in number_str:
+            return float(number_str[0]) + 0.5
+
+        if 'à' in number_str:
+            return float(number_str.split(' ')[0])
+
         print(number_str)
         num, denom = number_str.split('/')
         try:
@@ -84,12 +97,6 @@ def convert_to_float(number_str):
         return whole - frac if whole < 0 else whole + frac
 
 
-def clean_html(raw_html):
-    clean_r = re.compile('<.*?>')
-    clean_text = re.sub(clean_r, '', raw_html)
-    return clean_text
-
-
 def get_recipe_and_rating(urls, handler=None):
     recipes = []
     if not os.path.exists('data/recipes'):
@@ -99,7 +106,8 @@ def get_recipe_and_rating(urls, handler=None):
             print('{}/{}'.format(i, len(urls)))
         cocktail_pickle = 'data/recipes/{}.pkl'.format(slugify(url))
         if os.path.isfile(cocktail_pickle):
-            recipe = pickle.load(open(cocktail_pickle, 'r'))
+            print('Found it ' + cocktail_pickle)
+            recipe = pickle.load(open(cocktail_pickle, 'rb'))
             # recipe = None # - faster results but does not return anything.
         else:
             # factorize the code
@@ -123,15 +131,15 @@ def get_recipe_and_rating(urls, handler=None):
             structured_ingredients = []
             for content in ingredients:
                 # if we have 1/4 => 0.25
-                raw_quantity = convert_to_float(unicode(content[0].string))
+                raw_quantity = convert_to_float(content[0].string)
                 # we divide quantity per number of people.
                 quantity = adjust_quantity_with_number_of_people(raw_quantity, for_how_many_people)
                 unit = content[1].string
                 ingredient = content[3].string
                 structured_ingredients.append([quantity, unit, ingredient])
-            structured_ingredients = [[unicode(e).encode('utf-8') for e in v] for v in structured_ingredients]
-            recipe = [name, rating_value, rating_count, structured_ingredients]
-            pickle.dump(recipe, open(cocktail_pickle, 'w'))
+            structured_ingredients = [[str(e) for e in v] for v in structured_ingredients]
+            recipe = [str(name), rating_value, rating_count, structured_ingredients]
+            pickle.dump(recipe, open(cocktail_pickle, 'wb'))
         # print(recipe)
         if handler is not None:
             handler(recipe)
@@ -182,31 +190,6 @@ def get_cocktail_list():
     return cocktail_set
 
 
-def show_most_information_features(instance, n):
-    # Determine the most relevant features, and display them.
-    cpdist = instance._feature_probdist
-    print('Most Informative Features')
-
-    for (fname, fval) in instance.most_informative_features(n):
-        def labelprob(l):
-            return cpdist[l, fname].prob(fval)
-
-        labels = sorted([l for l in instance._labels
-                         if fval in cpdist[l, fname].samples()],
-                        key=labelprob)
-        if len(labels) == 1:
-            continue
-        l0 = labels[0]
-        l1 = labels[-1]
-        if cpdist[l0, fname].prob(fval) == 0:
-            ratio = 'INF'
-        else:
-            ratio = '%8.1f' % (cpdist[l1, fname].prob(fval) /
-                               cpdist[l0, fname].prob(fval))
-        print(('%24s = %-14r %6s : %-6s = %s : 1.0' %
-               (fname.decode('utf-8'), fval, ("%s" % l1)[:6], ("%s" % l0)[:6], ratio)))
-
-
 def filter_line_aux(line, tuple_length=2):
     elements = line.split('.')
     new_elements = []
@@ -228,6 +211,148 @@ def filter_line(line, tuple_length=2):
     for i in range(1, tuple_length + 1, 1):
         out += filter_line_aux(line, tuple_length=i) + ' '
     return out
+
+
+def remove_if_any(filename):
+    try:
+        os.remove(filename)
+    except OSError:
+        pass
+
+
+def show_statistics():
+    import matplotlib.pyplot as plt
+    import numpy as np
+    import scipy.stats as ss
+    urls = get_cocktail_list()
+    recipes = get_recipe_and_rating(urls)
+    plt.hist([float(v[1]) for v in recipes], bins=20)
+    plt.title('Distribution of the ratings')
+    plt.ylabel('Ratings')
+    plt.show()
+
+    a = np.array([float(v[1]) for v in recipes])
+    print(ss.kurtosis(a))
+    print(ss.skew(a))
+    print(np.mean(a))
+
+
+def read_and_write(input_filename, output_filename, tuple_length=2):
+    lines = []
+    with open(input_filename, 'r') as r:
+        lines.extend(r.readlines())
+    with open(output_filename, 'w') as w:
+        for line in lines:
+            w.write(filter_line(line, tuple_length=tuple_length))
+            w.write('\n')
+
+
+def write_to_file(name, line):
+    with open(name, 'a') as f:
+        f.write(line)
+        f.write('\n')
+        f.flush()
+
+
+# this function takes a feature selection mechanism and returns its performance in a variety of metrics
+def evaluate_features(feature_select, best_words):
+    posFeatures = []
+    negFeatures = []
+    # http://stackoverflow.com/questions/367155/splitting-a-string-into-words-and-punctuation
+    # breaks up the sentences into lists of individual words (as selected by the input mechanism) and appends 'pos' or 'neg' after each list
+    with open(POS_FILE, 'r') as posSentences:
+        for i in posSentences:
+            posWords = i.strip().split()
+            posWords = [feature_select(posWords, best_words), 'pos']
+            posFeatures.append(posWords)
+    with open(NEG_FILE, 'r') as negSentences:
+        for i in negSentences:
+            negWords = i.strip().split()
+            negWords = [feature_select(negWords, best_words), 'neg']
+            negFeatures.append(negWords)
+
+    # selects 3/4 of the features to be used for training and 1/4 to be used for testing
+    posCutoff = int(math.floor(len(posFeatures) * 3 / 4))
+    negCutoff = int(math.floor(len(negFeatures) * 3 / 4))
+    trainFeatures = posFeatures[:posCutoff] + negFeatures[:negCutoff]
+    testFeatures = posFeatures[posCutoff:] + negFeatures[negCutoff:]
+
+    # trains a Naive Bayes Classifier
+    classifier = NaiveBayesClassifier.train(trainFeatures)
+
+    # initiates referenceSets and testSets
+    referenceSets = collections.defaultdict(set)
+    testSets = collections.defaultdict(set)
+
+    # puts correctly labeled sentences in referenceSets and the predictively labeled version in testsets
+    for i, (features, label) in enumerate(testFeatures):
+        referenceSets[label].add(i)
+        predicted = classifier.classify(features)
+        testSets[predicted].add(i)
+
+    # prints metrics to show how well the feature selection did
+    print('train on %d instances, test on %d instances' % (len(trainFeatures), len(testFeatures)))
+    print('accuracy:', nltk.classify.util.accuracy(classifier, testFeatures))
+    classifier.show_most_informative_features(10)
+
+
+# creates a feature selection mechanism that uses all words
+def make_full_dict(words, not_used=None):
+    return dict([(word, True) for word in words])
+
+
+# scores words based on chi-squared test to show information gain (http://streamhacker.com/2010/06/16/text-classification-sentiment-analysis-eliminate-low-information-features/)
+def create_word_scores():
+    # creates lists of all positive and negative words
+    posWords = []
+    negWords = []
+    with open(POS_FILE, 'r') as posSentences:
+        for i in posSentences:
+            posWord = i.strip().split()
+            posWords.append(posWord)
+    with open(NEG_FILE, 'r') as negSentences:
+        for i in negSentences:
+            negWord = i.strip().split()
+            negWords.append(negWord)
+    posWords = list(itertools.chain(*posWords))
+    negWords = list(itertools.chain(*negWords))
+
+    # build frequency distibution of all words and then frequency distributions of words within positive and negative labels
+    word_fd = FreqDist()
+    cond_word_fd = ConditionalFreqDist()
+    for word in posWords:
+        word_fd[word.lower()] += 1
+        cond_word_fd['pos'][word.lower()] += 1
+    for word in negWords:
+        word_fd[word.lower()] += 1
+        cond_word_fd['neg'][word.lower()] += 1
+
+    # finds the number of positive and negative words, as well as the total number of words
+    pos_word_count = cond_word_fd['pos'].N()
+    neg_word_count = cond_word_fd['neg'].N()
+    total_word_count = pos_word_count + neg_word_count
+
+    # builds dictionary of word scores based on chi-squared test
+    word_scores = {}
+    for word, freq in word_fd.items():
+        pos_score = BigramAssocMeasures.chi_sq(cond_word_fd['pos'][word], (freq, pos_word_count), total_word_count)
+        neg_score = BigramAssocMeasures.chi_sq(cond_word_fd['neg'][word], (freq, neg_word_count), total_word_count)
+        word_scores[word] = pos_score + neg_score
+
+    return word_scores
+
+
+# finds the best 'number' words based on word scores
+def find_best_words(word_scores, number):
+    # best_vals = sorted(word_scores.items(), key=lambda (w, s): s, reverse=True)[:number]
+    best_vals = sorted(word_scores.items(), key=lambda w_s: w_s[1], reverse=True)[:number]
+    best_words = set([w for w, s in best_vals])
+    return best_words
+
+
+# creates feature selection mechanism that only uses best words
+def best_word_features(words, best_words):
+    return dict([(word, True) for word in words if word in best_words])
 
 
 if __name__ == '__main__':
