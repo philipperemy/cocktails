@@ -106,7 +106,7 @@ def get_recipe_and_rating(urls, handler=None):
             print('{}/{}'.format(i, len(urls)))
         cocktail_pickle = 'data/recipes/{}.pkl'.format(slugify(url))
         if os.path.isfile(cocktail_pickle):
-            print('Found it ' + cocktail_pickle)
+            # print('Found it ' + cocktail_pickle)
             recipe = pickle.load(open(cocktail_pickle, 'rb'))
             # recipe = None # - faster results but does not return anything.
         else:
